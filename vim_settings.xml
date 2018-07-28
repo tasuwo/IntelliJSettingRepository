@@ -1,0 +1,87 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/web_minutes/src/Template/Items/edit.ctp" timestamp="1510147983049">
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="78" column="7" />
+        <mark key="^" line="85" column="44" />
+        <mark key="." line="78" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/pom.xml" timestamp="1499478781787">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/web_minutes/src/Template/Element/checkboxForm.ctp" timestamp="1510147966703">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="47" />
+        <mark key="^" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/workspace/java/sample/src/com/company/Main.java" timestamp="1512181038195">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJHRoaXMtPmVsZW1lbnQoJ2NoZWNrYm94Rm9ybScsIFsKICAgICAgICAgICAgICAgICAgICAnbmFtZScgPT4gJ3Byb2plY3RzX3VzZXJzLl9pZHMnLAogICAgICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gJ+aLheW9k+iAhSA6ICcsCiAgICAgICAgICAgICAgICAgICAgJ2NsYXNzZXMnID0+ICdhZGQtaXRlbScsCiAgICAgICAgICAgICAgICAgICAgJ2Zvcm0nID0+ICR0aGlzLT5Gb3JtLAogICAgICAgICAgICAgICAgICAgICdvcHRpb25zJyA9PiAkdXNlcnNfYXJyYXksCiAgICAgICAgICAgICAgICAgICAgJ2RlZmF1bHQnID0+ICRjaGVja2VkX3VzZXJzX2FycmF5LAogICAgICAgICAgICAgICAgXSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8P3BocAogICAgICAgICAgICBpZiAoISRpdGVtLT5pc19mb2xsb3dlZCkgewogICAgICAgICAgICAgICAgZWNobyAkdGhpcy0+ZWxlbWVudCgnY2hlY2tib3hGb3JtJywgWwogICAgICAgICAgICAgICAgICAgICduYW1lJyA9PiAncHJvamVjdHNfdXNlcnMuX2lkcycsCiAgICAgICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiAn5ouF5b2T6ICFIDogJywKICAgICAgICAgICAgICAgICAgICAnY2xhc3NlcycgPT4gJ2FkZC1pdGVtJywKICAgICAgICAgICAgICAgICAgICAnZm9ybScgPT4gJHRoaXMtPkZvcm0sCiAgICAgICAgICAgICAgICAgICAgJ29wdGlvbnMnID0+ICR1c2Vyc19hcnJheSwKICAgICAgICAgICAgICAgICAgICAnZGVmYXVsdCcgPT4gJGNoZWNrZWRfdXNlcnNfYXJyYXksCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQogICAgICAgID8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgPHByb3BlcnRpZXM+CiAgPC9wcm9wZXJ0aWVzPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxtYXZlbi5jb21waWxlci5zb3VyY2U+MS44PC9tYXZlbi5jb21waWxlci5zb3VyY2U+CiAgICA8bWF2ZW4uY29tcGlsZXIudGFyZ2V0PjEuODwvbWF2ZW4uY29tcGlsZXIudGFyZ2V0PgogICAgPGphY2tzb24udmVyc2lvbj4yLjguNTwvamFja3Nvbi52ZXJzaW9uPgogICAgPHNwYXJrLnZlcnNpb24+Mi41LjM8L3NwYXJrLnZlcnNpb24+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
