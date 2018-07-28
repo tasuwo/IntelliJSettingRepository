@@ -149,10 +149,10 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/avex/AvexGeneralTrack.java" timestamp="1532504245861">
         <mark key="'" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/test/java/com/tasuwo/AppTest.java" timestamp="1532744246733">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/test/java/com/tasuwo/AppTest.java" timestamp="1532746485072">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
         <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/BaseBundleMetaMenuPage.java" timestamp="1532498199024">
@@ -244,7 +244,7 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/amuse/AmuseGeneralTrack.java" timestamp="1532504122722">
         <mark key="'" line="34" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/main/java/com/tasuwo/App.java" timestamp="1532744551107">
+      <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/main/java/com/tasuwo/App.java" timestamp="1532746133264">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -570,6 +570,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
