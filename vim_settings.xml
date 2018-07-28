@@ -244,6 +244,11 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/amuse/AmuseGeneralTrack.java" timestamp="1532504122722">
         <mark key="'" line="34" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/main/java/com/tasuwo/App.java" timestamp="1532744551107">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" timestamp="1532679157516">
         <mark key="'" line="254" column="77" />
         <mark key="[" line="259" column="0" />
@@ -280,6 +285,9 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1532744526282">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/yoshimoto-delivery/src/main/java/jp/co/dwango/ddex/yoshimoto_delivery/DeliveryMessageFactory.java" timestamp="1531894839509">
         <mark key="'" line="14" column="13" />
@@ -467,34 +475,34 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GIIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIodGhpcy5nZXRDbGFzcygpKTsKICAgICAgICBsb2dnZXIuaW5mbyhjdXJyZW50VGltZS50b1N0cmluZygpKTsKICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0u4oiP4oiP4oiP4oiPCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIodGhpcy5nZXRDbGFzcygpKTsKICAgICAgICBsb2dnZXIuaW5mbyhjdXJyZW50VGltZS50b1N0cmluZygpKTsKICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GGIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GGIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GCIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GCIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGlzdGluZ1Rlcm1zLnN0cmVhbSgpLmZvckVhY2godCAtPiBsb2dnZXIuaW5mbyh0LmdldFN0YXJ0RGF0ZSgpLnRvU3RyaW5nKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyh1cGRhdGVEaXJlY3Rpb24uZ2V0VXBkYXRlSW5mb3MoKS4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBleGlzdGluZ1Rlcm1zLnN0cmVhbSgpLmZvckVhY2godCAtPiBsb2dnZXIuaW5mbyh0LmdldFN0YXJ0RGF0ZSgpLnRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
