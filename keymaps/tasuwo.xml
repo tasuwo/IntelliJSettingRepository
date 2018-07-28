@@ -1,4 +1,18 @@
 <keymap version="1" name="tasuwo" parent="Mac OS X 10.5+">
+  <action id="Console.Execute" />
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorEnter" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="MaximizeToolWindow" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>

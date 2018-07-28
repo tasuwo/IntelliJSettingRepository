@@ -149,10 +149,10 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/avex/AvexGeneralTrack.java" timestamp="1532504245861">
         <mark key="'" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/test/java/com/tasuwo/AppTest.java" timestamp="1532746485072">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
+      <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/test/java/com/tasuwo/AppTest.java" timestamp="1532761543779">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
         <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/BaseBundleMetaMenuPage.java" timestamp="1532498199024">
@@ -522,6 +522,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
