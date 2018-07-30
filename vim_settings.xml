@@ -214,6 +214,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/io/excel/ExcelSheetFormat.java" timestamp="1532925673652" />
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/BundleMetaMenuPage.java" timestamp="1532498409889">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -224,12 +225,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/message/mora/MoraDeliveryMessageExtractor.java" timestamp="1532920875134">
-        <mark key="'" line="13" column="12" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="96" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="33" column="57" />
+      <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/message/mora/MoraDeliveryMessageExtractor.java" timestamp="1532925781326">
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="18" column="53" />
+        <mark key="^" line="18" column="53" />
+        <mark key="." line="18" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/validator/BundleAssociationMetaValidatorImpl.java" timestamp="1532591936373">
         <mark key="'" line="25" column="37" />
@@ -244,12 +244,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/pom.xml" timestamp="1532677982171">
-        <mark key="'" line="39" column="22" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="37" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/io/SimpleExcelBookReader.java" timestamp="1532921437223" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/io/SimpleExcelBookReader.java" timestamp="1532925658953" />
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/detail/tabs/SingleMetaTab.html" timestamp="1532672354008">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -276,13 +271,6 @@
         <mark key="]" line="208" column="33" />
         <mark key="." line="208" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/DeliveryMessageFactory.java" timestamp="1531894794952">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="21" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/kingrecord-delivery/src/main/java/jp/co/dwango/ddex/kingrecord_delivery/DeliveryMessageExtractorImpl.java" timestamp="1531893589699">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="15" column="27" />
@@ -297,6 +285,9 @@
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/Track.java" timestamp="1532677392266">
         <mark key="'" line="74" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTableFormat.java" timestamp="1532924628874">
+        <mark key="'" line="51" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/util/BundleAndTrackRelationValidator.java" timestamp="1532660806065">
         <mark key="'" line="81" column="0" />
@@ -365,8 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="371" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="361" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="358" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="351" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="347" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
@@ -465,6 +454,8 @@
       <jump line="82" column="37" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
       <jump line="98" column="44" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
       <jump line="112" column="34" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
+      <jump line="18" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTableFormat.java" />
+      <jump line="51" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTableFormat.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -474,10 +465,10 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>complete</text>
+        <text>HeaderHeight</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GIIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhTaG91bGRPbWl0Q29sdW1uTmFtZXMoIiIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
@@ -514,16 +505,19 @@
       </register>
     </registers>
     <search>
-      <last-search>complete</last-search>
+      <last-search>HeaderHeight</last-search>
       <last-offset />
-      <last-pattern>complete</last-pattern>
+      <last-pattern>HeaderHeight</last-pattern>
       <last-replace>\.getBundleId()</last-replace>
       <last-substitute>\.bundleId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>getHeader</entry>
+        <entry>HeaderHeight</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>noh</entry>
