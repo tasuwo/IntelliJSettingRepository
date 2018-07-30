@@ -225,9 +225,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/message/mora/MoraDeliveryMessageExtractor.java" timestamp="1532930854473">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
+      <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/message/mora/MoraDeliveryMessageExtractor.java" timestamp="1532931543046">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="45" />
         <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/validator/BundleAssociationMetaValidatorImpl.java" timestamp="1532591936373">
@@ -466,8 +466,8 @@
       <register name="/" type="4">
         <text>HeaderHeight</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aFNob3VsZE9taXRDb2x1bW5OYW1lcygiIikK</text>
+      <register name="0" type="4">
+        <text>withShouldOmitColumnNames</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
