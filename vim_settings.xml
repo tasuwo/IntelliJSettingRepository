@@ -102,7 +102,7 @@
         <mark key="." line="101" column="43" />
         <mark key="^" line="101" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/DeliveryMessageFactory.java" timestamp="1532920525096" />
+      <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/DeliveryMessageFactory.java" timestamp="1532926803901" />
       <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/test/java/com/tasuwo/AppTest.java" timestamp="1532761543779">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="17" column="10" />
@@ -214,7 +214,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/io/excel/ExcelSheetFormat.java" timestamp="1532925673652" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/io/excel/ExcelSheetFormat.java" timestamp="1532926384482" />
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/BundleMetaMenuPage.java" timestamp="1532498409889">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -225,11 +225,10 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/message/mora/MoraDeliveryMessageExtractor.java" timestamp="1532925781326">
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="18" column="53" />
-        <mark key="^" line="18" column="53" />
-        <mark key="." line="18" column="53" />
+      <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/message/mora/MoraDeliveryMessageExtractor.java" timestamp="1532926305184">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/validator/BundleAssociationMetaValidatorImpl.java" timestamp="1532591936373">
         <mark key="'" line="25" column="37" />
@@ -244,7 +243,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/io/SimpleExcelBookReader.java" timestamp="1532925658953" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/io/SimpleExcelBookReader.java" timestamp="1532926640692" />
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/detail/tabs/SingleMetaTab.html" timestamp="1532672354008">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -462,7 +461,7 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>HeaderHeight</text>
@@ -471,34 +470,34 @@
         <text encoding="base64">ICAgICAgICAgICAgLndpdGhTaG91bGRPbWl0Q29sdW1uTmFtZXMoIiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0u4oiP4oiP4oiP4oiPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLndpdGhTaG91bGRPbWl0Q29sdW1uTmFtZXMoIiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIodGhpcy5nZXRDbGFzcygpKTsKICAgICAgICBsb2dnZXIuaW5mbyhjdXJyZW50VGltZS50b1N0cmluZygpKTsKICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GGIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0u4oiP4oiP4oiP4oiPCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIodGhpcy5nZXRDbGFzcygpKTsKICAgICAgICBsb2dnZXIuaW5mbyhjdXJyZW50VGltZS50b1N0cmluZygpKTsKICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GCIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GGIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44GEIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
