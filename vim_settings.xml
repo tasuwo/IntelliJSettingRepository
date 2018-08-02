@@ -278,6 +278,11 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex.sample.yml" timestamp="1533206680360">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/download/util/TestDownloadFileFactory.java" timestamp="1532672319835">
         <mark key="[" line="893" column="0" />
         <mark key="]" line="893" column="0" />
@@ -501,37 +506,37 @@
         <text>format</text>
       </register>
       <register name="0" type="4">
-        <text>レーベルゲート系パーティのトラックメタデータについて、DDEx側で必要な物を取得するインターフェース</text>
+        <text>importMidioDirPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0TWlkaW9EaXJQYXRoOiAvcGF0aC90by9kaXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOODiOODqeODg+OCr+OBruWgtOWQiCAoYnVuZGxlQW5kVHJhY2sg44GL44KJ5byV44Gj5by144Gj44Gm44GN44Gm44GE44KL44Gu44Gn44CB44OQ44Oz44OJ44Or44Gv44GL44Gq44KJ44Ga5o6h55Wq5riI44G/KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOODiOODqeODg+OCr+OBruWgtOWQiCAo44OQ44Oz44OJ44Or44GM5o6h55Wq5riI44G/44Gq44KJ44Gw6L+95YqgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOODiOODqeODg+OCr+OBruWgtOWQiCAoYnVuZGxlQW5kVHJhY2sg44GL44KJ5byV44Gj5by144Gj44Gm44GN44Gm44GE44KL44Gu44Gn44CB44OQ44Oz44OJ44Or44Gv44GL44Gq44KJ44Ga5o6h55Wq5riI44G/KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOODiOODqeODg+OCr+OBruWgtOWQiCAo44OQ44Oz44OJ44Or44GM5o6h55Wq5riI44G/44Gq44KJ44Gw6L+95YqgKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWZ7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxCdW5kbGVBbmRUcmFjaz4gdHJhY2tBbmRCdW5kbGVzID0gbWF0ZXJpYWxTZXJ2aWNlLmZpbmRNYXRlcmlhbEJ5SXRlbUlkKGl0ZW1JZCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAubWFwKGl0ZW1BbmRNYXRlcmlhbCAtPiBidW5kbGVBbmRUcmFja1NlcnZpY2UuZmluZEJ5TWF0ZXJpYWxJZChpdGVtQW5kTWF0ZXJpYWwuZ2V0TWF0ZXJpYWxJZCgpKSkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKGphdmEudXRpbC5PYmplY3RzOjpub25OdWxsKQogICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWZ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
