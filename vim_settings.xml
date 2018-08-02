@@ -23,8 +23,8 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/BaseItemExtractor.java" timestamp="1533107461969">
         <mark key="'" line="62" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" timestamp="1533115937167">
-        <mark key="'" line="85" column="45" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" timestamp="1533198086617">
+        <mark key="'" line="107" column="68" />
         <mark key="[" line="259" column="0" />
         <mark key="]" line="262" column="8" />
         <mark key="." line="260" column="0" />
@@ -131,6 +131,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-ern/src/main/java/jp/co/dwango/ddex/ern/message/BaseMessage.java" timestamp="1533197946701">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/detail/tabs/BundleMetaTab.java" timestamp="1532671303692">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -205,6 +211,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" timestamp="1533198258314">
+        <mark key="'" line="55" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/ponycanyon/PonycanyonGeneralTrack.java" timestamp="1532504200472">
         <mark key="'" line="32" column="80" />
       </file>
@@ -227,7 +236,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex-batch/front_ddex/umgg/teleporter/fetch_umgg_product.sh" timestamp="1533187520286" />
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/BundleMetaMenuPage.java" timestamp="1532498409889">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -331,6 +339,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTrack.java" timestamp="1533198283828">
+        <mark key="'" line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/serverless/my-spark-serverless-sample-project/src/main/java/com/tasuwo/App.java" timestamp="1532760490269">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -361,14 +372,12 @@
         <mark key="." line="737" column="24" />
         <mark key="^" line="734" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/GeneralTrack.java" timestamp="1533197586004">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="52" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="313" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="296" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="291" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="285" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="281" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="264" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="260" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="254" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
@@ -463,19 +472,25 @@
       <jump line="73" column="32" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
       <jump line="85" column="45" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/README.md" />
+      <jump line="107" column="68" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
+      <jump line="17" column="84" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
+      <jump line="18" column="151" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
+      <jump line="43" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
+      <jump line="55" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
+      <jump line="23" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTrack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>suite</text>
+        <text>format</text>
       </register>
       <register name="0" type="4">
-        <text>ManualDeliveryBatchStash</text>
+        <text>レーベルゲート系パーティのトラックメタデータについて、DDEx側で必要な物を取得するインターフェース</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOODiOODqeODg+OCr+OBruWgtOWQiCAoYnVuZGxlQW5kVHJhY2sg44GL44KJ5byV44Gj5by144Gj44Gm44GN44Gm44GE44KL44Gu44Gn44CB44OQ44Oz44OJ44Or44Gv44GL44Gq44KJ44Ga5o6h55Wq5riI44G/KQo=</text>
@@ -512,13 +527,13 @@
       </register>
     </registers>
     <search>
-      <last-search>suite</last-search>
+      <last-search>format</last-search>
       <last-offset />
-      <last-pattern>suite</last-pattern>
+      <last-pattern>format</last-pattern>
       <last-replace>\.getBundleId()</last-replace>
       <last-substitute>\.bundleId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -526,11 +541,12 @@
         <entry>HeaderHeight</entry>
         <entry>TableFormat</entry>
         <entry>tableFormat</entry>
-        <entry>format</entry>
         <entry>extract</entry>
         <entry>extractPersist</entry>
         <entry>PersistUnit</entry>
         <entry>suite</entry>
+        <entry>deliverymessage</entry>
+        <entry>format</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
