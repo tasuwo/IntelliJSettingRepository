@@ -178,6 +178,13 @@
         <mark key="." line="11" column="94" />
         <mark key="^" line="11" column="94" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/README.md" timestamp="1533188143300">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/kingrecord-delivery/src/main/java/jp/co/dwango/ddex/kingrecord_delivery/DeliveryMessageFactory.java" timestamp="1531893469039">
         <mark key="'" line="14" column="40" />
         <mark key="[" line="14" column="0" />
@@ -220,6 +227,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/front_ddex/umgg/teleporter/fetch_umgg_product.sh" timestamp="1533187520286" />
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/BundleMetaMenuPage.java" timestamp="1532498409889">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -355,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="317" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="313" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="296" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
@@ -455,13 +462,14 @@
       <jump line="62" column="77" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/BaseItemExtractor.java" />
       <jump line="73" column="32" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
       <jump line="85" column="45" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>suite</text>
@@ -510,7 +518,7 @@
       <last-replace>\.getBundleId()</last-replace>
       <last-substitute>\.bundleId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
