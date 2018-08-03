@@ -5,7 +5,6 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="DirDiffMenu.SynchronizeDiff" />
-  <action id="EditorChooseLookupItem" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
