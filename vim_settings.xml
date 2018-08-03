@@ -173,6 +173,12 @@
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/SimpleRecord.java" timestamp="1533268912154">
+        <mark key="[" line="38" column="1" />
+        <mark key="]" line="38" column="2" />
+        <mark key="^" line="38" column="2" />
+        <mark key="." line="38" column="2" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/SimpleManualDeliveryBatchStash.java" timestamp="1533117580200">
         <mark key="[" line="52" column="41" />
         <mark key="]" line="52" column="63" />
@@ -331,8 +337,8 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/avex/AvexGeneralTrack.java" timestamp="1532504245861">
         <mark key="'" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" timestamp="1532502650246">
-        <mark key="'" line="53" column="19" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" timestamp="1533269463734">
+        <mark key="'" line="101" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/avex-delivery/src/main/java/jp/co/dwango/ddex/avex_delivery/message/DeliveryMessage.java" timestamp="1531890768319">
         <mark key="'" line="2" column="37" />
@@ -394,13 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="260" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="254" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="245" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="232" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="229" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="223" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="220" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="209" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
       <jump line="200" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
@@ -494,6 +493,13 @@
       <jump line="43" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
       <jump line="55" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
       <jump line="23" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTrack.java" />
+      <jump line="37" column="62" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
+      <jump line="82" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
+      <jump line="83" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
+      <jump line="95" column="38" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
+      <jump line="96" column="36" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
+      <jump line="100" column="36" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
+      <jump line="101" column="75" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -503,7 +509,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>format</text>
+        <text>CopyRight</text>
       </register>
       <register name="0" type="4">
         <text>importMidioDirPath</text>
@@ -543,13 +549,13 @@
       </register>
     </registers>
     <search>
-      <last-search>format</last-search>
+      <last-search>CopyRight</last-search>
       <last-offset />
-      <last-pattern>format</last-pattern>
+      <last-pattern>CopyRight</last-pattern>
       <last-replace>\.getBundleId()</last-replace>
       <last-substitute>\.bundleId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -563,6 +569,7 @@
         <entry>suite</entry>
         <entry>deliverymessage</entry>
         <entry>format</entry>
+        <entry>CopyRight</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
