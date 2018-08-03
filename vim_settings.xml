@@ -124,12 +124,11 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1533284735992">
         <mark key="'" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceVideoClipServiceImpl.java" timestamp="1533279889392">
-        <mark key="'" line="76" column="19" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="93" />
-        <mark key="." line="79" column="58" />
-        <mark key="^" line="79" column="58" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceVideoClipServiceImpl.java" timestamp="1533291112533">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/validator/BundleAssociationMetaValidatorImpl.java" timestamp="1532591936373">
         <mark key="'" line="25" column="37" />
@@ -211,17 +210,17 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceBundleServiceImpl.java" timestamp="1533276049418">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceBundleServiceImpl.java" timestamp="1533291026810">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="88" column="4" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533279730292">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="80" column="4" />
-        <mark key="." line="78" column="30" />
-        <mark key="^" line="79" column="77" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533291095690">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="89" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="78" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1532678033199">
         <mark key="'" line="35" column="59" />
@@ -342,8 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
-      <jump line="248" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="214" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="245" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
@@ -442,49 +439,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" />
       <jump line="23" column="3" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" />
       <jump line="110" column="48" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceVideoClipServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>getItemId</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
       </register>
-      <register name="0" type="4">
-        <text>resourceRepositoryUri</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAodCAtPiB0ICE9IG51bGwgPyB0LmdldEl0ZW1JZCgpIDogbnVsbCwgZCAtPiBkKSk7Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8g</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIociAtPiByLmdldEl0ZW1JZCgpICE9IG51bGwpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoUmVzb3VyY2VWaWRlb0NsaXA6OmdldEl0ZW1JZCwgZCAtPiBkKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dCAhPSBudWxsCiAgICAgICAgICAgICAgICA/IGlucHV0LmdldEl0ZW1JZCgpCiAgICAgICAgICAgICAgICA6IG51bGwKICAgICAgICAgICAgICAgIC5maWx0ZXIociAtPiByLmdldEl0ZW1JZCgpICE9IG51bGwpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8g</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSW50ZWdlciBhcHBseShATnVsbGFibGUgSXRlbUFuZE1hdGVyaWFsIGlucHV0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZ1bmN0aW9uPEl0ZW1BbmRNYXRlcmlhbCwgSW50ZWdlcj4oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
