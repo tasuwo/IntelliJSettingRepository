@@ -16,6 +16,11 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/BaseItemExtractor.java" timestamp="1533107461969">
         <mark key="'" line="62" column="77" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivered-item/src/main/java/jp/co/dwango/ddex/delivereditem/resource/ResourceRepositoryProvider.java" timestamp="1533284699800">
+        <mark key="'" line="38" column="32" />
+        <mark key="[" line="43" column="46" />
+        <mark key="]" line="43" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleService.java" timestamp="1533275780600">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="91" />
@@ -115,6 +120,9 @@
         <mark key="]" line="46" column="34" />
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1533284735992">
+        <mark key="'" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceVideoClipServiceImpl.java" timestamp="1533279889392">
         <mark key="'" line="76" column="19" />
@@ -327,10 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="208" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="212" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidater.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/util/BundleAndTrackRelationValidator.java" />
       <jump line="210" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="244" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="248" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
@@ -427,6 +431,10 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="32" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceVideoClipService.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-delivered-item/src/main/java/jp/co/dwango/ddex/delivereditem/resource/ResourceRepositoryProvider.java" />
+      <jump line="38" column="32" filename="$USER_HOME$/Documents/src/ddex/ddex-delivered-item/src/main/java/jp/co/dwango/ddex/delivereditem/resource/ResourceRepositoryProvider.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" />
+      <jump line="23" column="3" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -436,10 +444,10 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>ItemIds</text>
+        <text>resource</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNb2NrZWQgcHJpdmF0ZSBSZXNvdXJjZUJ1bmRsZVNlcnZpY2UgcmVzb3VyY2VCdW5kbGVTZXJ2aWNlOwo=</text>
+      <register name="0" type="4">
+        <text>resourceRepositoryUri</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3QoKTsK</text>
@@ -476,13 +484,13 @@
       </register>
     </registers>
     <search>
-      <last-search>ItemIds</last-search>
+      <last-search>resource</last-search>
       <last-offset />
-      <last-pattern>ItemIds</last-pattern>
+      <last-pattern>resource</last-pattern>
       <last-replace>\.getBundleId()</last-replace>
       <last-substitute>\.bundleId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -498,6 +506,9 @@
         <entry>format</entry>
         <entry>CopyRight</entry>
         <entry>ItemIds</entry>
+        <entry>S3</entry>
+        <entry>getAsFile</entry>
+        <entry>resource</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
