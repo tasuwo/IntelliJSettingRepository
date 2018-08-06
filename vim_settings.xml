@@ -40,10 +40,8 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-delivered-item/src/main/java/jp/co/dwango/ddex/delivereditem/resource/ResourceRepositoryProvider.java" timestamp="1533284699800">
-        <mark key="'" line="38" column="32" />
-        <mark key="[" line="43" column="46" />
-        <mark key="]" line="43" column="66" />
+      <file name="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectReader.class" timestamp="1533550545045">
+        <mark key="'" line="283" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/test/Chat.spec.js" timestamp="1532450852257">
         <mark key="'" line="0" column="15" />
@@ -57,11 +55,6 @@
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/spaceshower/SpaceshowerGeneralTrack.java" timestamp="1532504169314">
         <mark key="'" line="32" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/util/AbstractSelectedItemHandlingButtonPanel.java" timestamp="1533275253431">
-        <mark key="'" line="11" column="22" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="16" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/pom.xml" timestamp="1533544692023">
         <mark key="[" line="19" column="0" />
@@ -89,11 +82,6 @@
         <mark key="]" line="320" column="14" />
         <mark key="^" line="318" column="79" />
         <mark key="." line="318" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceBundleServiceImpl.java" timestamp="1533291026810">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1532678033199">
         <mark key="'" line="35" column="59" />
@@ -213,14 +201,14 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/MaterialServiceImpl.java" timestamp="1533550323207">
+        <mark key="'" line="32" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1533537603949">
         <mark key="'" line="133" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/validator/BundleAssociationMetaValidatorImpl.java" timestamp="1532591936373">
         <mark key="'" line="25" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533290329145">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivery-content/pom.xml" timestamp="1533544685970">
         <mark key="[" line="24" column="0" />
@@ -234,6 +222,12 @@
         <mark key="]" line="21" column="49" />
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectDao.class" timestamp="1533550520974">
+        <mark key="'" line="193" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/dao/ItemAndMaterialDaoImpl.java" timestamp="1533550380469">
+        <mark key="'" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/kingrecord-delivery/src/main/java/jp/co/dwango/ddex/kingrecord_delivery/DeliveryMessageExtractorImpl.java" timestamp="1531893589699">
         <mark key="'" line="13" column="0" />
@@ -259,6 +253,7 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" timestamp="1533269463734">
         <mark key="'" line="101" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/MaterialService.java" timestamp="1533550329536" />
       <file name="$USER_HOME$/Documents/src/ddex/avex-delivery/src/main/java/jp/co/dwango/ddex/avex_delivery/message/DeliveryMessage.java" timestamp="1531890768319">
         <mark key="'" line="2" column="37" />
         <mark key="[" line="9" column="0" />
@@ -287,16 +282,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTrack.java" timestamp="1533198283828">
         <mark key="'" line="23" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/dbunit/dbunit/2.4.8/dbunit-2.4.8.jar!/org/dbunit/operation/DatabaseOperation.class" timestamp="1533538749392" />
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Main.vue" timestamp="1532267701916">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="10" column="15" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="29" />
-      </file>
-      <file name="/fragment.java" timestamp="1533290329163">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/test/java/jp/co/dwango/ddex/batch_importer/profile/umgi/TestUmgiItemExtractor.java" timestamp="1531902276896">
         <mark key="'" line="61" column="13" />
@@ -307,17 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="44" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
-      <jump line="112" column="34" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
-      <jump line="18" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTableFormat.java" />
-      <jump line="51" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTableFormat.java" />
-      <jump line="27" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/BaseItemExtractor.java" />
-      <jump line="62" column="77" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/BaseItemExtractor.java" />
-      <jump line="73" column="32" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
-      <jump line="85" column="45" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/README.md" />
-      <jump line="107" column="68" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
-      <jump line="17" column="84" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
       <jump line="18" column="151" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
       <jump line="43" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
       <jump line="55" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/table/PlainTable.java" />
@@ -407,6 +387,17 @@
       <jump line="51" column="18" filename="$USER_HOME$/Documents/src/ddex/ddex-core/pom.xml" />
       <jump line="50" column="26" filename="$USER_HOME$/Documents/src/ddex/ddex-core/pom.xml" />
       <jump line="15" column="9" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
+      <jump line="32" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/MaterialServiceImpl.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/dao/ItemAndMaterialDaoImpl.java" />
+      <jump line="30" column="13" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectDao.class" />
+      <jump line="187" column="16" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectDao.class" />
+      <jump line="192" column="56" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectDao.class" />
+      <jump line="193" column="42" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectDao.class" />
+      <jump line="86" column="42" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectReader.class" />
+      <jump line="252" column="16" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectReader.class" />
+      <jump line="253" column="20" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectReader.class" />
+      <jump line="256" column="16" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectReader.class" />
+      <jump line="283" column="34" filename="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectReader.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -416,7 +407,7 @@
         <text>compile</text>
       </register>
       <register name="/" type="4">
-        <text>poi</text>
+        <text>readList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPCEtLSBEQlVuaXQg44Gn44Ko44Op44O844Go44Gq44KL44Gu44Gn44CB5Y+k44GE44OQ44O844K444On44Oz44KS44GC44GI44Gm44Kk44Oz44K544OI44O844Or44GZ44KLIC0tPgo=</text>
@@ -456,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>poi</last-search>
+      <last-search>readList</last-search>
       <last-offset />
-      <last-pattern>poi</last-pattern>
+      <last-pattern>readList</last-pattern>
       <last-replace>\.getBundleId()</last-replace>
       <last-substitute>\.bundleId</last-substitute>
       <last-dir>1</last-dir>
@@ -485,6 +476,9 @@
         <entry>handle_onModify</entry>
         <entry>findMaterial</entry>
         <entry>poi</entry>
+        <entry>findMaterialByItemId</entry>
+        <entry>findByItemId</entry>
+        <entry>readList</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
