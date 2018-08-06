@@ -174,12 +174,6 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestInsertToBundleAndTrackHandler.java" timestamp="1533537146832">
-        <mark key="'" line="175" column="8" />
-        <mark key="[" line="682" column="20" />
-        <mark key="]" line="682" column="21" />
-        <mark key="." line="682" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-manage/pom.xml" timestamp="1533544710152">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -194,12 +188,6 @@
         <mark key="]" line="38" column="19" />
         <mark key="^" line="38" column="19" />
         <mark key="." line="38" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceVideoClipServiceImpl.java" timestamp="1533291112533">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/MaterialServiceImpl.java" timestamp="1533550323207">
         <mark key="'" line="32" column="13" />
@@ -250,6 +238,7 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/avex/AvexGeneralTrack.java" timestamp="1532504245861">
         <mark key="'" line="31" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/util/BundleAndTrackRelationValidator.java" timestamp="1533551468941" />
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" timestamp="1533269463734">
         <mark key="'" line="101" column="75" />
       </file>
