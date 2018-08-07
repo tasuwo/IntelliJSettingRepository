@@ -226,10 +226,11 @@
         <mark key="^" line="38" column="19" />
         <mark key="." line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1533608771483">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="90" column="64" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1533611168616">
+        <mark key="[" line="136" column="50" />
+        <mark key="]" line="136" column="66" />
+        <mark key="." line="136" column="66" />
+        <mark key="^" line="136" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceVideoClipServiceImpl.java" timestamp="1533607710006">
         <mark key="[" line="78" column="0" />
@@ -441,7 +442,7 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ResourceSingle</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>tomcat</text>
