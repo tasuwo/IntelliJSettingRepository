@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" timestamp="1533711222347">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="91" column="28" />
+        <mark key="]" line="91" column="28" />
+        <mark key="^" line="91" column="6" />
+        <mark key="." line="91" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceVideoClipService.java" timestamp="1533607950407">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="163" column="0" />
@@ -154,6 +161,10 @@
         <mark key="]" line="51" column="26" />
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/monitoring.sh" timestamp="1533710989235">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="28" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/yoshimoto-delivery/src/main/java/jp/co/dwango/ddex/yoshimoto_delivery/DeliveryMessageFactory.java" timestamp="1531894839509">
         <mark key="'" line="14" column="13" />
@@ -331,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-delivered-item/src/main/java/jp/co/dwango/ddex/delivereditem/resource/ResourceRepositoryProvider.java" />
       <jump line="38" column="32" filename="$USER_HOME$/Documents/src/ddex/ddex-delivered-item/src/main/java/jp/co/dwango/ddex/delivereditem/resource/ResourceRepositoryProvider.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" />
       <jump line="23" column="3" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" />
@@ -431,52 +441,53 @@
       <jump line="71" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="256" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/README.md" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>-eq 0</text>
       </register>
       <register name="/" type="4">
         <text>find_kanshi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">aWYgWyAhICR7T1VUUFVUX0ZJTEVfUEFUSH0gLWVxIDAgXTsgdGhlbgogICAgc2VkIC1lICIxaSDjg6rjg6rjg7zjgrlJRFx06Kix6Ku+5YWIXHRJU1JDIiAke09VVFBVVF9GSUxFX1BBVEh9CmZpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBb44Kk44Oz44Od44O844K/44O844Gu55Ww5bi457WC5LqG55uj6KaWXSgj44Kk44Oz44Od44O844K/44O844Gu55Ww5bi457WC5LqG55uj6KaWKQogICAgICAqIFvjg5XjgqHjgqTjg6tdKCPjg5XjgqHjgqTjg6stNikKICAgICAgKiBb6IOM5pmvXSgj6IOM5pmvLTYpCiAgICAgICogW+ebrueahF0oI+ebrueahC02KQogICAgICAqIFvlh6bnkIblhoXlrrldKCPlh6bnkIblhoXlrrktNikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyDjgqTjg7Pjg53jg7zjgr/jg7zjga7nlbDluLjntYLkuobnm6PoppYKCiMjIOODleOCoeOCpOODqwoKLSBgLi9pbmZyYS9maW5kX2thbnNoaS5zaGAKCiMjIOiDjOaZrwoKLSBEREV4IOOCpOODs+ODneODvOOCv+ODvOOBjOWumuacn+eahOOBq+eovOWDjeOBl+OBpuOBhOOCiyAoMTXliIbmr44pCi0g55Ww5bi457WC5LqG44GZ44KL44GT44Go44GM44GC44KLCiAgLSDkvovlpJbjgYzjgq3jg6Pjg4Pjg4HjgafjgY3jgabjgYTjgozjgbDjgIHmrKHlm57lrp/ooYzmmYLjgavjga/lvqnml6fjgZnjgovjgojjgYbjgavjgafjgY3jgabjgYTjgovjgYzjgIHmmYLjgavjga/jgIHkuojmnJ/jgZvjgazntI3lk4HjgpLlj5bjgorovrzjgoLjgYbjgajjgZfjgabjgIHkvovlpJbjgpLjgq3jg6Pjg4Pjg4HjgafjgY3jgZrjgIHlu7bjgIXjgajlh6bnkIbjgYzokL3jgaHntprjgZHjgovloLTlkIjjgYzjgYLjgosKICAtIOOBk+OBruOCiOOBhuOBqueKtuazgeOCkumAn+OChOOBi+OBq+aknOefpeOBl+OBn+OBhAotIOeVsOW4uOe1guS6huOBmeOCi+OBqOOAgeODreOCsOODleOCoeOCpOODqyBgYmF0Y2hfaW1wb3J0ZXJfZmF0YWwubG9nYCDjgavlh7rlipvjgZXjgozjgosKCiMjIOebrueahAoKLSBEREV4IOOCpOODs+ODneODvOOCv+ODvOOBjOeVsOW4uOe1guS6huOBl+OBn+aZguOBq+OCouODqeODvOODiOODoeODvOODq+OBp+OBneOCjOOCkuefpeOCiuOBn+OBhAoKIyMg5Yem55CG5YaF5a65CgpgL3Zhci9kZGV4L2xvZy9iYXRjaF9pbXBvcnRlcl9mYXRhbC5sb2dgIOOBq+abuOOBjei+vOOBv+OBjOaWsOOBl+OBj+WtmOWcqOOBmeOCjOOBsOOAgeOCouODqeODvOODiOODoeODvOODq+OCkumAgeS/oeOBmeOCi+OAggoKCg==</text>
+        <text encoding="base64">ZWNobyAi44Oq44Oq44O844K5SURcdOioseirvuWFiFx0SVNSQyIgPiAkT1VUUFVUX0ZJTEVfUEFUSAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2tpdC5JbmplY3RhYmxlOwo=</text>
+        <text encoding="base64">QVJSQVk9KGBmaW5kICR7T1VUUFVUX0RJUn0gLW1heGRlcHRoIDEgLXR5cGUgZiAtbmFtZSAqLnRzdiAtc2l6ZSArMmNgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNvLmR3YW5nby5kZGV4LmRlbGl2ZXJlZGl0ZW0ucmVzb3VyY2UuUmVzb3VyY2VGaWxlOwo=</text>
+        <text encoding="base64">ICBlY2hvICJgZGF0ZSAiKyVZLyVtLyVkICVIOiVNOiVTImAgJHtTVUJKRUNUfSDpgJrnn6XjgZnjgovmg4XloLHjgYzjgYLjgorjgb7jgZvjgpPjgafjgZfjgZ/ihpMiCiAgZWNobyBgbHMgJHtBUlJBWVsqXX0gLUFGbCB8IGF3ayAne3ByaW50ICQ5IiAiJDUiICIkNiIgIiQ3IiAiJDh9J2AKICBleGl0IDAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBb44Kk44Oz44Od44O844K/44O844Gu55Ww5bi457WC5LqG55uj6KaWXSgj44Kk44Oz44Od44O844K/44O844Gu55Ww5bi457WC5LqG55uj6KaWKQogICAgICAqIFvjg5XjgqHjgqTjg6tdKCPjg5XjgqHjgqTjg6stNikKICAgICAgKiBb6IOM5pmvXSgj6IOM5pmvLTYpCiAgICAgICogW+ebrueahF0oI+ebrueahC02KQogICAgICAqIFvlh6bnkIblhoXlrrldKCPlh6bnkIblhoXlrrktNikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTW9ja1VwPFN0ZGZzUmVzb3VyY2VGaWxlPigpIHsKICAgICAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoInVudXNlZCIpCiAgICAgICAgICAgIEBNb2NrCiAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIGV4aXN0cygpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAU3VwcHJlc3NXYXJuaW5ncygidW51c2VkIikKICAgICAgICAgICAgQE1vY2sKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gaXNGaWxlKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bnVzZWQiKQogICAgICAgICAgICBATW9jawogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc0RpcmVjdG9yeSgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH07Cgo=</text>
+        <text encoding="base64">IyDjgqTjg7Pjg53jg7zjgr/jg7zjga7nlbDluLjntYLkuobnm6PoppYKCiMjIOODleOCoeOCpOODqwoKLSBgLi9pbmZyYS9maW5kX2thbnNoaS5zaGAKCiMjIOiDjOaZrwoKLSBEREV4IOOCpOODs+ODneODvOOCv+ODvOOBjOWumuacn+eahOOBq+eovOWDjeOBl+OBpuOBhOOCiyAoMTXliIbmr44pCi0g55Ww5bi457WC5LqG44GZ44KL44GT44Go44GM44GC44KLCiAgLSDkvovlpJbjgYzjgq3jg6Pjg4Pjg4HjgafjgY3jgabjgYTjgozjgbDjgIHmrKHlm57lrp/ooYzmmYLjgavjga/lvqnml6fjgZnjgovjgojjgYbjgavjgafjgY3jgabjgYTjgovjgYzjgIHmmYLjgavjga/jgIHkuojmnJ/jgZvjgazntI3lk4HjgpLlj5bjgorovrzjgoLjgYbjgajjgZfjgabjgIHkvovlpJbjgpLjgq3jg6Pjg4Pjg4HjgafjgY3jgZrjgIHlu7bjgIXjgajlh6bnkIbjgYzokL3jgaHntprjgZHjgovloLTlkIjjgYzjgYLjgosKICAtIOOBk+OBruOCiOOBhuOBqueKtuazgeOCkumAn+OChOOBi+OBq+aknOefpeOBl+OBn+OBhAotIOeVsOW4uOe1guS6huOBmeOCi+OBqOOAgeODreOCsOODleOCoeOCpOODqyBgYmF0Y2hfaW1wb3J0ZXJfZmF0YWwubG9nYCDjgavlh7rlipvjgZXjgozjgosKCiMjIOebrueahAoKLSBEREV4IOOCpOODs+ODneODvOOCv+ODvOOBjOeVsOW4uOe1guS6huOBl+OBn+aZguOBq+OCouODqeODvOODiOODoeODvOODq+OBp+OBneOCjOOCkuefpeOCiuOBn+OBhAoKIyMg5Yem55CG5YaF5a65CgpgL3Zhci9kZGV4L2xvZy9iYXRjaF9pbXBvcnRlcl9mYXRhbC5sb2dgIOOBq+abuOOBjei+vOOBv+OBjOaWsOOBl+OBj+WtmOWcqOOBmeOCjOOBsOOAgeOCouODqeODvOODiOODoeODvOODq+OCkumAgeS/oeOBmeOCi+OAggoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAhcGF0aHMuY29udGFpbnModGhpcy5nZXRNb2NrSW5zdGFuY2UoKS5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG1vY2tpdC5JbmplY3RhYmxlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwYXRocy5jb250YWlucyh0aGlzLmdldE1vY2tJbnN0YW5jZSgpLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLmR3YW5nby5kZGV4LmRlbGl2ZXJlZGl0ZW0ucmVzb3VyY2UuUmVzb3VyY2VGaWxlOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -486,11 +497,10 @@
       <last-replace>\.getBundleId()</last-replace>
       <last-substitute>\.bundleId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PersistUnit</entry>
         <entry>suite</entry>
         <entry>deliverymessage</entry>
         <entry>format</entry>
@@ -513,9 +523,9 @@
         <entry>find_kanshi</entry>
       </history-search>
       <history-cmd>
-        <entry>split</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
