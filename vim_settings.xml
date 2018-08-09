@@ -140,8 +140,10 @@
         <mark key="." line="97" column="16" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" timestamp="1532683654776">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" timestamp="1533797007419">
         <mark key="'" line="112" column="34" />
+        <mark key="[" line="378" column="21" />
+        <mark key="]" line="378" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1533795954026">
         <mark key="'" line="322" column="16" />
@@ -479,7 +481,7 @@
         <text>unique</text>
       </register>
       <register name="0" type="4">
-        <text>ProprietaryId</text>
+        <text>新規納品にも関わらず、「過去に納品されたリソースを再利用し配信すべきである」とみなせるメタが納品されている。</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VE1QX0ZJTEVfUEFUSD0iLi4vcmVzdWx0L21vbml0b3JpbmcvdG1wX3JlY2VudGx5X2RlbGl2ZXJ5X21hdGVyaWFsX2FsbF9qcC50c3YiCg==</text>
