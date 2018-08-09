@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" timestamp="1533713489430">
-        <mark key="'" line="27" column="29" />
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" timestamp="1533805958302">
+        <mark key="'" line="15" column="29" />
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="20" />
+        <mark key="." line="37" column="20" />
         <mark key="^" line="37" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceVideoClipService.java" timestamp="1533607950407">
@@ -369,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="373" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="385" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="391" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
@@ -469,6 +468,7 @@
       <jump line="226" column="6" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="84" column="27" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="322" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="15" column="29" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -478,7 +478,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>unique</text>
+        <text>[</text>
       </register>
       <register name="0" type="4">
         <text>新規納品にも関わらず、「過去に納品されたリソースを再利用し配信すべきである」とみなせるメタが納品されている。</text>
@@ -514,17 +514,17 @@
         <text encoding="base64">IDgwIAogODEgCiA4MiAKIDgzIAogODQgCiA4NSA=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/許諾先/許諾元/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>unique</last-search>
+      <last-search>[</last-search>
       <last-offset />
-      <last-pattern>unique</last-pattern>
+      <last-pattern>[</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -549,13 +549,14 @@
         <entry>TMP_FILE_PATH</entry>
         <entry>許諾先</entry>
         <entry>unique</entry>
+        <entry>[</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
         <entry>split</entry>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
-        <entry>w</entry>
         <entry>%s/許諾先/許諾元/g</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
