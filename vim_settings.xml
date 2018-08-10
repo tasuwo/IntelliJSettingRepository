@@ -525,7 +525,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -562,11 +562,11 @@
         <entry>perl</entry>
       </history-search>
       <history-cmd>
-        <entry>split</entry>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
         <entry>%s/許諾先/許諾元/g</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
