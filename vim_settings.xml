@@ -9,12 +9,6 @@
         <mark key="." line="95" column="18" />
         <mark key="^" line="95" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceVideoClipService.java" timestamp="1533607950407">
-        <mark key="'" line="32" column="13" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/amuse/AmuseGeneralTrack.java" timestamp="1532504122722">
         <mark key="'" line="34" column="13" />
       </file>
@@ -251,6 +245,13 @@
         <mark key="^" line="38" column="19" />
         <mark key="." line="38" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.sh" timestamp="1533876642176">
+        <mark key="'" line="39" column="24" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="64" column="38" />
+        <mark key="^" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1533623014509">
         <mark key="[" line="115" column="89" />
         <mark key="]" line="115" column="88" />
@@ -300,6 +301,12 @@
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/Track.java" timestamp="1532677392266">
         <mark key="'" line="74" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.ini" timestamp="1533876954608">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="49" />
+        <mark key="^" line="28" column="63" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-report/pom.xml" timestamp="1533544729252">
         <mark key="[" line="21" column="0" />
@@ -351,6 +358,12 @@
         <mark key="^" line="122" column="18" />
         <mark key="." line="122" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" timestamp="1533876556131">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="^" line="121" column="4" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Main.vue" timestamp="1532267701916">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="1" column="0" />
@@ -367,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="373" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="385" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="391" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
       <jump line="394" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
@@ -467,62 +479,63 @@
       <jump line="84" column="27" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="322" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="15" column="29" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
+      <jump line="39" column="24" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>先</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>[</text>
+        <text>perl</text>
       </register>
       <register name="0" type="4">
-        <text>新規納品にも関わらず、「過去に納品されたリソースを再利用し配信すべきである」とみなせるメタが納品されている。</text>
+        <text>https://dcm-imconv.dwango.jp/Prod</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgRC5uYW1lIEFTICLoqLHoq77lhYgiLAo+Pj4+Pj4+IGZpeDogZml4IG1pc3BsYWNlbWVudAo=</text>
+        <text encoding="base64">ICBwZXJsICRST09UX0RJUiJkaXZpZGVKYWNrZXRJbWFnZS5wbCIgJGxvYWRmaWxlICRJTlBVVF9KQUNLRVRfSU1BR0UgJERERXhfRElWSURFX1BBVEgK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0OiDjgqLjg6njg7zjg4jjg6Hjg7zjg6vjgavjgYrjgYTjgabjg5jjg4Pjg4Djg7zjgpLlv4XjgZrku5jkuI7jgZnjgosK</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECkNPTVBMRVRFX1NRTD0ke1NRTF9GT1JfVklERU8vIj066Kix6Ku+5YWDSUQ6PSIvMn0KbXlzcWwgLU4gLXUkRERFeF9EQl9VU0VSIC0tcGFzc3dvcmQ9JERERXhfREJfUEFTUyAtaCAkRERFeF9EQl9IT1NUIGRkZXhfZGVsaXZlcmVkX2l0ZW0gPDwgRU9GICA+PiAkT1VUUFVUX0ZJTEVfUEFUSAo9PT09PT09Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0OiDjgqLjg6njg7zjg4jjg6Hjg7zjg6vjgavjgYrjgYTjgabjg5jjg4Pjg4Djg7zjgpLlv4XjgZrku5jkuI7jgZnjgosK</text>
+        <text encoding="base64">ICAgICAgcHVzaChAcHJvY2Vzc2VkTGluZSwgIiRNVVNJQy4kREVMSVZFUlkiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECkNPTVBMRVRFX1NRTD0ke1NRTF9GT1JfU0lOR0xFLyI9OuioseirvuWFg0lEOj0iLzJ9Cm15c3FsIC1OIC11JERERXhfREJfVVNFUiAtLXBhc3N3b3JkPSREREV4X0RCX1BBU1MgLWggJERERXhfREJfSE9TVCBkZGV4X2RlbGl2ZXJlZF9pdGVtIDw8IEVPRiAgPj4gJE9VVFBVVF9GSUxFX1BBVEgKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnQgIiRmaWxlTmFtZQkkTUFURVJJQUwJJE1VU0lDCSRpbnB1dEphY2tldEltYWdlJEZJTEXjgpLphY3nva7jgZfjgb7jgZlcbiI7CiAgICAgIG15ICRyZXNwb25zZSA9IGBjdXJsIC0tcmVxdWVzdCBQT1NUIC1IICJBdXRob3JpemF0aW9uOiRhdXRob3JpemF0aW9uX2tleSIgLUYgImZpbGU9XEAkaW5wdXRKYWNrZXRJbWFnZSRGSUxFIiAiJGFwaV91cmwiIC1vICIkZGRleERldmlkZVBhdGgkTUFURVJJQUwuanBnIiAtdyAiXG5zdGF0dXM6JXtodHRwX2NvZGV9IiAyPi9kZXYvbnVsbCB8IGZncmVwICdzdGF0dXM6J2A7CiAgICAgIGNob21wKCRyZXNwb25zZSk7CiAgICAgIGlmICgkcmVzcG9uc2UgbmUgInN0YXR1czoyMDAiKSB7CiAgICAgICAgICBwcmludCAiJGZpbGVOYW1lCSRNQVRFUklBTAkkTVVTSUMJJGlucHV0SmFja2V0SW1hZ2UkRklMReOBruWkieaPm+OBq+WkseaVl+OBl+OBvuOBl+OBn1xuIjsKICAgICAgICAgIHdpcnRlRXJyb3JGaWxlKCRmaWxlTmFtZSwgIiRNQVRFUklBTAkkVElUTEUJJEFSVElTVAkkREVMSVZFUlkJJERJU1RSSUJVVE9SCSRTQUxFU19SRVBPUlQJJEZJTEUJJE1VU0lDCSRCVU5ETEUJJENBVEFMT0dfTlVNQkVSCVJHQueUu+WDj+WkieaPm+OBq+WkseaVl+OBl+OBvuOBl+OBn+OAguOAglxuIik7CiAgICAgICAgICB1bmxpbmsoJGRkZXhEZXZpZGVQYXRoLiRNQVRFUklBTC4iLmpwZyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0OiDjgqLjg6njg7zjg4jjg6Hjg7zjg6vjgavjgYrjgYTjgabjg5jjg4Pjg4Djg7zjgpLlv4XjgZrku5jkuI7jgZnjgosK</text>
+        <text encoding="base64">ICAgICAgIyBEQ03jga5SR0LlpInmj5tBUEnjgpLpgJrjgZfjgabjg5XjgqHjgqTjg6vjgpLnva7jgY8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0OiDjgqLjg6njg7zjg4jjg6Hjg7zjg6vjgavjgYrjgYTjgabjg5jjg4Pjg4Djg7zjgpLlv4XjgZrku5jkuI7jgZnjgosK</text>
+        <text encoding="base64">IyBEQ01hcGnoqK3lrpoKJGF1dGhvcml6YXRpb25fa2V5ID0gIiI7CiRhcGlfdXJsID0gIiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECkNPTVBMRVRFX1NRTD0ke1NRTF9GT1JfVklERU8vIj066Kix6Ku+5YWDSUQ6PSIvMX0KbXlzcWwgLU4gLXUkRERFeF9EQl9VU0VSIC0tcGFzc3dvcmQ9JERERXhfREJfUEFTUyAtaCAkRERFeF9EQl9IT1NUIGRkZXhfZGVsaXZlcmVkX2l0ZW0gPDwgRU9GICA+PiAkT1VUUFVUX0ZJTEVfUEFUSAo9PT09PT09Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>[</last-search>
+      <last-search>perl</last-search>
       <last-offset />
-      <last-pattern>[</last-pattern>
+      <last-pattern>perl</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -546,6 +559,7 @@
         <entry>許諾先</entry>
         <entry>unique</entry>
         <entry>[</entry>
+        <entry>perl</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
