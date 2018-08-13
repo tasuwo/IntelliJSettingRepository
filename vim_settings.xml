@@ -175,8 +175,8 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1534152280654">
-        <mark key="'" line="123" column="12" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1534153090043">
+        <mark key="'" line="199" column="30" />
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
@@ -241,6 +241,9 @@
         <mark key="]" line="27" column="28" />
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/UpdatedReleaseCheckPage.java" timestamp="1534152902213">
+        <mark key="'" line="81" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-manage/pom.xml" timestamp="1533544710152">
         <mark key="[" line="21" column="0" />
@@ -395,16 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
-      <jump line="400" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
-      <jump line="404" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" />
-      <jump line="22" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceBundleServiceImpl.java" />
-      <jump line="363" column="44" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/14.0/guava-14.0.jar!/com/google/common/collect/Maps.class" />
-      <jump line="35" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceBundleService.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceSingleService.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceVideoClipService.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage-core/pom.xml" />
       <jump line="17" column="27" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" />
       <jump line="68" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" />
@@ -495,6 +488,16 @@
       <jump line="39" column="24" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.sh" />
       <jump line="123" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="77" column="11" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" />
+      <jump line="81" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/UpdatedReleaseCheckPage.java" />
+      <jump line="73" column="20" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
+      <jump line="307" column="24" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
+      <jump line="415" column="56" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
+      <jump line="20" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
+      <jump line="21" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
+      <jump line="132" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
+      <jump line="186" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
+      <jump line="151" column="24" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
+      <jump line="199" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -504,7 +507,7 @@
         <text>M</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>ItemOrderStatus</text>
       </register>
       <register name="0" type="4">
         <text>https://dcm-imconv.dwango.jp/Prod</text>
@@ -544,9 +547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>ItemOrderStatus</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>ItemOrderStatus</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -575,6 +578,9 @@
         <entry>[</entry>
         <entry>perl</entry>
         <entry>status</entry>
+        <entry>ordewr</entry>
+        <entry>order</entry>
+        <entry>ItemOrderStatus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
