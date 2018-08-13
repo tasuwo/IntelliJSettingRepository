@@ -284,6 +284,9 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/MaterialServiceImpl.java" timestamp="1533618206287">
         <mark key="'" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" timestamp="1534155165382">
+        <mark key="'" line="127" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1533609197584">
         <mark key="'" line="17" column="27" />
         <mark key="[" line="112" column="21" />
@@ -401,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="78" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="32" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/MaterialServiceImpl.java" />
@@ -501,6 +503,7 @@
       <jump line="21" column="39" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/UpdatedReleaseCheckPage.java" />
       <jump line="62" column="23" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/UpdatedReleaseCheckPage.java" />
       <jump line="65" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/UpdatedReleaseCheckPage.java" />
+      <jump line="127" column="17" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -546,7 +549,7 @@
         <text encoding="base64">ICAgICAgIyBEQ03jga5SR0LlpInmj5tBUEnjgpLpgJrjgZfjgabjg5XjgqHjgqTjg6vjgpLnva7jgY8K</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -556,7 +559,7 @@
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -590,9 +593,9 @@
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
         <entry>%s/許諾先/許諾元/g</entry>
-        <entry>noh</entry>
         <entry>w</entry>
         <entry>split</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
