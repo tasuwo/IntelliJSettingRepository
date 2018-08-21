@@ -148,6 +148,12 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/enums/OrderedOnceState.java" timestamp="1534832330553">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1534153090043">
         <mark key="'" line="199" column="30" />
         <mark key="[" line="131" column="0" />
@@ -163,6 +169,12 @@
         <mark key="]" line="21" column="46" />
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Gateway.properties" timestamp="1534832366457">
+        <mark key="[" line="22" column="67" />
+        <mark key="]" line="22" column="72" />
+        <mark key="^" line="22" column="72" />
+        <mark key="." line="22" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/DeliveryMessageExtractorImpl.java" timestamp="1531881075245">
         <mark key="'" line="11" column="12" />
@@ -225,12 +237,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1533284735992">
         <mark key="'" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534831059637">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534832392324">
         <mark key="'" line="46" column="65" />
-        <mark key="[" line="63" column="77" />
-        <mark key="]" line="63" column="77" />
-        <mark key="." line="63" column="77" />
-        <mark key="^" line="63" column="77" />
+        <mark key="[" line="133" column="20" />
+        <mark key="]" line="133" column="41" />
+        <mark key="." line="133" column="41" />
+        <mark key="^" line="133" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1534152216884">
         <mark key="'" line="77" column="11" />
@@ -261,10 +273,11 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.html" timestamp="1534831113939">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.html" timestamp="1534831161191">
+        <mark key="[" line="34" column="53" />
+        <mark key="]" line="34" column="71" />
+        <mark key="." line="34" column="71" />
+        <mark key="^" line="34" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/validator/BundleAssociationMetaValidatorImpl.java" timestamp="1532591936373">
         <mark key="'" line="25" column="37" />
@@ -459,16 +472,16 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>licenseStatus</text>
+        <text>ID_RELEASE_STATUS</text>
       </register>
       <register name="/" type="4">
         <text>licenseStatus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbmRlbnNlZC1jb250cm9sLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbnRyb2wtbGFiZWwiIHdpY2tldDpmb3I9InJlbGVhc2Vfc3RhdHVzIj7phY3kv6HnirbmhYs8aSBjbGFzcz0iaWNvbi1leGNsYW1hdGlvbi1zaWduIj48L2k+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyIgd2lja2V0OmlkPSJyZWxlYXNlX3N0YXR1cyI+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIE9SREVSRURfT05DRSwgCiAgICBORVZFUl9PUkRFUkVEIAo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">T1JERVJFRF9PTkNFLApORVZFUl9PUkRFUkVEIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -476,8 +489,8 @@
       <register name="2" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -486,16 +499,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uZmlnLnhtbCAgZmV0Y2hfdW1nZ19wcm9kdWN0LnNoICBqdGVsZXBvcnRlcjMuamFyCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IMKgwqAgICAgIOKUnOKUgOKUgCBjb25maWcueG1sLjIwMTgwNTE3X3Rlc3QK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uZmlnLnhtbCAgZmV0Y2hfdW1nZ19wcm9kdWN0LnNoICBqdGVsZXBvcnRlcjMuamFyCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IMKgwqAgICAgIOKUnOKUgOKUgCBjb25maWcueG1sLjIwMTgwNTE3X3Rlc3QK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpzb248L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qc29uPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MjAxODAxMzA8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
