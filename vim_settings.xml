@@ -51,6 +51,9 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/stars/StarsItemExtractor.java" timestamp="1534839929283">
+        <mark key="'" line="366" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/test/Chat.spec.js" timestamp="1532450852257">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="43" column="41" />
@@ -392,8 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
-      <jump line="132" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="186" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="151" column="24" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="199" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
@@ -492,6 +493,8 @@
       <jump line="50" column="3" filename="$USER_HOME$/Documents/src/ddex-batch/batch_pegasus/stars_meta_output.sh" />
       <jump line="46" column="4" filename="$USER_HOME$/Documents/src/ddex-batch/batch_pegasus/stars_meta_output.sh" />
       <jump line="68" column="4" filename="$USER_HOME$/Documents/src/ddex-batch/batch_pegasus/stars_meta_output.sh" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/stars/StarsItemExtractor.java" />
+      <jump line="366" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/stars/StarsItemExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -501,7 +504,7 @@
         <text encoding="base64">dW5pcXVlX2NvZGUg</text>
       </register>
       <register name="/" type="4">
-        <text>unique_code</text>
+        <text>sales</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBJTW9kZWw8Qm9vbGVhbj4gb25seUxvZ2luVXNlck1vZGVsID0gbmV3IEFic3RyYWN0Q2hlY2tCb3hNb2RlbCgpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc1NlbGVjdGVkKCkgewogICAgICAgICAgICAgICAgU2VhcmNoQ29uZGl0aW9uRHRvIGNvbmRpdGlvbiA9IGdldENvbmRpdGlvbk1vZGVsKCkuZ2V0T2JqZWN0KCk7CgogICAgICAgICAgICAgICAgaW50IGxvZ2luVXNlcklkID0gU2VydmljZUxvY2F0b3IuZ2V0KCkuZ2V0SW5zdGFuY2UoS2V5LmdldChJbnRlZ2VyLmNsYXNzLCBMb2dpblVzZXJJZC5jbGFzcykpOwoKICAgICAgICAgICAgICAgIC8vIOS9nOalreiAheOBjOS9nOalreOBl+OBn+eJqeOBi+OBqeOBhuOBi+OCkuOBv+OCiwogICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICAgICAgY29uZGl0aW9uLmdldExhc3RNb2RpZmllZFVzZXJJZHMoKSAhPSBudWxsICYmCiAgICAgICAgICAgICAgICAgICAgY29uZGl0aW9uLmdldExhc3RNb2RpZmllZFVzZXJJZHMoKS5jb250YWlucyhsb2dpblVzZXJJZCkgJiYKICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0TGFzdE1vZGlmaWVkVXNlcklkcygpLnNpemUoKSA9PSBDb2xsZWN0aW9ucy5mcmVxdWVuY3koCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0TGFzdE1vZGlmaWVkVXNlcklkcygpLCBsb2dpblVzZXJJZCk7IC8vIOS4gOW/nOODpuODvOOCtklE44KS6YeN6KSH44GX44Gm5YWl44KM44KJ44KM44Gm44GX44G+44GG44GT44Go44KC6ICD5oWu44GZ44KLCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBzZWxlY3QoKSB7CiAgICAgICAgICAgICAgICAvLyDoh6rliIbjgYzmnIDlvozjgavkvZzmpa3jgZfjgZ/nianjgavpmZDlrprjgZnjgosKICAgICAgICAgICAgICAgIFNlYXJjaENvbmRpdGlvbkR0byBjb25kaXRpb24gPSBnZXRDb25kaXRpb25Nb2RlbCgpLmdldE9iamVjdCgpOwogICAgICAgICAgICAgICAgY29uZGl0aW9uLnNldExhc3RNb2RpZmllZFVzZXJJZHMoCiAgICAgICAgICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUxvY2F0b3IuZ2V0KCkuZ2V0SW5zdGFuY2UoS2V5LmdldChJbnRlZ2VyLmNsYXNzLCBMb2dpblVzZXJJZC5jbGFzcykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICBzZXRDb25kaXRpb24oY29uZGl0aW9uKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHVuc2VsZWN0KCkgewogICAgICAgICAgICAgICAgLy8g44Om44O844K25p2h5Lu244KS5raI44GX44GmLOWFqOODpuODvOOCtuWIhuOCkuihqOekuuOBmeOCiy4KICAgICAgICAgICAgICAgIFNlYXJjaENvbmRpdGlvbkR0byBjb25kaXRpb24gPSBnZXRDb25kaXRpb25Nb2RlbCgpLmdldE9iamVjdCgpOwogICAgICAgICAgICAgICAgY29uZGl0aW9uLnNldExhc3RNb2RpZmllZFVzZXJJZHMobnVsbCk7CgogICAgICAgICAgICAgICAgc2V0Q29uZGl0aW9uKGNvbmRpdGlvbik7CiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
@@ -541,9 +544,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unique_code</last-search>
+      <last-search>sales</last-search>
       <last-offset />
-      <last-pattern>unique_code</last-pattern>
+      <last-pattern>sales</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -578,6 +581,7 @@
         <entry>resourcedeliverystatus</entry>
         <entry>licenseStatus</entry>
         <entry>unique_code</entry>
+        <entry>sales</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
