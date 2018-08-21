@@ -98,8 +98,10 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceBundleServiceImpl.java" timestamp="1533607526013">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" timestamp="1534830620533">
-        <mark key="'" line="39" column="42" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" timestamp="1534835285775">
+        <mark key="'" line="89" column="50" />
+        <mark key="[" line="86" column="12" />
+        <mark key="]" line="86" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533607696243">
         <mark key="'" line="71" column="0" />
@@ -131,6 +133,10 @@
         <mark key="]" line="47" column="5" />
         <mark key="." line="47" column="5" />
         <mark key="^" line="47" column="5" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/CheckBoxMultipleChoice.class" timestamp="1534835442762">
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1534421653994">
         <mark key="'" line="255" column="28" />
@@ -367,11 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="81" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="73" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
@@ -467,6 +468,11 @@
       <jump line="25" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
       <jump line="39" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
       <jump line="131" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
+      <jump line="86" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
+      <jump line="59" column="37" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
+      <jump line="29" column="11" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
+      <jump line="89" column="50" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -476,10 +482,10 @@
         <text>す</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>resourcedeliverystatus</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE9SREVSRURfT05DRSwgCiAgICBORVZFUl9PUkRFUkVEIAo=</text>
+      <register name="0" type="4">
+        <text>CheckBoxMultipleChoice</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZWdlbmQ+CiAgICAgICAgICAgICAgICAgICAg5paw552A44Oq44Oq44O844K556K66KqNCiAgICAgICAgICAgICAgICAgICAgPHNtYWxsPuaMh+WumuaXpeaZguOBq+aWsOimj+mFjeS/oeOBleOCjOOBn+ODquODquODvOOCueOBruOBhuOBoSzphY3kv6Hlj6/og73jgarjgoLjga7jgpLooajnpLrjgZfjgb7jgZkuPC9zbWFsbD4KICAgICAgICAgICAgICAgIDwvbGVnZW5kPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCIgZm9yPSJwYXJ0eV9zZWxlY3RvciI+57SN5ZOB5YWDPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImlucHV0LXhsYXJnZSIgaWQ9InBhcnR5X3NlbGVjdG9yIiB3aWNrZXQ6aWQ9InBhcnR5X3NlbGVjdG9yIj48L3NlbGVjdD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDx3aWNrZXQ6Y29udGFpbmVyIHdpY2tldDppZD0iYXJyaXZhbF9kYXRlX3JhbmdlIj48L3dpY2tldDpjb250YWluZXI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbmRlbnNlZC1jb250cm9sLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8d2lja2V0OmNvbnRhaW5lciB3aWNrZXQ6aWQ9ImRlbGl2ZXJhYmxlX2RhdGVfcmFuZ2UiPjwvd2lja2V0OmNvbnRhaW5lcj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
@@ -516,9 +522,9 @@
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>resourcedeliverystatus</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>resourcedeliverystatus</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -548,6 +554,10 @@
         <entry>putcopy</entry>
         <entry>licenseStatus</entry>
         <entry>form</entry>
+        <entry>isOrderedOnce</entry>
+        <entry>deliveryRequestStatus</entry>
+        <entry>boolean</entry>
+        <entry>resourcedeliverystatus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
