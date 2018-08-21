@@ -64,6 +64,9 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/spaceshower/SpaceshowerGeneralTrack.java" timestamp="1532504169314">
         <mark key="'" line="32" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchConditionUtil.java" timestamp="1534836361872">
+        <mark key="'" line="112" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
         <mark key="[" line="614" column="28" />
@@ -98,10 +101,11 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceBundleServiceImpl.java" timestamp="1533607526013">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" timestamp="1534835285775">
-        <mark key="'" line="89" column="50" />
-        <mark key="[" line="86" column="12" />
-        <mark key="]" line="86" column="32" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" timestamp="1534836337685">
+        <mark key="'" line="59" column="18" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533607696243">
         <mark key="'" line="71" column="0" />
@@ -244,12 +248,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1533284735992">
         <mark key="'" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534834019000">
-        <mark key="'" line="131" column="13" />
-        <mark key="[" line="133" column="20" />
-        <mark key="]" line="133" column="41" />
-        <mark key="." line="133" column="41" />
-        <mark key="^" line="133" column="41" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534836032229">
+        <mark key="'" line="133" column="42" />
+        <mark key="[" line="135" column="62" />
+        <mark key="]" line="135" column="72" />
+        <mark key="." line="135" column="72" />
+        <mark key="^" line="135" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1534152216884">
         <mark key="'" line="77" column="11" />
@@ -280,7 +284,7 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.html" timestamp="1534834271982">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.html" timestamp="1534836226211">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -373,11 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="66" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="58" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="57" column="13" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
       <jump line="60" column="44" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
       <jump line="59" column="38" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
       <jump line="39" column="5" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
@@ -470,40 +469,45 @@
       <jump line="131" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
       <jump line="86" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
-      <jump line="59" column="37" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
       <jump line="29" column="11" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
       <jump line="89" column="50" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
+      <jump line="113" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
+      <jump line="133" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="59" column="18" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
+      <jump line="28" column="53" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchConditionUtil.java" />
+      <jump line="69" column="88" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchConditionUtil.java" />
+      <jump line="112" column="21" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchConditionUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>す</text>
+        <text>isOrderedOnce</text>
       </register>
       <register name="/" type="4">
-        <text>resourcedeliverystatus</text>
+        <text>licenseStatus</text>
       </register>
-      <register name="0" type="4">
-        <text>CheckBoxMultipleChoice</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxSZXNvdXJjZURlbGl2ZXJ5U3RhdGU+IHJlc291cmNlRGVsaXZlcnlTdGF0dXM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZWdlbmQ+CiAgICAgICAgICAgICAgICAgICAg5paw552A44Oq44Oq44O844K556K66KqNCiAgICAgICAgICAgICAgICAgICAgPHNtYWxsPuaMh+WumuaXpeaZguOBq+aWsOimj+mFjeS/oeOBleOCjOOBn+ODquODquODvOOCueOBruOBhuOBoSzphY3kv6Hlj6/og73jgarjgoLjga7jgpLooajnpLrjgZfjgb7jgZkuPC9zbWFsbD4KICAgICAgICAgICAgICAgIDwvbGVnZW5kPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCIgZm9yPSJwYXJ0eV9zZWxlY3RvciI+57SN5ZOB5YWDPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImlucHV0LXhsYXJnZSIgaWQ9InBhcnR5X3NlbGVjdG9yIiB3aWNrZXQ6aWQ9InBhcnR5X3NlbGVjdG9yIj48L3NlbGVjdD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDx3aWNrZXQ6Y29udGFpbmVyIHdpY2tldDppZD0iYXJyaXZhbF9kYXRlX3JhbmdlIj48L3dpY2tldDpjb250YWluZXI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbmRlbnNlZC1jb250cm9sLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8d2lja2V0OmNvbnRhaW5lciB3aWNrZXQ6aWQ9ImRlbGl2ZXJhYmxlX2RhdGVfcmFuZ2UiPjwvd2lja2V0OmNvbnRhaW5lcj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxPcmRlcmVkT25jZVN0YXRlPiBvcmRlcmVkT25jZTsKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">T1JERVJFRF9PTkNFLApORVZFUl9PUkRFUkVEIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZWdlbmQ+CiAgICAgICAgICAgICAgICAgICAg5paw552A44Oq44Oq44O844K556K66KqNCiAgICAgICAgICAgICAgICAgICAgPHNtYWxsPuaMh+WumuaXpeaZguOBq+aWsOimj+mFjeS/oeOBleOCjOOBn+ODquODquODvOOCueOBruOBhuOBoSzphY3kv6Hlj6/og73jgarjgoLjga7jgpLooajnpLrjgZfjgb7jgZkuPC9zbWFsbD4KICAgICAgICAgICAgICAgIDwvbGVnZW5kPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCIgZm9yPSJwYXJ0eV9zZWxlY3RvciI+57SN5ZOB5YWDPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImlucHV0LXhsYXJnZSIgaWQ9InBhcnR5X3NlbGVjdG9yIiB3aWNrZXQ6aWQ9InBhcnR5X3NlbGVjdG9yIj48L3NlbGVjdD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDx3aWNrZXQ6Y29udGFpbmVyIHdpY2tldDppZD0iYXJyaXZhbF9kYXRlX3JhbmdlIj48L3dpY2tldDpjb250YWluZXI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbmRlbnNlZC1jb250cm9sLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8d2lja2V0OmNvbnRhaW5lciB3aWNrZXQ6aWQ9ImRlbGl2ZXJhYmxlX2RhdGVfcmFuZ2UiPjwvd2lja2V0OmNvbnRhaW5lcj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">T1JERVJFRF9PTkNFLApORVZFUl9PUkRFUkVEIAo=</text>
       </register>
       <register name="4" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -512,19 +516,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uZmlnLnhtbCAgZmV0Y2hfdW1nZ19wcm9kdWN0LnNoICBqdGVsZXBvcnRlcjMuamFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IMKgwqAgICAgIOKUnOKUgOKUgCBjb25maWcueG1sLjIwMTgwNTE3X3Rlc3QK</text>
+        <text encoding="base64">Y29uZmlnLnhtbCAgZmV0Y2hfdW1nZ19wcm9kdWN0LnNoICBqdGVsZXBvcnRlcjMuamFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resourcedeliverystatus</last-search>
+      <last-search>licenseStatus</last-search>
       <last-offset />
-      <last-pattern>resourcedeliverystatus</last-pattern>
+      <last-pattern>licenseStatus</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -552,12 +556,12 @@
         <entry>copyright</entry>
         <entry>getcopyrightsociety()</entry>
         <entry>putcopy</entry>
-        <entry>licenseStatus</entry>
         <entry>form</entry>
         <entry>isOrderedOnce</entry>
         <entry>deliveryRequestStatus</entry>
         <entry>boolean</entry>
         <entry>resourcedeliverystatus</entry>
+        <entry>licenseStatus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
