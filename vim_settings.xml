@@ -101,11 +101,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceBundleServiceImpl.java" timestamp="1533607526013">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" timestamp="1534836337685">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" timestamp="1534837512601">
         <mark key="'" line="59" column="18" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+        <mark key="[" line="123" column="33" />
+        <mark key="]" line="123" column="32" />
+        <mark key="." line="123" column="32" />
+        <mark key="^" line="123" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533607696243">
         <mark key="'" line="71" column="0" />
@@ -248,11 +249,11 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1533284735992">
         <mark key="'" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534836032229">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534837389821">
         <mark key="'" line="133" column="42" />
-        <mark key="[" line="135" column="62" />
-        <mark key="]" line="135" column="72" />
-        <mark key="." line="135" column="72" />
+        <mark key="[" line="133" column="16" />
+        <mark key="]" line="133" column="16" />
+        <mark key="." line="133" column="16" />
         <mark key="^" line="135" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1534152216884">
@@ -492,34 +493,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxSZXNvdXJjZURlbGl2ZXJ5U3RhdGU+IHJlc291cmNlRGVsaXZlcnlTdGF0dXM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxPcmRlcmVkT25jZVN0YXRlPiBvcmRlcmVkT25jZTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxPcmRlcmVkT25jZVN0YXRlPiBvcmRlcmVkT25jZTsKCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZWdlbmQ+CiAgICAgICAgICAgICAgICAgICAg5paw552A44Oq44Oq44O844K556K66KqNCiAgICAgICAgICAgICAgICAgICAgPHNtYWxsPuaMh+WumuaXpeaZguOBq+aWsOimj+mFjeS/oeOBleOCjOOBn+ODquODquODvOOCueOBruOBhuOBoSzphY3kv6Hlj6/og73jgarjgoLjga7jgpLooajnpLrjgZfjgb7jgZkuPC9zbWFsbD4KICAgICAgICAgICAgICAgIDwvbGVnZW5kPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCIgZm9yPSJwYXJ0eV9zZWxlY3RvciI+57SN5ZOB5YWDPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImlucHV0LXhsYXJnZSIgaWQ9InBhcnR5X3NlbGVjdG9yIiB3aWNrZXQ6aWQ9InBhcnR5X3NlbGVjdG9yIj48L3NlbGVjdD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDx3aWNrZXQ6Y29udGFpbmVyIHdpY2tldDppZD0iYXJyaXZhbF9kYXRlX3JhbmdlIj48L3dpY2tldDpjb250YWluZXI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbmRlbnNlZC1jb250cm9sLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8d2lja2V0OmNvbnRhaW5lciB3aWNrZXQ6aWQ9ImRlbGl2ZXJhYmxlX2RhdGVfcmFuZ2UiPjwvd2lja2V0OmNvbnRhaW5lcj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">T1JERVJFRF9PTkNFLApORVZFUl9PUkRFUkVEIAo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uZmlnLnhtbCAgZmV0Y2hfdW1nZ19wcm9kdWN0LnNoICBqdGVsZXBvcnRlcjMuamFyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
