@@ -188,6 +188,11 @@
         <mark key="^" line="22" column="72" />
         <mark key="." line="22" column="72" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" timestamp="1534838196181">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/DeliveryMessageExtractorImpl.java" timestamp="1531881075245">
         <mark key="'" line="11" column="12" />
         <mark key="[" line="11" column="0" />
@@ -249,12 +254,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1533284735992">
         <mark key="'" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534837389821">
-        <mark key="'" line="133" column="42" />
-        <mark key="[" line="133" column="16" />
-        <mark key="]" line="133" column="16" />
-        <mark key="." line="133" column="16" />
-        <mark key="^" line="135" column="72" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534838596907">
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="135" column="24" />
+        <mark key="]" line="135" column="15" />
+        <mark key="." line="135" column="15" />
+        <mark key="^" line="135" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1534152216884">
         <mark key="'" line="77" column="11" />
@@ -276,8 +281,10 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/MaterialServiceImpl.java" timestamp="1533618206287">
         <mark key="'" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" timestamp="1534759594028">
-        <mark key="'" line="50" column="59" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" timestamp="1534838349213">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="104" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1534749619133">
         <mark key="'" line="137" column="0" />
@@ -378,20 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="44" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
-      <jump line="59" column="38" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="39" column="5" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="27" column="29" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
-      <jump line="226" column="6" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="84" column="27" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="322" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="15" column="29" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_jp.sh" />
-      <jump line="39" column="24" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.sh" />
-      <jump line="123" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
-      <jump line="77" column="11" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" />
-      <jump line="81" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/UpdatedReleaseCheckPage.java" />
-      <jump line="73" column="20" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="307" column="24" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="415" column="56" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="20" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
@@ -478,49 +471,63 @@
       <jump line="28" column="53" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchConditionUtil.java" />
       <jump line="69" column="88" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchConditionUtil.java" />
       <jump line="112" column="21" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchConditionUtil.java" />
+      <jump line="11" column="13" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" />
+      <jump line="14" column="0" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" />
+      <jump line="18" column="0" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" />
+      <jump line="22" column="0" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" />
+      <jump line="31" column="0" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" />
+      <jump line="137" column="34" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="198" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="68" column="58" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>isOrderedOnce</text>
+        <text>selected</text>
       </register>
       <register name="/" type="4">
         <text>licenseStatus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxSZXNvdXJjZURlbGl2ZXJ5U3RhdGU+IHJlc291cmNlRGVsaXZlcnlTdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJTW9kZWw8Qm9vbGVhbj4gb25seUxvZ2luVXNlck1vZGVsID0gbmV3IEFic3RyYWN0Q2hlY2tCb3hNb2RlbCgpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc1NlbGVjdGVkKCkgewogICAgICAgICAgICAgICAgU2VhcmNoQ29uZGl0aW9uRHRvIGNvbmRpdGlvbiA9IGdldENvbmRpdGlvbk1vZGVsKCkuZ2V0T2JqZWN0KCk7CgogICAgICAgICAgICAgICAgaW50IGxvZ2luVXNlcklkID0gU2VydmljZUxvY2F0b3IuZ2V0KCkuZ2V0SW5zdGFuY2UoS2V5LmdldChJbnRlZ2VyLmNsYXNzLCBMb2dpblVzZXJJZC5jbGFzcykpOwoKICAgICAgICAgICAgICAgIC8vIOS9nOalreiAheOBjOS9nOalreOBl+OBn+eJqeOBi+OBqeOBhuOBi+OCkuOBv+OCiwogICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICAgICAgY29uZGl0aW9uLmdldExhc3RNb2RpZmllZFVzZXJJZHMoKSAhPSBudWxsICYmCiAgICAgICAgICAgICAgICAgICAgY29uZGl0aW9uLmdldExhc3RNb2RpZmllZFVzZXJJZHMoKS5jb250YWlucyhsb2dpblVzZXJJZCkgJiYKICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0TGFzdE1vZGlmaWVkVXNlcklkcygpLnNpemUoKSA9PSBDb2xsZWN0aW9ucy5mcmVxdWVuY3koCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0TGFzdE1vZGlmaWVkVXNlcklkcygpLCBsb2dpblVzZXJJZCk7IC8vIOS4gOW/nOODpuODvOOCtklE44KS6YeN6KSH44GX44Gm5YWl44KM44KJ44KM44Gm44GX44G+44GG44GT44Go44KC6ICD5oWu44GZ44KLCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBzZWxlY3QoKSB7CiAgICAgICAgICAgICAgICAvLyDoh6rliIbjgYzmnIDlvozjgavkvZzmpa3jgZfjgZ/nianjgavpmZDlrprjgZnjgosKICAgICAgICAgICAgICAgIFNlYXJjaENvbmRpdGlvbkR0byBjb25kaXRpb24gPSBnZXRDb25kaXRpb25Nb2RlbCgpLmdldE9iamVjdCgpOwogICAgICAgICAgICAgICAgY29uZGl0aW9uLnNldExhc3RNb2RpZmllZFVzZXJJZHMoCiAgICAgICAgICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUxvY2F0b3IuZ2V0KCkuZ2V0SW5zdGFuY2UoS2V5LmdldChJbnRlZ2VyLmNsYXNzLCBMb2dpblVzZXJJZC5jbGFzcykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICBzZXRDb25kaXRpb24oY29uZGl0aW9uKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHVuc2VsZWN0KCkgewogICAgICAgICAgICAgICAgLy8g44Om44O844K25p2h5Lu244KS5raI44GX44GmLOWFqOODpuODvOOCtuWIhuOCkuihqOekuuOBmeOCiy4KICAgICAgICAgICAgICAgIFNlYXJjaENvbmRpdGlvbkR0byBjb25kaXRpb24gPSBnZXRDb25kaXRpb25Nb2RlbCgpLmdldE9iamVjdCgpOwogICAgICAgICAgICAgICAgY29uZGl0aW9uLnNldExhc3RNb2RpZmllZFVzZXJJZHMobnVsbCk7CgogICAgICAgICAgICAgICAgc2V0Q29uZGl0aW9uKGNvbmRpdGlvbik7CiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgICAgICAgICJsaXN0IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlhZGQoZm9ybSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbjxPcmRlcmVkT25jZVN0YXRlPiBvcmRlcmVkT25jZTsKCg==</text>
+        <text encoding="base64">CQlGb3JtIGZvcm0gPSBuZXcgRm9ybSgiZm9ybSIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsZWdlbmQ+CiAgICAgICAgICAgICAgICAgICAg5paw552A44Oq44Oq44O844K556K66KqNCiAgICAgICAgICAgICAgICAgICAgPHNtYWxsPuaMh+WumuaXpeaZguOBq+aWsOimj+mFjeS/oeOBleOCjOOBn+ODquODquODvOOCueOBruOBhuOBoSzphY3kv6Hlj6/og73jgarjgoLjga7jgpLooajnpLrjgZfjgb7jgZkuPC9zbWFsbD4KICAgICAgICAgICAgICAgIDwvbGVnZW5kPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29udHJvbC1sYWJlbCIgZm9yPSJwYXJ0eV9zZWxlY3RvciI+57SN5ZOB5YWDPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImlucHV0LXhsYXJnZSIgaWQ9InBhcnR5X3NlbGVjdG9yIiB3aWNrZXQ6aWQ9InBhcnR5X3NlbGVjdG9yIj48L3NlbGVjdD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29uZGVuc2VkLWNvbnRyb2wtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDx3aWNrZXQ6Y29udGFpbmVyIHdpY2tldDppZD0iYXJyaXZhbF9kYXRlX3JhbmdlIj48L3dpY2tldDpjb250YWluZXI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbmRlbnNlZC1jb250cm9sLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8d2lja2V0OmNvbnRhaW5lciB3aWNrZXQ6aWQ9ImRlbGl2ZXJhYmxlX2RhdGVfcmFuZ2UiPjwvd2lja2V0OmNvbnRhaW5lcj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2FtcGxlQ2hvaWNlUmVuZGVyZXIoKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">T1JERVJFRF9PTkNFLApORVZFUl9PUkRFUkVEIAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8JCeihqOekuueUqOODqeODmeODqwoJCWZpbmFsIExhYmVsIGxhYmVsID0gbmV3IExhYmVsKCJsYWJlbCIsICLmnIDliJ0iKTsK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlmb3JtLmFkZChuZXcgQnV0dG9uKCJuZXh0IikgewoJCQlwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSAtMTM1OTQxNzEzNTYyMzYyOTE3OUw7Ci8vCQnpgbjmip7jgZfjgZ/jgoLjga7jgpLpgKPntZDjgZfjgaZMYWJlbOOBq+OCu+ODg+ODiAoJCQlAT3ZlcnJpZGUKCQkJcHVibGljIHZvaWQgb25TdWJtaXQoKSB7CgkJCQlMaXN0PFNhbXBsZU9iamVjdE1vZGVsQmVhbj4gbGlzdCA9IAoJCQkJCShMaXN0PFNhbXBsZU9iamVjdE1vZGVsQmVhbj4pbXVsdGlDaG9pY2UuZ2V0TW9kZWxPYmplY3QoKTsKCQkJCVN0cmluZyB2YWx1ZSA9ICIiOwoJCQkJZm9yIChTYW1wbGVPYmplY3RNb2RlbEJlYW4gYmVhbiA6IGxpc3QpIHsKCQkJCQl2YWx1ZSArPSBiZWFuLmdldE91dGxpbmUoKSArICIsICI7CgkJCQl9CgkJCQlsYWJlbC5zZXRNb2RlbE9iamVjdCh2YWx1ZSk7CgkJCX0KCQl9KTsKCQl0aGlzLmFkZChsYWJlbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
