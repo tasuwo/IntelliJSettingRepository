@@ -6,6 +6,10 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/amuse/AmuseGeneralTrack.java" timestamp="1532504122722">
         <mark key="'" line="34" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ReleaseIdForm.html" timestamp="1534830512184">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/test/ChatStream.spec.js" timestamp="1532443721584">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="2" column="32" />
@@ -42,6 +46,10 @@
       <file name="$MAVEN_REPOSITORY$/jenkov/butterfly-persistence/5.2.0/butterfly-persistence-5.2.0.jar!/com/jenkov/db/impl/ObjectReader.class" timestamp="1533550545045">
         <mark key="'" line="283" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ReleaseIdForm.java" timestamp="1534830476332">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/test/Chat.spec.js" timestamp="1532450852257">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="43" column="41" />
@@ -69,6 +77,9 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" timestamp="1534830392840">
+        <mark key="'" line="68" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" timestamp="1533602720153">
         <mark key="'" line="408" column="0" />
         <mark key="[" line="270" column="11" />
@@ -85,6 +96,9 @@
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceBundleServiceImpl.java" timestamp="1533607526013">
         <mark key="'" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" timestamp="1534830620533">
+        <mark key="'" line="39" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533607696243">
         <mark key="'" line="71" column="0" />
@@ -211,6 +225,13 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1533284735992">
         <mark key="'" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" timestamp="1534831059637">
+        <mark key="'" line="46" column="65" />
+        <mark key="[" line="63" column="77" />
+        <mark key="]" line="63" column="77" />
+        <mark key="." line="63" column="77" />
+        <mark key="^" line="63" column="77" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1534152216884">
         <mark key="'" line="77" column="11" />
       </file>
@@ -239,6 +260,11 @@
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.html" timestamp="1534831113939">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="36" column="22" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/bundle/validator/BundleAssociationMetaValidatorImpl.java" timestamp="1532591936373">
         <mark key="'" line="25" column="37" />
@@ -327,15 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="103" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="131" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="127" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="119" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="117" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="112" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
-      <jump line="104" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
       <jump line="101" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
       <jump line="88" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/delivery_monitor_by_isrc.sh" />
@@ -427,58 +444,67 @@
       <jump line="149" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" />
       <jump line="143" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" />
       <jump line="137" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" />
+      <jump line="68" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="55" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="12" column="82" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="36" column="44" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="39" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="45" column="65" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
+      <jump line="39" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>licenseStatus</text>
       </register>
       <register name="/" type="4">
-        <text>putcopy</text>
+        <text>licenseStatus</text>
       </register>
-      <register name="0" type="4">
-        <text>└</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbmRlbnNlZC1jb250cm9sLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbnRyb2wtbGFiZWwiIHdpY2tldDpmb3I9InJlbGVhc2Vfc3RhdHVzIj7phY3kv6HnirbmhYs8aSBjbGFzcz0iaWNvbi1leGNsYW1hdGlvbi1zaWduIj48L2k+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyIgd2lja2V0OmlkPSJyZWxlYXNlX3N0YXR1cyI+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uZmlnLnhtbCAgZmV0Y2hfdW1nZ19wcm9kdWN0LnNoICBqdGVsZXBvcnRlcjMuamFyCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IMKgwqAgICAgIOKUnOKUgOKUgCBjb25maWcueG1sLjIwMTgwNTE3X3Rlc3QK</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpzb248L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qc29uPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MjAxODAxMzA8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qcwo=</text>
+        <text encoding="base64">Y29uZmlnLnhtbCAgZmV0Y2hfdW1nZ19wcm9kdWN0LnNoICBqdGVsZXBvcnRlcjMuamFyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IMKgwqAgICAgIOKUnOKUgOKUgCBjb25maWcueG1sLjIwMTgwNTE3X3Rlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3JnLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpzb248L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5qc29uPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+MjAxODAxMzA8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>putcopy</last-search>
+      <last-search>licenseStatus</last-search>
       <last-offset />
-      <last-pattern>putcopy</last-pattern>
+      <last-pattern>licenseStatus</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -506,6 +532,8 @@
         <entry>copyright</entry>
         <entry>getcopyrightsociety()</entry>
         <entry>putcopy</entry>
+        <entry>form</entry>
+        <entry>licenseStatus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
