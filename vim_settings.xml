@@ -330,6 +330,13 @@
       <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/Track.java" timestamp="1532677392266">
         <mark key="'" line="74" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_pegasus/stars_meta_output.sh" timestamp="1534839172419">
+        <mark key="'" line="68" column="4" />
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-delivery-core/src/main/java/jp/co/dwango/ddex/delivery_core/label_gate/message/BaseTableFormat.java" timestamp="1532924628874">
         <mark key="'" line="51" column="28" />
       </file>
@@ -385,9 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="24" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
-      <jump line="415" column="56" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
-      <jump line="20" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="21" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="132" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="186" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
@@ -485,16 +489,19 @@
       <jump line="83" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
       <jump line="95" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
       <jump line="101" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
+      <jump line="50" column="3" filename="$USER_HOME$/Documents/src/ddex-batch/batch_pegasus/stars_meta_output.sh" />
+      <jump line="46" column="4" filename="$USER_HOME$/Documents/src/ddex-batch/batch_pegasus/stars_meta_output.sh" />
+      <jump line="68" column="4" filename="$USER_HOME$/Documents/src/ddex-batch/batch_pegasus/stars_meta_output.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>selected</text>
+        <text encoding="base64">dW5pcXVlX2NvZGUg</text>
       </register>
       <register name="/" type="4">
-        <text>licenseStatus</text>
+        <text>unique_code</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBJTW9kZWw8Qm9vbGVhbj4gb25seUxvZ2luVXNlck1vZGVsID0gbmV3IEFic3RyYWN0Q2hlY2tCb3hNb2RlbCgpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBpc1NlbGVjdGVkKCkgewogICAgICAgICAgICAgICAgU2VhcmNoQ29uZGl0aW9uRHRvIGNvbmRpdGlvbiA9IGdldENvbmRpdGlvbk1vZGVsKCkuZ2V0T2JqZWN0KCk7CgogICAgICAgICAgICAgICAgaW50IGxvZ2luVXNlcklkID0gU2VydmljZUxvY2F0b3IuZ2V0KCkuZ2V0SW5zdGFuY2UoS2V5LmdldChJbnRlZ2VyLmNsYXNzLCBMb2dpblVzZXJJZC5jbGFzcykpOwoKICAgICAgICAgICAgICAgIC8vIOS9nOalreiAheOBjOS9nOalreOBl+OBn+eJqeOBi+OBqeOBhuOBi+OCkuOBv+OCiwogICAgICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgICAgICAgICAgICAgY29uZGl0aW9uLmdldExhc3RNb2RpZmllZFVzZXJJZHMoKSAhPSBudWxsICYmCiAgICAgICAgICAgICAgICAgICAgY29uZGl0aW9uLmdldExhc3RNb2RpZmllZFVzZXJJZHMoKS5jb250YWlucyhsb2dpblVzZXJJZCkgJiYKICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0TGFzdE1vZGlmaWVkVXNlcklkcygpLnNpemUoKSA9PSBDb2xsZWN0aW9ucy5mcmVxdWVuY3koCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25kaXRpb24uZ2V0TGFzdE1vZGlmaWVkVXNlcklkcygpLCBsb2dpblVzZXJJZCk7IC8vIOS4gOW/nOODpuODvOOCtklE44KS6YeN6KSH44GX44Gm5YWl44KM44KJ44KM44Gm44GX44G+44GG44GT44Go44KC6ICD5oWu44GZ44KLCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBzZWxlY3QoKSB7CiAgICAgICAgICAgICAgICAvLyDoh6rliIbjgYzmnIDlvozjgavkvZzmpa3jgZfjgZ/nianjgavpmZDlrprjgZnjgosKICAgICAgICAgICAgICAgIFNlYXJjaENvbmRpdGlvbkR0byBjb25kaXRpb24gPSBnZXRDb25kaXRpb25Nb2RlbCgpLmdldE9iamVjdCgpOwogICAgICAgICAgICAgICAgY29uZGl0aW9uLnNldExhc3RNb2RpZmllZFVzZXJJZHMoCiAgICAgICAgICAgICAgICAgICAgICAgIEFycmF5cy5hc0xpc3QoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2VydmljZUxvY2F0b3IuZ2V0KCkuZ2V0SW5zdGFuY2UoS2V5LmdldChJbnRlZ2VyLmNsYXNzLCBMb2dpblVzZXJJZC5jbGFzcykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICBzZXRDb25kaXRpb24oY29uZGl0aW9uKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHVuc2VsZWN0KCkgewogICAgICAgICAgICAgICAgLy8g44Om44O844K25p2h5Lu244KS5raI44GX44GmLOWFqOODpuODvOOCtuWIhuOCkuihqOekuuOBmeOCiy4KICAgICAgICAgICAgICAgIFNlYXJjaENvbmRpdGlvbkR0byBjb25kaXRpb24gPSBnZXRDb25kaXRpb25Nb2RlbCgpLmdldE9iamVjdCgpOwogICAgICAgICAgICAgICAgY29uZGl0aW9uLnNldExhc3RNb2RpZmllZFVzZXJJZHMobnVsbCk7CgogICAgICAgICAgICAgICAgc2V0Q29uZGl0aW9uKGNvbmRpdGlvbik7CiAgICAgICAgICAgIH0KICAgICAgICB9Owo=</text>
@@ -534,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search>licenseStatus</last-search>
+      <last-search>unique_code</last-search>
       <last-offset />
-      <last-pattern>licenseStatus</last-pattern>
+      <last-pattern>unique_code</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -570,6 +577,7 @@
         <entry>boolean</entry>
         <entry>resourcedeliverystatus</entry>
         <entry>licenseStatus</entry>
+        <entry>unique_code</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
