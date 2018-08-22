@@ -17,11 +17,11 @@
         <mark key="]" line="38" column="21" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1534932940103">
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="75" />
-        <mark key="." line="28" column="75" />
-        <mark key="^" line="28" column="75" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1534935139885">
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.html" timestamp="1534905402999">
         <mark key="[" line="29" column="0" />
@@ -57,11 +57,12 @@
         <mark key="^" line="125" column="60" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1534932281591">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="78" column="54" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1534934810171">
+        <mark key="'" line="68" column="53" />
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="77" column="13" />
+        <mark key="^" line="77" column="13" />
+        <mark key="." line="77" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.html" timestamp="1534904722075">
         <mark key="[" line="19" column="0" />
@@ -187,11 +188,10 @@
         <mark key="." line="35" column="20" />
         <mark key="^" line="35" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" timestamp="1534932608167">
-        <mark key="[" line="108" column="36" />
-        <mark key="]" line="108" column="40" />
-        <mark key="." line="108" column="40" />
-        <mark key="^" line="108" column="40" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" timestamp="1534935095607">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" timestamp="1534905545561">
         <mark key="'" line="23" column="0" />
@@ -206,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" />
       <jump line="22" column="0" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" />
       <jump line="31" column="0" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/form/EnumChoiceRenderer.class" />
       <jump line="137" column="34" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
@@ -306,49 +305,50 @@
       <jump line="89" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
       <jump line="103" column="37" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
       <jump line="134" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="68" column="53" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQiPjxpIGNsYXNzPSJpY29uLXdhcm5pbmctc2lnbiI+PC9pPuODgeOCp+ODg+OCr+OBl+OBpuOBhOOCi+OBi+OBqeOBhuOBi+OBr+mWouS/guOBquOBjywg5YWo44Oq44Oq44O844K544KS5L2c5qWt57WC5LqG44GX44G+44GZLjwvZGl2Pjx1bD48bGk+5L2c5qWt57WC5LqG5b6M44Gr5pu05paw44GM44GC44Gj44Gf5aC05ZCILOOCueODhuODvOOCv+OCueOBjCLmm7TmlrAi44Gr44Gq44KK44G+44GZLjwvbGk+PGxpPuabtOaWsOOBruOBguOCi+ODquODquODvOOCueOCkuS9nOalree1guS6huOBl+OBpuOCgiwi5pu05pawIuOCueODhuODvOOCv+OCueOBr+OCr+ODquOCouOBleOCjOOBvuOBm+OCky48L2xpPjwvdWw+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IOOBk+OBk+OBp+ePvuWcqOaZguWIu+OCkuWPluW+l+OBleOBm+OCi+OBqOODhuOCueOCv+ODk+ODquODhuOCo+OBjOOBleOBjOOCiwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLXdhcm5pbmctc2lnbiI+PC9pPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gd2lja2V0OmlkPSJhbGVydF9tZXNzYWdlIj48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOODgeOCp+ODg+OCr+OBl+OBpuOBhOOCi+OBi+OBqeOBhuOBi+OBr+mWouS/guOBquOBjywg5YWo44Oq44Oq44O844K544KS5L2c5qWt57WC5LqG44GX44G+44GZLjwvZGl2Pjx1bD48bGk+5L2c5qWt57WC5LqG5b6M44Gr5pu05paw44GM44GC44Gj44Gf5aC05ZCILOOCueODhuODvOOCv+OCueOBjCLmm7TmlrAi44Gr44Gq44KK44G+44GZLjwvbGk+PGxpPuabtOaWsOOBruOBguOCi+ODquODquODvOOCueOCkuS9nOalree1guS6huOBl+OBpuOCgiwi5pu05pawIuOCueODhuODvOOCv+OCueOBr+OCr+ODquOCouOBleOCjOOBvuOBm+OCky48L2xpPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxJdGVtTGljZW5zZVRlcm0+IHRlcm0gPSBPcHRpb25hbC5lbXB0eSgpOwogICAgICAgIExpc3Q8SXRlbUxpY2Vuc2VUZXJtPiB0ZXJtcyA9IHJlc3VsdC5nZXRJdGVtTGljZW5zZVRlcm1zKCk7CiAgICAgICAgaWYgKHRlcm1zICE9IG51bGwgJiYgIXRlcm1zLmlzRW1wdHkoKSkgewogICAgICAgICAgICB0ZXJtID0gdGVybXMuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAuc29ydGVkKENvbXBhcmF0b3IuY29tcGFyaW5nKEl0ZW1MaWNlbnNlVGVybTo6Z2V0U3RhcnREYXRlKSkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKHQgLT4gdC5nZXRTdGFydERhdGUoKS5iZWZvcmUobm93KSAmJiB0LmdldEVuZERhdGUoKS5hZnRlcihub3cpKQogICAgICAgICAgICAgICAgICAgIC5maW5kRmlyc3QoKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgICA8c3BhbiB3aWNrZXQ6aWQ9ImFsZXJ0cyI+PC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJpY29uLXdhcm5pbmctc2lnbiI+PC9pPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gd2lja2V0OmlkPSJhbGVydF9tZXNzYWdlIj48L3NwYW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXJlc3VsdC50YWtlRG93bkl0ZW1JZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIGFsZXJ0cy5hZGQoIumFjeS/oeWBnOatoiIpOwogICAgICAgIH0KICAgICAgICBpZiAoIXJlc3VsdC50YWtlRG93bkl0ZW1JZHNCeUJ1bmRsZUlkLmlzRW1wdHkoKSkgewogICAgICAgICAgICBhbGVydHMuYWRkKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIOODgeOCp+ODg+OCr+OBl+OBpuOBhOOCi+OBi+OBqeOBhuOBi+OBr+mWouS/guOBquOBjywg5YWo44Oq44Oq44O844K544KS5L2c5qWt57WC5LqG44GX44G+44GZLjwvZGl2Pjx1bD48bGk+5L2c5qWt57WC5LqG5b6M44Gr5pu05paw44GM44GC44Gj44Gf5aC05ZCILOOCueODhuODvOOCv+OCueOBjCLmm7TmlrAi44Gr44Gq44KK44G+44GZLjwvbGk+PGxpPuabtOaWsOOBruOBguOCi+ODquODquODvOOCueOCkuS9nOalree1guS6huOBl+OBpuOCgiwi5pu05pawIuOCueODhuODvOOCv+OCueOBr+OCr+ODquOCouOBleOCjOOBvuOBm+OCky48L2xpPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnRzLmFkZCgiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnmbrms6jmuIjjgb8K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgICA8c3BhbiB3aWNrZXQ6aWQ9ImFsZXJ0cyI+PC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
