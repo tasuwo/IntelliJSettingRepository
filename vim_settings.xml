@@ -57,11 +57,11 @@
         <mark key="^" line="125" column="60" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1534930487010">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="60" />
-        <mark key="^" line="76" column="19" />
-        <mark key="." line="77" column="5" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1534932156956">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.html" timestamp="1534904722075">
         <mark key="[" line="19" column="0" />
@@ -153,11 +153,11 @@
         <mark key="]" line="340" column="103" />
         <mark key="." line="340" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.html" timestamp="1534931075451">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="42" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.html" timestamp="1534932062093">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestUndoButtonPanel.java" timestamp="1534921106730">
         <mark key="[" line="19" column="101" />
@@ -308,13 +308,13 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiB3aWNrZXQ6aWQ9InZhbHVlIj48L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElEX0FMRVJUUyA9ICJhbGVydHMiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gd2lja2V0OmlkPSJ2YWx1ZSI+PC9zcGFuPgo=</text>
