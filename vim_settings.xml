@@ -17,16 +17,20 @@
         <mark key="]" line="38" column="21" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1534930345694">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="24" column="43" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1534931131770">
+        <mark key="[" line="27" column="63" />
+        <mark key="]" line="27" column="63" />
+        <mark key="." line="27" column="63" />
+        <mark key="^" line="27" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.html" timestamp="1534905402999">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="37" column="21" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/account/search/ResultPanel.html" timestamp="1534931044962">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/MaterialIdForm.html" timestamp="1534905568936">
         <mark key="[" line="23" column="0" />
@@ -53,11 +57,15 @@
         <mark key="^" line="125" column="60" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1534930242396">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="140" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1534930487010">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="60" />
         <mark key="^" line="76" column="19" />
         <mark key="." line="77" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.html" timestamp="1534904722075">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.html" timestamp="1534905632987">
         <mark key="[" line="23" column="0" />
@@ -74,6 +82,10 @@
         <mark key="]" line="22" column="20" />
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/AbstractReleaseCheckPage.java" timestamp="1534905016843">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="100" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex-batch/front_ddex/README.md" timestamp="1534819361058">
         <mark key="[" line="29" column="0" />
@@ -98,12 +110,6 @@
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" timestamp="1534905763102">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="78" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidateResult.java" timestamp="1534927362646">
         <mark key="[" line="36" column="17" />
@@ -147,11 +153,11 @@
         <mark key="]" line="340" column="103" />
         <mark key="." line="340" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.html" timestamp="1534929936572">
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="46" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.html" timestamp="1534931075451">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestUndoButtonPanel.java" timestamp="1534921106730">
         <mark key="[" line="19" column="101" />
@@ -302,56 +308,56 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ID_CONFIRM_MESSAGE</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>license</text>
+        <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFN0cmluZ1Jlc291cmNlTGFiZWwoSURfQ09ORklSTV9NRVNTQUdFLCBQUk9QRVJUWV9DT05GSVJNX01FU1NBR0UsIHRoaXMsIG51bGwpLnNldEVzY2FwZU1vZGVsU3RyaW5ncyhnZXRFc2NhcGVNb2RlbFN0cmluZ3MoKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiB3aWNrZXQ6aWQ9InZhbHVlIj48L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gd2lja2V0OmlkPSJ2YWx1ZSI+PC9zcGFuPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkIFdlYkNvbXBvbmVudCBnZW5lcmF0ZUFsZXJ0cygpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgcHJvdGVjdGVkIFdlYkNvbXBvbmVudCBnZW5lcmF0ZUFsZXJ0cygpIHsKICAgICAgICAKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>license</last-search>
+      <last-search>value</last-search>
       <last-offset />
-      <last-pattern>license</last-pattern>
+      <last-pattern>value</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -380,6 +386,7 @@
         <entry>last</entry>
         <entry>order</entry>
         <entry>license</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
