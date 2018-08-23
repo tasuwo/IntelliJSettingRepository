@@ -58,12 +58,12 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535020879916">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535021541220">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="52" />
-        <mark key="." line="34" column="52" />
-        <mark key="^" line="34" column="52" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
@@ -144,6 +144,7 @@
         <mark key="." line="97" column="16" />
         <mark key="^" line="97" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/handler/DeliveryRequestForwardHandlerFactory.java" timestamp="1535021579790" />
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Typing.vue" timestamp="1532526548190">
         <mark key="'" line="0" column="8" />
         <mark key="[" line="47" column="8" />
@@ -174,11 +175,12 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1535020324444">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1535021502090">
         <mark key="'" line="83" column="16" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="106" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="132" column="8" />
+        <mark key="]" line="132" column="13" />
+        <mark key="." line="132" column="13" />
+        <mark key="^" line="132" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/panel/FeedbackPanel.class" timestamp="1535019777127">
         <mark key="'" line="26" column="13" />
@@ -327,12 +329,12 @@
         <mark key="." line="46" column="19" />
         <mark key="^" line="46" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" timestamp="1535018599097">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="116" column="8" />
-        <mark key="." line="63" column="36" />
-        <mark key="^" line="63" column="36" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" timestamp="1535022292708">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="116" column="13" />
+        <mark key="]" line="118" column="53" />
+        <mark key="." line="118" column="53" />
+        <mark key="^" line="118" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/util/BundleAndTrackRelationValidator.java" timestamp="1534418975371">
         <mark key="'" line="340" column="0" />
@@ -499,7 +501,7 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>配信できないため承認をスキップしました</text>
+        <text encoding="base64">RGVsaXZlclRhcmdldHNWYWxpZGF0b3Ig</text>
       </register>
       <register name="/" type="4">
         <text>feedback</text>
@@ -508,34 +510,34 @@
         <text encoding="base64">ICAgICAgICAgICAgd2FybnMuYWRkKCLkvqHmoLzjgrPjg7zjg4njgYznqbrjga7llYblk4HjgYwiICsgcmVzdWx0LmVtcHR5UHJpY2VDb2RlSXRlbUlkcy5zaXplKCkgKyAi5Lu244GC44KK44G+44GZIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBkZWxpdmVyUHJvY2Vzc29yIOWGheOBqOOBguOCj+OBm++8kuWbnuWun+ihjOOBleOCjOOBpuOBl+OBvuOBhuOBn+OCgeeEoemnhAogICAgICAgIERlbGl2ZXJUYXJnZXRzVmFsaWRhdGVSZXN1bHQgcmVzdWx0ID0gbmV3IERlbGl2ZXJUYXJnZXRzVmFsaWRhdG9yKCkudmFsaWRhdGUoZ2V0SXRlbUlkc01vZGVsKCkuZ2V0T2JqZWN0KCksIHRhcmdldFN0YXR1cywgc3RhdHVzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gd2FybnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gd2FybnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRvciBwcmVWYWxpZGF0ZShDbykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PcHRpb25hbDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUud2lja2V0Lm1hcmt1cC5odG1sLmZvcm0udmFsaWRhdGlvbi5BYnN0cmFjdEZvcm1WYWxpZGF0b3I7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRvciBwcmVWYWxpZGF0ZShDbykK</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
