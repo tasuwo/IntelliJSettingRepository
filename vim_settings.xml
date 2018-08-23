@@ -22,12 +22,8 @@
         <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1534921467369">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/AbstractReleaseCheckPage.java" timestamp="1534949436895">
-        <mark key="'" line="39" column="22" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/AbstractReleaseCheckPage.java" timestamp="1534992697042">
+        <mark key="'" line="46" column="31" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="100" column="4" />
       </file>
@@ -68,11 +64,11 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1534989910810">
-        <mark key="[" line="24" column="67" />
-        <mark key="]" line="24" column="81" />
-        <mark key="." line="24" column="81" />
-        <mark key="^" line="24" column="81" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1534992239953">
+        <mark key="[" line="56" column="85" />
+        <mark key="]" line="56" column="102" />
+        <mark key="." line="56" column="102" />
+        <mark key="^" line="56" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
@@ -93,12 +89,13 @@
         <mark key="^" line="15" column="31" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/account/search/ResultPanel.html" timestamp="1534931044962">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/account/search/ResultPanel.html" timestamp="1534991561991">
+        <mark key="'" line="31" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" timestamp="1534991178736">
-        <mark key="'" line="70" column="31" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" timestamp="1534992687494">
+        <mark key="'" line="81" column="31" />
         <mark key="[" line="260" column="0" />
         <mark key="]" line="261" column="21" />
         <mark key="^" line="261" column="21" />
@@ -264,6 +261,9 @@
         <mark key="]" line="340" column="103" />
         <mark key="." line="340" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.html" timestamp="1534992909166">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/SideBar.vue" timestamp="1532450790219">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="46" column="35" />
@@ -277,6 +277,9 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
         <mark key="^" line="10" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.java" timestamp="1534992937756">
+        <mark key="'" line="18" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Chat.vue" timestamp="1532526117519">
         <mark key="'" line="0" column="9" />
@@ -417,8 +420,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/result/ResultPanel.java" timestamp="1534950259408">
-        <mark key="'" line="33" column="13" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/result/ResultPanel.java" timestamp="1534991591828">
+        <mark key="'" line="63" column="49" />
+        <mark key="[" line="69" column="39" />
+        <mark key="]" line="69" column="15" />
+        <mark key="^" line="69" column="15" />
+        <mark key="." line="69" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/test/java/jp/co/dwango/ddex/batch_importer/profile/umgi/TestUmgiItemExtractor.java" timestamp="1531902276896">
         <mark key="'" line="61" column="13" />
@@ -429,23 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dto/SearchConditionDto.java" />
-      <jump line="38" column="94" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dao/ItemSearchIndexDaoImpl.java" />
-      <jump line="88" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dao/ItemSearchIndexDaoImpl.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dao/ItemSearchIndexDaoImpl.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dao/ItemSearchIndexDaoImpl.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dao/ItemSearchIndexDaoImpl.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dao/ItemSearchIndexDaoImpl.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
-      <jump line="123" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
-      <jump line="129" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
-      <jump line="144" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
-      <jump line="171" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
-      <jump line="148" column="34" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
       <jump line="136" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
       <jump line="134" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
       <jump line="141" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
@@ -518,7 +508,6 @@
       <jump line="24" column="31" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" />
       <jump line="54" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" />
       <jump line="77" column="9" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" />
-      <jump line="39" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/AbstractReleaseCheckPage.java" />
       <jump line="42" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" />
       <jump line="33" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/result/ResultPanel.java" />
       <jump line="0" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.html" />
@@ -529,19 +518,37 @@
       <jump line="70" column="31" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
       <jump line="44" column="11" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
       <jump line="59" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/account/search/ResultPanel.html" />
+      <jump line="63" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/result/ResultPanel.java" />
+      <jump line="63" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.java" />
+      <jump line="274" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="288" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="303" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="317" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="331" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="345" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="359" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="81" column="31" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/SearchPage.java" />
+      <jump line="39" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/AbstractReleaseCheckPage.java" />
+      <jump line="63" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/AbstractReleaseCheckPage.java" />
+      <jump line="46" column="31" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/AbstractReleaseCheckPage.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.html" />
+      <jump line="69" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.java" />
+      <jump line="18" column="67" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>ID_FORM</text>
+        <text>alert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBhbGVydHMgPSBnZW5lcmF0ZUFsZXJ0TWVzc2FnZXMoKTsKICAgICAgICAgICAgICAgIHRoaXMuYWRkKG5ldyBMaXN0VmlldyhJRF9BTEVSVFNfTElTVF9WSUVXLCBhbGVydHMpIHsKICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICBwcm90ZWN0ZWQgdm9pZCBwb3B1bGF0ZUl0ZW0oTGlzdEl0ZW0gaXRlbSkgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbWVzc2FnZSA9IChTdHJpbmcpIGl0ZW0uZ2V0TW9kZWxPYmplY3QoKTsKICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5hZGQobmV3IExhYmVsKElEX0FMRVJUX01FU1NBR0UsIG1lc3NhZ2UpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRlUmVzdWx0IHJlc3VsdCA9IG5ldyBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRvcigpLnZhbGlkYXRlKHRhcmdldFBhbmVsLmdldEhpdFJlbGVhc2VJZHNNb2RlbCgpLmdldE9iamVjdCgpLCB0YXJnZXRTdGF0dXMsIHN0YXR1cyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmFkZCgpOwo=</text>
@@ -574,13 +581,13 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>ID_FORM</last-search>
+      <last-search>alert</last-search>
       <last-offset />
-      <last-pattern>ID_FORM</last-pattern>
+      <last-pattern>alert</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -608,11 +615,14 @@
         <entry>value</entry>
         <entry>form</entry>
         <entry>submit</entry>
-        <entry>control</entry>
         <entry>itemIdsModel</entry>
         <entry>ids</entry>
         <entry>release_ids</entry>
         <entry>ID_FORM</entry>
+        <entry>control</entry>
+        <entry>ID_RESULT</entry>
+        <entry>feedback</entry>
+        <entry>alert</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
@@ -620,8 +630,8 @@
         <entry>Noh</entry>
         <entry>w</entry>
         <entry>sptli</entry>
-        <entry>noh</entry>
         <entry>split</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
