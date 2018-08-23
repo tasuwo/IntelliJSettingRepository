@@ -58,12 +58,12 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535017792342">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535020879916">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="25" column="90" />
-        <mark key="]" line="25" column="88" />
-        <mark key="." line="25" column="88" />
-        <mark key="^" line="25" column="88" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="34" column="52" />
+        <mark key="." line="34" column="52" />
+        <mark key="^" line="34" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
@@ -144,10 +144,6 @@
         <mark key="." line="97" column="16" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/PreparingEndButtonPanel.properties" timestamp="1534933147882">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="223" />
-      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Typing.vue" timestamp="1532526548190">
         <mark key="'" line="0" column="8" />
         <mark key="[" line="47" column="8" />
@@ -178,12 +174,14 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1535010388328">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1535020324444">
         <mark key="'" line="83" column="16" />
-        <mark key="[" line="140" column="30" />
-        <mark key="]" line="140" column="36" />
-        <mark key="." line="140" column="36" />
-        <mark key="^" line="140" column="36" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="106" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/panel/FeedbackPanel.class" timestamp="1535019777127">
+        <mark key="'" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/yoshimoto-delivery/src/main/java/jp/co/dwango/ddex/yoshimoto_delivery/DeliveryMessageFactory.java" timestamp="1531894839509">
         <mark key="'" line="14" column="13" />
@@ -287,21 +285,16 @@
         <mark key="^" line="64" column="38" />
         <mark key="." line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1535017813189">
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="66" column="37" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1535020240001">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1534749619133">
         <mark key="'" line="137" column="0" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.html" timestamp="1534904722075">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/amuse-delivery/src/main/java/jp/co/dwango/ddex/amuse_delivery/DeliveryMessageFactory.java" timestamp="1531894804096">
         <mark key="'" line="14" column="25" />
@@ -334,10 +327,10 @@
         <mark key="." line="46" column="19" />
         <mark key="^" line="46" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" timestamp="1535011568535">
-        <mark key="'" line="41" column="28" />
-        <mark key="[" line="62" column="83" />
-        <mark key="]" line="63" column="36" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" timestamp="1535018599097">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="116" column="8" />
         <mark key="." line="63" column="36" />
         <mark key="^" line="63" column="36" />
       </file>
@@ -362,9 +355,9 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/resource/form/HiddenFieldUpdateByJavascript.java" timestamp="1534949984478" />
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage-core/src/main/java/jp/co/dwango/ddex/manage/core/wicket/markup/html/form/validation/OneOfTheseFormComponentRequiredValidator.java" timestamp="1535014451511">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="8" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage-core/src/main/java/jp/co/dwango/ddex/manage/core/wicket/markup/html/form/validation/OneOfTheseFormComponentRequiredValidator.java" timestamp="1535019971316">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="54" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/DeliveryNumberForm.html" timestamp="1534905801977">
         <mark key="[" line="23" column="0" />
@@ -385,12 +378,11 @@
         <mark key="^" line="69" column="15" />
         <mark key="." line="69" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/TmpValidator.java" timestamp="1535017932018">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="23" column="53" />
-        <mark key="]" line="23" column="53" />
-        <mark key="." line="23" column="53" />
-        <mark key="^" line="23" column="53" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/TmpValidator.java" timestamp="1535019299364">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/test/java/jp/co/dwango/ddex/batch_importer/profile/umgi/TestUmgiItemExtractor.java" timestamp="1531902276896">
         <mark key="'" line="61" column="13" />
@@ -401,22 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
-      <jump line="37" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="67" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
       <jump line="19" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/ISRCForm.java" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
@@ -501,62 +477,78 @@
       <jump line="83" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
       <jump line="46" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/TmpValidator.java" />
+      <jump line="42" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
+      <jump line="26" column="13" filename="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/markup/html/panel/FeedbackPanel.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>配信できないため承認をスキップしました</text>
       </register>
       <register name="/" type="4">
-        <text>ItemAndBundle</text>
+        <text>feedback</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bmV3IFRleHRBcmVhPFN0cmluZz4oSURfQ09NTUVOVCwgY29tbWVudE1vZGVsKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2FybnMuYWRkKCLkvqHmoLzjgrPjg7zjg4njgYznqbrjga7llYblk4HjgYwiICsgcmVzdWx0LmVtcHR5UHJpY2VDb2RlSXRlbUlkcy5zaXplKCkgKyAi5Lu244GC44KK44G+44GZIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGb3JtQ29tcG9uZW50IGEgPSBuZXcgVGV4dEFyZWE8U3RyaW5nPihJRF9DT01NRU5ULCBjb21tZW50TW9kZWwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGb3JtQ29tcG9uZW50IGEgPSBjb21wb25lbnRzWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gd2FybnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtLmFkZChmb3JtVmFsaWRhdG9yKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRzM3Quc2VydmljZS51dGlscy5GaWxlQ29tcGFyZXI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBGaWxlQ29tcG9uZW4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRvciBwcmVWYWxpZGF0ZShDbykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBGaWxlQ29tcHBvCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PcHRpb25hbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUud2lja2V0Lm1hcmt1cC5odG1sLmZvcm0udmFsaWRhdGlvbi5BYnN0cmFjdEZvcm1WYWxpZGF0b3I7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>ItemAndBundle</last-search>
+      <last-search>feedback</last-search>
       <last-offset />
-      <last-pattern>ItemAndBundle</last-pattern>
+      <last-pattern>feedback</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -585,9 +577,10 @@
         <entry>ID_FORM</entry>
         <entry>control</entry>
         <entry>ID_RESULT</entry>
-        <entry>feedback</entry>
         <entry>alert</entry>
         <entry>ItemAndBundle</entry>
+        <entry>new</entry>
+        <entry>feedback</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
@@ -595,8 +588,9 @@
         <entry>Noh</entry>
         <entry>w</entry>
         <entry>sptli</entry>
-        <entry>split</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
