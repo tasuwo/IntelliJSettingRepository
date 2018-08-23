@@ -27,12 +27,6 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="100" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex-batch/front_ddex/README.md" timestamp="1534819361058">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="28" />
-        <mark key="^" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceSingleService.java" timestamp="1533607799681">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="172" column="0" />
@@ -64,11 +58,12 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1534992239953">
-        <mark key="[" line="56" column="85" />
-        <mark key="]" line="56" column="102" />
-        <mark key="." line="56" column="102" />
-        <mark key="^" line="56" column="102" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535003851451">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
@@ -143,12 +138,6 @@
         <mark key="]" line="31" column="21" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidateResult.java" timestamp="1534927362646">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="43" />
-        <mark key="." line="36" column="17" />
-        <mark key="^" line="36" column="16" />
-      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/ChatStream.js" timestamp="1532274972836">
         <mark key="'" line="2" column="31" />
         <mark key="[" line="97" column="12" />
@@ -179,30 +168,16 @@
         <mark key="]" line="73" column="63" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/1.5.3/wicket-core-1.5.3.jar!/org/apache/wicket/validation/IValidator.class" timestamp="1535003942243">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage-core/pom.xml" timestamp="1533609185957">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="51" column="21" />
         <mark key="]" line="51" column="26" />
         <mark key="^" line="51" column="26" />
         <mark key="." line="51" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTragetsValidateResult.java" timestamp="1534919396022">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/enums/OrderedOnceState.java" timestamp="1534832330553">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1534925442797">
-        <mark key="[" line="131" column="13" />
-        <mark key="]" line="131" column="19" />
-        <mark key="." line="131" column="19" />
-        <mark key="^" line="131" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/yoshimoto-delivery/src/main/java/jp/co/dwango/ddex/yoshimoto_delivery/DeliveryMessageFactory.java" timestamp="1531894839509">
         <mark key="'" line="14" column="13" />
@@ -215,12 +190,6 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="38" column="22" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Gateway.properties" timestamp="1534832366457">
-        <mark key="[" line="22" column="67" />
-        <mark key="]" line="22" column="72" />
-        <mark key="^" line="22" column="72" />
-        <mark key="." line="22" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/CatalogNumberForm.java" timestamp="1534905769674">
         <mark key="'" line="65" column="0" />
@@ -241,12 +210,6 @@
         <mark key="]" line="11" column="27" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTargetsValidateResult.java" timestamp="1534920795403">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/kingrecord-delivery/src/main/java/jp/co/dwango/ddex/kingrecord_delivery/DeliveryMessageFactory.java" timestamp="1531893469039">
         <mark key="'" line="14" column="40" />
@@ -321,24 +284,18 @@
         <mark key="^" line="64" column="38" />
         <mark key="." line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1534989687710">
-        <mark key="'" line="42" column="40" />
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="13" />
-        <mark key="." line="43" column="13" />
-        <mark key="^" line="43" column="13" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" timestamp="1535003031665">
+        <mark key="'" line="71" column="30" />
+        <mark key="[" line="69" column="55" />
+        <mark key="]" line="69" column="66" />
+        <mark key="." line="69" column="66" />
+        <mark key="^" line="69" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1534749619133">
         <mark key="'" line="137" column="0" />
         <mark key="[" line="150" column="0" />
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.html" timestamp="1534905340013">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="40" column="21" />
-        <mark key="." line="35" column="20" />
-        <mark key="^" line="35" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NotPreparedReleaseCheckPage.html" timestamp="1534904722075">
         <mark key="[" line="19" column="0" />
@@ -368,12 +325,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="20" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTargetsValidator.java" timestamp="1534921437373">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-        <mark key="^" line="22" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex-batch/batch_pegasus/stars_meta_output.sh" timestamp="1534839172419">
         <mark key="'" line="68" column="4" />
         <mark key="[" line="46" column="4" />
@@ -381,11 +332,11 @@
         <mark key="." line="46" column="19" />
         <mark key="^" line="46" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" timestamp="1534990077322">
-        <mark key="[" line="48" column="40" />
-        <mark key="]" line="48" column="55" />
-        <mark key="." line="48" column="55" />
-        <mark key="^" line="48" column="55" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" timestamp="1535003949746">
+        <mark key="[" line="62" column="31" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="62" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/util/BundleAndTrackRelationValidator.java" timestamp="1534418975371">
         <mark key="'" line="340" column="0" />
@@ -408,6 +359,10 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/resource/form/HiddenFieldUpdateByJavascript.java" timestamp="1534949984478" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage-core/src/main/java/jp/co/dwango/ddex/manage/core/wicket/markup/html/form/validation/OneOfTheseFormComponentRequiredValidator.java" timestamp="1535003292518">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="43" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/DeliveryNumberForm.html" timestamp="1534905801977">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="31" column="21" />
@@ -436,12 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
-      <jump line="134" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
-      <jump line="141" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
-      <jump line="7" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/AbstractReleaseCheckByFormPage.java" />
-      <jump line="85" column="32" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
       <jump line="52" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/form/TitleAndArtistForm.java" />
@@ -536,52 +485,58 @@
       <jump line="4" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.html" />
       <jump line="69" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.java" />
       <jump line="18" column="67" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/menu/MenuPage.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
+      <jump line="70" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRlUmVzdWx0IHJlc3VsdCA9IG5ldyBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRvcigpLnZhbGlkYXRlKHRhcmdldFBhbmVsLmdldEhpdFJlbGVhc2VJZHNNb2RlbCgpLmdldE9iamVjdCgpLCB0YXJnZXRTdGF0dXMsIHN0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgdmFsaWRhdGUoSVZhbGlkYXRhYmxlPFQ+IHZhcjEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBFbWFpbFQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzQnVpbGRlci5hZGQoZ2V0TGFiZWxPZkZvcm1Db21wb25lbnQoZm9ybUNvbXBvbmVudCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4g44OB44Kn44OD44Kv57WQ5p6cCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtQ29tcG9uZW50cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0SXRlbUlkc01vZGVsKCkuZ2V0T2JqZWN0KCkgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgIEBOdWxsYWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0VmlldzxQZXJzb24+IHBlcnNvblZpZXcgPSBuZXcgTGlzdFZpZXc8UGVyc29uKCJsaXN0dmlldyIKICAgICAgICAgICAgICAgICwgbmV3IFByb3BlcnR5TW9kZWw8TGlzdDxQZXJzb24+Pih0aGlzLCAicGVyc29uTGlzdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eU1vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRlUmVzdWx0IHJlc3VsdCA9IG5ldyBEZWxpdmVyVGFyZ2V0c1ZhbGlkYXRvcigpLnZhbGlkYXRlKGdldEl0ZW1JZHNNb2RlbCgpLmdldE9iamVjdCgpLCB0YXJnZXRTdGF0dXMsIHN0YXR1cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -591,7 +546,7 @@
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -630,8 +585,8 @@
         <entry>Noh</entry>
         <entry>w</entry>
         <entry>sptli</entry>
-        <entry>split</entry>
         <entry>noh</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
