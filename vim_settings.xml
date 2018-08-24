@@ -57,11 +57,11 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535087984281">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="36" column="9" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="33" column="7" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535092725510">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="37" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
@@ -147,12 +147,12 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifier.java" timestamp="1535088593957">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifier.java" timestamp="1535092616557">
         <mark key="'" line="77" column="34" />
-        <mark key="[" line="99" column="17" />
-        <mark key="]" line="99" column="16" />
-        <mark key="." line="99" column="16" />
-        <mark key="^" line="99" column="16" />
+        <mark key="[" line="102" column="47" />
+        <mark key="]" line="102" column="46" />
+        <mark key="." line="102" column="46" />
+        <mark key="^" line="102" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Typing.vue" timestamp="1532526548190">
         <mark key="'" line="0" column="8" />
@@ -346,10 +346,10 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/ClassifiedDeliveryRequestedItems.java" timestamp="1535088000978">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/ClassifiedDeliveryRequestedItems.java" timestamp="1535092681079">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/kingrecord-delivery/src/main/java/jp/co/dwango/ddex/kingrecord_delivery/DeliveryMessageExtractorImpl.java" timestamp="1531893589699">
         <mark key="'" line="13" column="0" />
@@ -390,9 +390,10 @@
         <mark key="^" line="138" column="15" />
         <mark key="." line="138" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardAllButtonPanel.java" timestamp="1535087980480">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="8" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardAllButtonPanel.java" timestamp="1535092718846">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="48" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/avex-delivery/src/main/java/jp/co/dwango/ddex/avex_delivery/message/DeliveryMessage.java" timestamp="1531890768319">
         <mark key="'" line="2" column="37" />
@@ -429,9 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTargetsValidator.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTargetsValidator.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTargetsValidator.java" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTargetsValidator.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTargetsValidator.java" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryTargetsValidator.java" />
@@ -529,6 +527,9 @@
       <jump line="26" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/ClassifySpecification.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/ClassifiedDeliveryRequestedItems.java" />
       <jump line="77" column="34" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifier.java" />
+      <jump line="41" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardAllButtonPanel.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardAllButtonPanel.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardAllButtonPanel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -541,37 +542,37 @@
         <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBEYXRlIGdldEN1cnJlbnREYXRlKCkgewogICAgICAgIHJldHVybiBuZXcgRGF0ZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gd2FybnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBpZiAoIXJlc3VsdC5lbXB0eVByaWNlQ29kZUl0ZW1JZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHdhcm5zLmFkZCgi5L6h5qC844Kz44O844OJ44GM56m644Gu5ZWG5ZOB44GMIiArIHJlc3VsdC5lbXB0eVByaWNlQ29kZUl0ZW1JZHMuc2l6ZSgpICsgIuS7tuOBguOCiuOAgeaJv+iqjeOCkuOCueOCreODg+ODl+OBl+OBvuOBl+OBn+OAgumFjeS/oeOBp+OBjeOBquOBhOWVhuWTgeOBp+OBmSIpOwogICAgICAgIH0KICAgICAgICBpZiAoIXJlc3VsdC51cGRhdGVkSXRlbUlkc0J5QnVuZGxlSWRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICB3YXJucy5hZGQoIuabtOaWsOe0jeWTgeOCkuWQq+OCk+OBoOODkOODs+ODieODq+OBjCIgKyByZXN1bHQudXBkYXRlZEl0ZW1JZHNCeUJ1bmRsZUlkcy5zaXplKCkgKyAi5Lu244GC44KK44CB5om/6KqN44KS44K544Kt44OD44OX44GX44G+44GX44Gf44CC5YWI44Gr44CM5pu05paw56K66KqN44CN44GL44KJ5L2c5qWt44GX44Gm44GP44Gg44GV44GEIik7CiAgICAgICAgfQogICAgICAgIHRoaXMud2FybihTdHJpbmcuam9pbigiPFxcYnI+Iiwgd2FybnMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodG8uZXF1YWxzKERlbGl2ZXJ5UmVxdWVzdFN0YXRlLkFjY2VwdGVkKSAmJiAhY29udGVudFR5cGUuZXF1YWxzKENvbnRlbnRUeXBlLkNPTlRFTlRfVFlQRV9CVU5ETEUpKSB7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgTGlzdDxTdHJpbmc+IHdhcm5zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgaWYgKCFyZXN1bHQuZW1wdHlQcmljZUNvZGVJdGVtSWRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICB3YXJucy5hZGQoIuS+oeagvOOCs+ODvOODieOBjOepuuOBruWVhuWTgeOBjCIgKyByZXN1bHQuZW1wdHlQcmljZUNvZGVJdGVtSWRzLnNpemUoKSArICLku7bjgYLjgorjgIHmib/oqo3jgpLjgrnjgq3jg4Pjg5fjgZfjgb7jgZfjgZ/jgILphY3kv6HjgafjgY3jgarjgYTllYblk4HjgafjgZkiKTsKICAgICAgICAgICAgdGhpcy53YXJuKFN0cmluZy5qb2luKCI8XFxicj4iLCB3YXJucykpOwogICAgICAgIH0KICAgICAgICBpZiAoIXJlc3VsdC51cGRhdGVkSXRlbUlkc0J5QnVuZGxlSWRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICB3YXJucy5hZGQoIuabtOaWsOe0jeWTgeOCkuWQq+OCk+OBoOODkOODs+ODieODq+OBjCIgKyByZXN1bHQudXBkYXRlZEl0ZW1JZHNCeUJ1bmRsZUlkcy5zaXplKCkgKyAi5Lu244GC44KK44CB5om/6KqN44KS44K544Kt44OD44OX44GX44G+44GX44Gf44CC5YWI44Gr44CM5pu05paw56K66KqN44CN44GL44KJ5L2c5qWt44GX44Gm44GP44Gg44GV44GEIik7CiAgICAgICAgICAgIHRoaXMud2FybihTdHJpbmcuam9pbigiPFxcYnI+Iiwgd2FybnMpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldHMuYWRkKGl0ZW1JZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodG8uZXF1YWxzKERlbGl2ZXJ5UmVxdWVzdFN0YXRlLkFjY2VwdGVkKSAmJiAhY29udGVudFR5cGUuZXF1YWxzKENvbnRlbnRUeXBlLkNPTlRFTlRfVFlQRV9CVU5ETEUpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvLmVxdWFscyhEZWxpdmVyeVJlcXVlc3RTdGF0ZS5BY2NlcHRlZCkgJiYgIWNvbnRlbnRUeXBlLmVxdWFscyhDb250ZW50VHlwZS5DT05URU5UX1RZUEVfQlVORExFKSkgewogICAgICAgICAgICAgICAgaWYgKGhhc0VtcHR5UHJpY2VBbHRob3VnaE1hcmtlZEFzRGVsaXZlcmlhYmxlKHJlbGVhc2VEdG8pKSB7CiAgICAgICAgICAgICAgICAgICAgZW1wdHlQcmljZUNvZGVJdGVtSWRzLmFkZChpdGVtSWQpOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGlmIChpc1Rha2VEb3duSXRlbShyZWxlYXNlRHRvKSkgewogICAgICAgICAgICAgICAgICAgIHRha2VEb3duSXRlbUlkcy5hZGQoaXRlbUlkKTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmICgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldDxJbnRlZ2VyPiBlbXB0eVByaWNlQ29kZUl0ZW1zID0gZXh0cmFjdFRyYWNrc01hdGNoVG8odGhpczo6aGFzRW1wdHlQcmljZUFsdGhvdWdoTWFya2VkQXNEZWxpdmVyaWFibGUsIHJlbGVhc2VEdG8pOwogICAgICAgICAgICAgICAgaWYgKCFlbXB0eVByaWNlQ29kZUl0ZW1zLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgIGVtcHR5UHJpY2VDb2RlQnVuZGxlSWRzLnB1dChpdGVtSWQsIGVtcHR5UHJpY2VDb2RlSXRlbXMpOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIFNldDxJbnRlZ2VyPiB1cGRhdGVkSXRlbXMgPSBleHRyYWN0VHJhY2tzTWF0Y2hUbyh0aGlzOjppc1VwZGF0ZWRJdGVtLCByZWxlYXNlRHRvKTsKICAgICAgICAgICAgICAgIGlmICghdXBkYXRlZEl0ZW1zLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgIHVwZGF0ZWRJdGVtSWRzQnlCdW5kbGVJZHMucHV0KGl0ZW1JZCwgdXBkYXRlZEl0ZW1zKTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBTZXQ8SW50ZWdlcj4gdGFrZURvd25JdGVtcyA9IGV4dHJhY3RUcmFja3NNYXRjaFRvKHRoaXM6OmlzVGFrZURvd25JdGVtLCByZWxlYXNlRHRvKTsKICAgICAgICAgICAgICAgIGlmICghdGFrZURvd25JdGVtSWRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgIHRha2VEb3duSXRlbUlkc0J5QnVuZGxlSWRzLnB1dChpdGVtSWQsIHRha2VEb3duSXRlbXMpOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44OQ44Oz44OJ44Or44Gu5aC05ZCICg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvLmVxdWFscyhEZWxpdmVyeVJlcXVlc3RTdGF0ZS5BY2NlcHRlZCkgJiYgIWNvbnRlbnRUeXBlLmVxdWFscyhDb250ZW50VHlwZS5DT05URU5UX1RZUEVfQlVORExFKSkgewogICAgICAgICAgICAgICAgaWYgKGhhc0VtcHR5UHJpY2VBbHRob3VnaE1hcmtlZEFzRGVsaXZlcmlhYmxlKHJlbGVhc2VEdG8pKSB7CiAgICAgICAgICAgICAgICAgICAgZW1wdHlQcmljZUNvZGVJdGVtSWRzLmFkZChpdGVtSWQpOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGlmIChpc1Rha2VEb3duSXRlbShyZWxlYXNlRHRvKSkgewogICAgICAgICAgICAgICAgICAgIHRha2VEb3duSXRlbUlkcy5hZGQoaXRlbUlkKTsKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
