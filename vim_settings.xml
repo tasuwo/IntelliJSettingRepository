@@ -38,10 +38,10 @@
         <mark key="]" line="30" column="78" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dao/ItemSearchIndexDaoImpl.java" timestamp="1534927591659">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-search-indices/src/main/java/jp/co/dwango/ddex/db/search_indices/dao/ItemSearchIndexDaoImpl.java" timestamp="1535107369213">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="126" column="12" />
+        <mark key="[" line="115" column="19" />
+        <mark key="]" line="115" column="33" />
         <mark key="." line="62" column="127" />
         <mark key="^" line="62" column="127" />
       </file>
@@ -58,10 +58,9 @@
         <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535092725510">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="37" column="7" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
@@ -192,12 +191,7 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1535079400318">
-        <mark key="[" line="123" column="68" />
-        <mark key="]" line="123" column="76" />
-        <mark key="^" line="123" column="76" />
-        <mark key="." line="123" column="76" />
-      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" timestamp="1535079400318" />
       <file name="$USER_HOME$/Documents/src/ddex/yoshimoto-delivery/src/main/java/jp/co/dwango/ddex/yoshimoto_delivery/DeliveryMessageFactory.java" timestamp="1531894839509">
         <mark key="'" line="14" column="13" />
         <mark key="[" line="21" column="45" />
@@ -542,8 +536,8 @@
       <register name="/" type="4">
         <text>status</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICog5Z+65pys55qE44Gr44Gv44CB5Lul5LiL44Gr6Kmy5b2T44GZ44KL5ZWG5ZOB44Gv5Yem55CG5a++6LGh44Gr44GX44Gq44GECiAqCiAqIC0g55m65rOo5rqW5YKZ5riI44G/44Gu44KC44GuCiAqIC0g44K544OG44O844K/44K544GM5aSJ5pu05a++6LGh44K/44O844Ky44OD44OIIChmcm9tKSDjgafjgarjgYTjgoLjga4KICoKICog54m544Gr44CBW+WAmeijnF0tPlvpgbjmm7LmuIjjgb9dIOOBp+OBr+OAgeS4i+iomOOCkuWHpueQhuWvvuixoeOBi+OCieWkluOBmQogKgogKiAtIDHluqbjgafjgoLnmbrms6jjgpLooYzjgaPjgZ/jg6rjg6rjg7zjgrkKICogLSAx5bqm44Gn44KC55m65rOo44GV44KM5pu05paw44GM44GC44KL44Oq44Oq44O844K544KS5ZCr44KT44Gg44Oq44Oq44O844K5ICjjg5Djg7Pjg4njg6spCiAqIC0g6YWN5L+h5Y+v44Gr44KC44GL44GL44KP44KJ44Ga5L6h5qC86Kit5a6a44GM44Gq44GE44Oq44Oq44O844K5Cg==</text>
+      <register name="0" type="4">
+        <text>有効なライセンスが1つでもあれ</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
