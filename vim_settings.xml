@@ -147,10 +147,10 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifier.java" timestamp="1535092616557">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifier.java" timestamp="1535094383450">
         <mark key="'" line="77" column="34" />
-        <mark key="[" line="102" column="47" />
-        <mark key="]" line="102" column="46" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="36" column="25" />
         <mark key="." line="102" column="46" />
         <mark key="^" line="102" column="46" />
       </file>
@@ -543,7 +543,7 @@
         <text>status</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gd2FybnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBpZiAoIXJlc3VsdC5lbXB0eVByaWNlQ29kZUl0ZW1JZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIHdhcm5zLmFkZCgi5L6h5qC844Kz44O844OJ44GM56m644Gu5ZWG5ZOB44GMIiArIHJlc3VsdC5lbXB0eVByaWNlQ29kZUl0ZW1JZHMuc2l6ZSgpICsgIuS7tuOBguOCiuOAgeaJv+iqjeOCkuOCueOCreODg+ODl+OBl+OBvuOBl+OBn+OAgumFjeS/oeOBp+OBjeOBquOBhOWVhuWTgeOBp+OBmSIpOwogICAgICAgIH0KICAgICAgICBpZiAoIXJlc3VsdC51cGRhdGVkSXRlbUlkc0J5QnVuZGxlSWRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICB3YXJucy5hZGQoIuabtOaWsOe0jeWTgeOCkuWQq+OCk+OBoOODkOODs+ODieODq+OBjCIgKyByZXN1bHQudXBkYXRlZEl0ZW1JZHNCeUJ1bmRsZUlkcy5zaXplKCkgKyAi5Lu244GC44KK44CB5om/6KqN44KS44K544Kt44OD44OX44GX44G+44GX44Gf44CC5YWI44Gr44CM5pu05paw56K66KqN44CN44GL44KJ5L2c5qWt44GX44Gm44GP44Gg44GV44GEIik7CiAgICAgICAgfQogICAgICAgIHRoaXMud2FybihTdHJpbmcuam9pbigiPFxcYnI+Iiwgd2FybnMpKTsK</text>
+        <text encoding="base64">ICog5Z+65pys55qE44Gr44Gv44CB5Lul5LiL44Gr6Kmy5b2T44GZ44KL5ZWG5ZOB44Gv5Yem55CG5a++6LGh44Gr44GX44Gq44GECiAqCiAqIC0g55m65rOo5rqW5YKZ5riI44G/44Gu44KC44GuCiAqIC0g44K544OG44O844K/44K544GM5aSJ5pu05a++6LGh44K/44O844Ky44OD44OIIChmcm9tKSDjgafjgarjgYTjgoLjga4KICoKICog54m544Gr44CBW+WAmeijnF0tPlvpgbjmm7LmuIjjgb9dIOOBp+OBr+OAgeS4i+iomOOCkuWHpueQhuWvvuixoeOBi+OCieWkluOBmQogKgogKiAtIDHluqbjgafjgoLnmbrms6jjgpLooYzjgaPjgZ/jg6rjg6rjg7zjgrkKICogLSAx5bqm44Gn44KC55m65rOo44GV44KM5pu05paw44GM44GC44KL44Oq44Oq44O844K544KS5ZCr44KT44Gg44Oq44Oq44O844K5ICjjg5Djg7Pjg4njg6spCiAqIC0g6YWN5L+h5Y+v44Gr44KC44GL44GL44KP44KJ44Ga5L6h5qC86Kit5a6a44GM44Gq44GE44Oq44Oq44O844K5Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
