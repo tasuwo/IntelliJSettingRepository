@@ -79,11 +79,12 @@
         <mark key="]" line="37" column="21" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1535364658706">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1535366825618">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="53" column="60" />
+        <mark key="." line="53" column="60" />
+        <mark key="^" line="53" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" timestamp="1533544758729">
         <mark key="'" line="15" column="9" />
@@ -180,6 +181,10 @@
         <mark key="]" line="149" column="64" />
         <mark key="^" line="151" column="31" />
         <mark key="." line="150" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/download/util/part/rowbuilder/util/ItemLicenseAvailability.java" timestamp="1535365161240">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/resource/bootstrap/javascript/ModalPanel.java" timestamp="1534936560990">
         <mark key="[" line="73" column="46" />
@@ -368,11 +373,10 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/ClassifiedDeliveryRequestedItems.java" timestamp="1535351190654">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="24" column="36" />
-        <mark key="^" line="24" column="36" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/ClassifiedDeliveryRequestedItems.java" timestamp="1535366307126">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/kingrecord-delivery/src/main/java/jp/co/dwango/ddex/kingrecord_delivery/DeliveryMessageExtractorImpl.java" timestamp="1531893589699">
         <mark key="'" line="13" column="0" />
@@ -559,43 +563,43 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVsZWFzZUR0byA=</text>
+        <text encoding="base64">ZW1wdHlQcmljZUNvZGVJdGVtSWRzIA==</text>
       </register>
       <register name="/" type="4">
         <text>findFirst</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TGlzdDxJdGVtUHJpY2VDaGFuZ2VTY2hlZHVsZT4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgU2V0PEludGVnZXI+PiB0YWtlRG93bkl0ZW1JZHNCeUJ1bmRsZUlkcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTZXQ8SW50ZWdlcj4gdGFrZURvd25JdGVtcyA9IGV4dHJhY3RUcmFja3NNYXRjaFRvKHRoaXM6OmlzVGFrZURvd25JdGVtLCByZWxlYXNlRHRvKTsKICAgICAgICAgICAgICAgICAgICBpZiAoIWlzVGFrZURvd25JdGVtKHJlbGVhc2VEdG8pICYmICF0YWtlRG93bkl0ZW1JZHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRha2VEb3duSXRlbUlkc0J5QnVuZGxlSWRzLnB1dChpdGVtSWQsIHRha2VEb3duSXRlbXMpOwogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRha2VEb3duSXRlbUlkc0J5QnVuZGxlSWRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgSW50ZWdlciBjb250ZW50VHlwZSA9IHJlc3VsdC5nZXRJdGVtKCkuZ2V0Q29udGVudFR5cGUoKTsKCiAgICAgICAgaWYgKGNvbnRlbnRUeXBlLmVxdWFscyhDb250ZW50VHlwZS5DT05URU5UX1RZUEVfU0lOR0xFKQogICAgICAgICAgICAgICAgfHwgY29udGVudFR5cGUuZXF1YWxzKENvbnRlbnRUeXBlLkNPTlRFTlRfVFlQRV9WSURFT19DTElQKSkgewogICAgICAgICAgICBJbnRlZ2VyIGJ1bmRsZUlkID0gcmVzdWx0LmdldEl0ZW1BbmRCdW5kbGUoKS5nZXRCdW5kbGVJZCgpOwogICAgICAgICAgICBTZWFyY2hSZXN1bHQgYnVuZGxlRHRvID0gbmV3IFNlYXJjaFJlc3VsdChidW5kbGVJZCk7CgoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8qKiDphY3kv6HkuI3lj6/jga7llYblk4HjgYzlkKvjgb7jgozjgabjgYTjgovjg5Djg7Pjg4njg6vjgajoqbLlvZPjg4jjg6njg4Pjgq/nvqTjga4gaXRlbUlkICovCiAgICBwdWJsaWMgZmluYWwgTWFwPEludGVnZXIsIFNldDxJbnRlZ2VyPj4gbGljZW5zZU5vdEF2YWlsYWJsZUl0ZW1JZHNCeUJ1bmRsZUlkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmdldEl0ZW1MaQo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybS4gICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBJdGVtQW5kQnVuZGxlIGEgPSByZXN1bHQuZ2V0SXRlbUFuZEJ1bmRsZSgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNUYWtlRG93bkl0ZW0ocmVzdWx0KSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybS4K</text>
+        <text encoding="base64">ICAgICAgICAvLyDopqrjgYzlrZjlnKjjgZfjgarjgYQKICAgICAgICBpZiAoYSA9PSBudWxsIHx8IGEuZ2V0QnVuZGxlSWQoKSA9PSBudWxsKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIXByaWNlLmlzUHJlc2VudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
