@@ -54,12 +54,11 @@
         <mark key="." line="614" column="44" />
         <mark key="^" line="614" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1535524889956">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1535529697884">
         <mark key="'" line="157" column="58" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
-        <mark key="^" line="174" column="67" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" timestamp="1533544758729">
         <mark key="'" line="15" column="9" />
@@ -231,6 +230,10 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="32" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/test/java/jp/co/dwango/ddex/batch_importer/profile/TestSimpleDistributorItemNormalizer.java" timestamp="1535526520715">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="106" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/classify/ClassifySpecificationImpl.java" timestamp="1535087296011">
         <mark key="[" line="11" column="51" />
         <mark key="]" line="11" column="59" />
@@ -336,12 +339,11 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" timestamp="1535525935719">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="253" column="26" />
-        <mark key="]" line="106" column="73" />
-        <mark key="." line="106" column="73" />
-        <mark key="^" line="106" column="73" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" timestamp="1535529820442">
+        <mark key="[" line="410" column="50" />
+        <mark key="]" line="410" column="51" />
+        <mark key="." line="410" column="51" />
+        <mark key="^" line="401" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/classify/ClassifyOrSpecification.java" timestamp="1535087637743">
         <mark key="[" line="19" column="9" />
@@ -430,22 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
-      <jump line="70" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/AbstractDeliveryRequestButtonPanel.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" />
-      <jump line="217" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/NewReleaseCheckPage.java" />
-      <jump line="83" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverProcessor.java" />
-      <jump line="46" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
-      <jump line="80" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/TmpValidator.java" />
-      <jump line="42" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
       <jump line="97" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
       <jump line="102" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverTargetsValidator.java" />
@@ -530,49 +516,69 @@
       <jump line="77" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="281" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="238" column="33" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="242" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="245" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="250" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="258" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="261" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="319" column="54" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="103" column="19" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="279" column="52" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="64" column="4" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="106" column="10" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="267" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="392" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>getItemDelivery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU2ltcGxlRGF0ZUZvcm1hdCBmb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS9NTS9kZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgxKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5hbHJlYWR5T3JkZXJlZEl0ZW1JZHMsIGlzKGVtcHR5KCkpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKiBpdGVtSWQg44Go44Gd44GuIE9yZGVyU3RhdHVz44CAICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGl0ZW1JZCk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpc1RhcmdldFN0YXRlKHJlbGVhc2VEdG8sIGZyb20pKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPEludGVnZXIsIEl0ZW1PcmRlclN0YXR1cz4gaXRlbU9yZGVyU3RhdHVzTWFwLAogICAgICAgICAgICBNYXA8SW50ZWdlciwgSXRlbVJldmlzaW9uPiBpdGVtUmV2aXNpb25NYXAsCiAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBMaXN0PEl0ZW1MaWNlbnNlVGVybT4+IGl0ZW1MaWNlbnNlVGVybXNNYXAsCiAgICAgICAgICAgIE1hcDxJbnRlZ2VyLCBJdGVtRGVsaXZlcnlSZXF1ZXN0U3RhdHVzPiBpdGVtRGVsaXZlcnlSZXF1ZXN0U3RhdHVzTWFwLAogICAgICAgICAgICBMaXN0PEl0ZW0+IGl0ZW1zLAogICAgICAgICAgICBNYXA8SW50ZWdlciwgTGlzdDxJbnRlZ2VyPj4gaXRlbUFuZEJ1bmRsZU1hcAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5SZXF1aXJlZEFyZ3NDb25zdHJ1Y3RvcjsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="8">
+        <text>DeliveryRequestState.Accepted
+DeliveryRequestState.Accepted
+DeliveryRequestState.Accepted</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBPYmplY3RbXSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBIYXNoTWFwPEludGVnZXIsIERlbGl2ZXJ5UmVxdWVzdFN0YXRlPigpIHt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoMSwgRGVsaXZlcnlSZXF1ZXN0U3RhdGUuTm9uZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoMiwgRGVsaXZlcnlSZXF1ZXN0U3RhdGUuQWNjZXB0ZWQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KDMsIERlbGl2ZXJ5UmVxdWVzdFN0YXRlLkFjY2VwdGVkKTsKICAgICAgICAgICAgICAgICAgICAgICAgfX0sCiAgICAgICAgICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoMSkKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBuZXcgT2JqZWN0W10gewogICAgICAgICAgICAgICAgICAgICAgICBuZXcgSGFzaE1hcDxJbnRlZ2VyLCBEZWxpdmVyeVJlcXVlc3RTdGF0ZT4oKSB7ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KDEsIERlbGl2ZXJ5UmVxdWVzdFN0YXRlLkFjY2VwdGVkKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgyLCBEZWxpdmVyeVJlcXVlc3RTdGF0ZS5Ob25lKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgzLCBEZWxpdmVyeVJlcXVlc3RTdGF0ZS5BY2NlcHRlZCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH19LAogICAgICAgICAgICAgICAgICAgICAgICBDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KDIpCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgbmV3IE9iamVjdFtdIHsKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEhhc2hNYXA8SW50ZWdlciwgRGVsaXZlcnlSZXF1ZXN0U3RhdGU+KCkge3sKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHB1dCgxLCBEZWxpdmVyeVJlcXVlc3RTdGF0ZS5BY2NlcHRlZCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwdXQoMiwgRGVsaXZlcnlSZXF1ZXN0U3RhdGUuQWNjZXB0ZWQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0KDMsIERlbGl2ZXJ5UmVxdWVzdFN0YXRlLk5vbmUpOwogICAgICAgICAgICAgICAgICAgICAgICB9fSwKICAgICAgICAgICAgICAgICAgICAgICAgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgzKQogICAgICAgICAgICAgICAgfSwK</text>
+      </register>
+      <register name="7" type="8">
+        <text>new ItemDeliveryRequestStatus() {{ setStatusId(statesByItemId.get(1).toId()); setRejected(false); }}
+new ItemDeliveryRequestStatus() {{ setStatusId(statesByItemId.get(2).toId()); setRejected(false); }}
+new ItemDeliveryRequestStatus() {{ setStatusId(statesByItemId.get(3).toId()); setRejected(false); }}</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAvLyDllY/poYzjgarjgYTllYblk4HjgpLmib/oqo3lr77osaHjgavjgZnjgosK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrVXBTdGF0ZXMgYSA9IG1vY2tVcFN0YXRlcy5wcm9jZXNzYWJsZVN0YXRlcygpOwo=</text>
+        <text encoding="base64">ICAgIC8vIOWVj+mhjOOBquOBhOWVhuWTgeOCkuaJv+iqjeWvvuixoeOBq+OBmeOCiwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
