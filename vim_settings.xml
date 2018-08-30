@@ -298,12 +298,12 @@
         <mark key="^" line="38" column="19" />
         <mark key="." line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.sh" timestamp="1533876642176">
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.sh" timestamp="1535615603816">
         <mark key="'" line="39" column="24" />
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="64" column="38" />
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="18" />
         <mark key="^" line="64" column="38" />
-        <mark key="." line="64" column="38" />
+        <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/inspect/wmg/WmgDeliveryInspector.java" timestamp="1535614140145">
         <mark key="[" line="69" column="0" />
@@ -402,6 +402,13 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" timestamp="1535615450363">
+        <mark key="'" line="158" column="37" />
+        <mark key="[" line="158" column="32" />
+        <mark key="]" line="158" column="36" />
+        <mark key="^" line="158" column="36" />
+        <mark key="." line="158" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Main.vue" timestamp="1532267701916">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="1" column="0" />
@@ -425,17 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="89" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="281" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="238" column="33" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="242" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="245" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="250" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="258" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
@@ -525,16 +521,27 @@
       <jump line="411" column="53" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="257" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="387" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="14" column="1" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="26" column="10" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="46" column="16" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="51" column="16" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="52" column="24" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="57" column="16" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="58" column="24" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="119" column="10" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="127" column="18" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="157" column="8" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
+      <jump line="158" column="37" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>bundleid</text>
+        <text>filename</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICog5byK56S+5YG044Gu44OQ44OD44Kv44Ki44OD44OX44Go5q+U6LyD44GX44Gf5aC05ZCI44Gu5LiN5pW05ZCI44KS44OB44Kn44OD44Kv44GZ44KLCiAgICAgKgogICAgICogQHBhcmFtIGV4dHJhY3RvciBOZXdSZWxlYXNlTWVzc2FnZSDjga7jg6njgqTjgrvjg7Pjgrnmg4XloLHjga7jg5Hjg7zjgrXjg7wKICAgICAqIEBwYXJhbSBiYWNrdXBEaXJlY3Rvcnkg5qSc5p+75a++6LGh57SN5ZOB44Gu44OQ44OD44Kv44Ki44OD44OX5YWI44Gn44GC44KL44OH44Kj44Os44Kv44OI44OqCiAgICAgKiBAdGhyb3dzIFJlbGVhc2VJbXBvcnRFeGNlcHRpb24g5qSc5ZOB57WQ5p6c44CB44Ko44Op44O844GM5a2Y5ZyoCiAgICAgKi8KICAgIHB1YmxpYyB2b2lkIGluc3BlY3RDb25zaXN0ZW5jeVdpdGhCYWNrdXAoTGljZW5zZUV4dHJhY3RvciBleHRyYWN0b3IsIFJlc291cmNlRGlyZWN0b3J5IGJhY2t1cERpcmVjdG9yeSkgdGhyb3dzIFJlbGVhc2VJbXBvcnRFeGNlcHRpb24gewo=</text>
@@ -574,13 +581,13 @@
       </register>
     </registers>
     <search>
-      <last-search>bundleid</last-search>
+      <last-search>filename</last-search>
       <last-offset />
-      <last-pattern>bundleid</last-pattern>
+      <last-pattern>filename</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -605,6 +612,7 @@
         <entry>revision</entry>
         <entry>now</entry>
         <entry>bundleid</entry>
+        <entry>filename</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
