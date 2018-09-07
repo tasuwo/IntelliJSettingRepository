@@ -3,9 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/installFakeServices.sh" timestamp="1536288122303">
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/installFakeServices.sh" timestamp="1536290386189">
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="33" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/test/ChatStream.spec.js" timestamp="1532443721584">
         <mark key="'" line="45" column="0" />
@@ -161,6 +163,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/PriceCodeChangeScheduleService.java" timestamp="1535425347936">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/installPackagesForIntegrationTest.sh" timestamp="1536290396939">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1534421653994">
         <mark key="'" line="255" column="28" />
@@ -338,11 +346,12 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" timestamp="1536288140275">
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" timestamp="1536291107695">
         <mark key="'" line="125" column="4" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="142" column="40" />
+        <mark key="]" line="142" column="40" />
+        <mark key="." line="142" column="40" />
+        <mark key="^" line="142" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" timestamp="1535612867336">
         <mark key="'" line="388" column="42" />
@@ -408,10 +417,18 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" timestamp="1536287910559">
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/resources/env.json" timestamp="1536290508170">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="54" />
+        <mark key="^" line="2" column="54" />
+        <mark key="." line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" timestamp="1536291071073">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="32" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="66" column="129" />
+        <mark key="^" line="64" column="38" />
+        <mark key="." line="64" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/src/IMConv/README.md" timestamp="1536288768456">
         <mark key="[" line="134" column="0" />
@@ -567,37 +584,43 @@
         <text>mvn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JCAuL2dyYWRsZXcgOmltY29udjpzaGFkb3dKYXIK</text>
+        <text encoding="base64">YXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBtYiBzMzovL2ltY29udgphd3MgLS1lbmRwb2ludC11cmw9aHR0cDovL2xvY2FsaG9zdDo0NTcyIHMzIGNwIGltY29udi9zcmMvaW50ZWdyYXRpb25UZXN0L3Jlc291cmNlcy9zYW1wbGUtaW1hZ2VzL2NvbG9yc3BhY2UvY215ay5qcGcgczM6Ly9pbWNvbnYvY215awphd3MgLS1lbmRwb2ludC11cmw9aHR0cDovL2xvY2FsaG9zdDo0NTcyIHMzIGNwIGltY29udi9zcmMvaW50ZWdyYXRpb25UZXN0L3Jlc291cmNlcy9zYW1wbGUtaW1hZ2VzL2NvbG9yc3BhY2UvcmdiLmpwZyBzMzovL2ltY29udi9yZ2IKYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBjcCBpbWNvbnYvc3JjL2ludGVncmF0aW9uVGVzdC9yZXNvdXJjZXMvc2FtcGxlLWltYWdlcy9jb2xvcnNwYWNlL2dyYXkucG5nIHMzOi8vaW1jb252L2dyYXkKYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBjcCBpbWNvbnYvc3JjL2ludGVncmF0aW9uVGVzdC9yZXNvdXJjZXMvc2FtcGxlLWltYWdlcy9kdW1teS90ZXN0LnR4dCBzMzovL2ltY29udi9kdW1teQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>72
+72
+72
+72
+72</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JCBtdm4gdGVzdCAtQiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">JCBtdm4gdGVzdCAtQgo=</text>
+      <register name="3" type="8">
+        <text>67
+67
+67</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtIGluc3RhbGwgZmFrZXMzIC12IDEuMi4wCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGBgIHNoZWxsCiQgY2QgPHByb2plY3Qtcm9vdD4KJCBtdm4gdGVzdCAtQiAKJCAuL2RlcGxveS5zaCBcCiAgICA844K544K/44OD44Kv5ZCNPiBcCiAgICA844OG44Oz44OX44Os44O844OI44Ki44OD44OX44Ot44O844OJ55So44OQ44Kx44OD44OI5ZCNPiBcCiAgICA855S75YOP44Ki44OD44OX44Ot44O844OJ55So44OQ44Kx44OD44OI5ZCNPiBcCiAgICA844OJ44Kt44Ol44Oh44Oz44OI44Ob44K544OG44Kj44Oz44Kw55So44OQ44Kx44OD44OI5ZCNPiBcCiAgICA8Q2xvdWRGcm9udCDjga7jg4njg6HjgqTjg7NJRD4gXAogICAgPOOCreODvOODmuOCouOBrklEPiBcCiAgICA8TGFtYmRh44Gu5a6f6KGM44Ot44O844Or44GuQVJOPiBcCiAgICA844Ko44Oz44Kz44O844OJJuaal+WPt+WMlua4iOOBv+OBruOCreODvOODmuOCouOBruenmOWvhumNteOBjOiomOi/sOOBleOCjOOBn+ODleOCoeOCpOODqz4KYGBgCg==</text>
+        <text encoding="base64">JCBtdm4gdGVzdCAtQiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JCBtdm4gdGVzdCAtQgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JCBnZW0gaW5zdGFsbCBmYWtlczMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2VtIGluc3RhbGwgZmFrZXMzIC12IDEuMi4wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
