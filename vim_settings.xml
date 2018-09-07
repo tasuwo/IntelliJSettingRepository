@@ -594,7 +594,7 @@
         <text encoding="base64">IyMgSVDjgqLjg4njg6zjgrkKCmBpZmNvbmRpZ2Ag44Kz44Oe44Oz44OJ44Gn44Ko44Kk44Oq44Ki44K544KS6LK844Gj44Gm44GK44GP44CCCgpgYGAgc2hlbGwgCnN1ZG8gaWZjb25maWcgbG8wIGFsaWFzIDE3Mi4xNi4xMjMuMQpgYGAKCiMjIGF3cy1zYW0tbG9jYWwKCmAtLWVudi12YXJzYCDjgacgQVdTIExhbWJkYSDjgavnkrDlooPlpInmlbDjgpLoqK3lrprjgZfjgablrp/ooYzjgafjgY3jgovjgILnkrDlooPlpInmlbDjga8gYGVudi5qc29uYCDjgavoqJjov7DjgZXjgozjgabjgYTjgovjgIIKCmBgYHNoZWxsCiMg44K944O844K544Kz44O844OJ44KS44OR44OD44Kx44O844K444Oz44Kw44GZ44KLCiQgLi9ncmFkbGV3IGNsZWFuIC1QdGVzdEJ1aWxkPXRydWUgOmltY29udjpzaGFkb3dKYXIKCiMg44OJ44Kt44Ol44Oh44Oz44OI44KS55Sf5oiQ44GZ44KLCiQgLi9ncmFkbGV3IGFzY2lpZG9jdG9yCgojIHNhbSDjg4bjg7Pjg5fjg6zjg7zjg4jjgYznlKjmhI/jgZXjgozjgabjgYTjgarjgYTloLTlkIjjgavjga/jgIHnlJ/miJDjgZnjgosKIyDku6XkuIvjgpLlrp/ooYzjgZnjgovjgajjgIFzYW0ueWFtbCDjgYznlJ/miJDjgZXjgozjgosKJCBydWJ5IHNjcmlwdHMvZ2VuZXJhdGVZYW1scy5yYgoKIyDjgqLjg5fjg6rjgrHjg7zjgrfjg6fjg7PjgpLjg63jg7zjgqvjg6vjgaflrp/ooYzjgZnjgosKJCBhd3Mtc2FtLWxvY2FsIGxvY2FsIHN0YXJ0LWFwaSAtLWVudi12YXJzIC4vaW1jb252L3NyYy9pbnRlZ3JhdGlvblRlc3QvcmVzb3VyY2VzL2Vudi5qc29uIC10IHNhbS55YW1sCmBgYAoKIyMgZmFrZS1zMwoKYGBgc2hlbGwKJCBsb2NhbHN0YWNrIHN0YXJ0CiQgYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBtYiBzMzovL2ltY29udgokIGF3cyAtLWVuZHBvaW50LXVybD1odHRwOi8vbG9jYWxob3N0OjQ1NzIgczMgY3AgaW1jb252L3NyYy9pbnRlZ3JhdGlvblRlc3QvcmVzb3VyY2VzL3NhbXBsZS1pbWFnZXMvY29sb3JzcGFjZS9jbXlrLmpwZyBzMzovL2ltY29udi9jbXlrCiQgYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBjcCBpbWNvbnYvc3JjL2ludGVncmF0aW9uVGVzdC9yZXNvdXJjZXMvc2FtcGxlLWltYWdlcy9jb2xvcnNwYWNlL3JnYi5qcGcgczM6Ly9pbWNvbnYvcmdiCiQgYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBjcCBpbWNvbnYvc3JjL2ludGVncmF0aW9uVGVzdC9yZXNvdXJjZXMvc2FtcGxlLWltYWdlcy9jb2xvcnNwYWNlL2dyYXkucG5nIHMzOi8vaW1jb252L2dyYXkKJCBhd3MgLS1lbmRwb2ludC11cmw9aHR0cDovL2xvY2FsaG9zdDo0NTcyIHMzIGNwIGltY29udi9zcmMvaW50ZWdyYXRpb25UZXN0L3Jlc291cmNlcy9zYW1wbGUtaW1hZ2VzL2R1bW15L3Rlc3QudHh0IHMzOi8vaW1jb252L2R1bW15CmBgYAoKIyMgcGFja2FnZQoK44OG44K544OI55So44Gu44OQ44Kk44OK44Oq44KS5L2c5oiQ44GZ44KL44CCCgpgYGAgc2hlbGwKJCAuL2dyYWRsZXcgLVB0ZXN0QnVpbGQ9dHJ1ZSA6aW1jb252OnNoYWRvd0phcgpgYGAKCiMg44OG44K544OI44Gu5a6f6KGMCgpgYGAgc2hlbGwKJCAuL2dyYWRsZXcgOmltY29udjppbnRlZ3JhdGlvblRlc3QKYGBgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
@@ -640,8 +640,8 @@
         <entry>sptli</entry>
         <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
         <entry>Noh</entry>
-        <entry>split</entry>
         <entry>noh</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
