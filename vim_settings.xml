@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/installFakeServices.sh" timestamp="1536290386189">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="28" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/installFakeServices.sh" timestamp="1536299477760">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/test/ChatStream.spec.js" timestamp="1532443721584">
         <mark key="'" line="45" column="0" />
@@ -22,6 +22,12 @@
         <mark key="]" line="48" column="96" />
         <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/kotlin/IntegrationTestSpec.kt" timestamp="1536299839158">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceSingleService.java" timestamp="1533607799681">
         <mark key="'" line="32" column="13" />
@@ -117,14 +123,6 @@
         <mark key="^" line="33" column="22" />
         <mark key="." line="33" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestPriceCodeChangeScheduleService.java" timestamp="1535425213526">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dao/LogBatchAndReleaseDao.java" timestamp="1535345922593">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/ChatStream.js" timestamp="1532274972836">
         <mark key="'" line="2" column="31" />
         <mark key="[" line="97" column="12" />
@@ -139,13 +137,12 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-report/src/main/java/jp/co/dwango/ddex/report/ReportMail.java" timestamp="1535525251720">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/.travis.yml" timestamp="1536288379035">
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="29" />
+      <file name="$USER_HOME$/Documents/src/IMConv/.travis.yml" timestamp="1536299790567">
+        <mark key="'" line="39" column="11" />
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/search/TestNewReleaseCheckPage.java" timestamp="1535446341977">
         <mark key="[" line="5" column="21" />
@@ -160,15 +157,11 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="47" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/PriceCodeChangeScheduleService.java" timestamp="1535425347936">
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/installPackagesForIntegrationTest.sh" timestamp="1536299442843">
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/installPackagesForIntegrationTest.sh" timestamp="1536290396939">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="26" />
-        <mark key="^" line="10" column="26" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1534421653994">
         <mark key="'" line="255" column="28" />
@@ -176,10 +169,6 @@
         <mark key="]" line="149" column="64" />
         <mark key="^" line="151" column="31" />
         <mark key="." line="150" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/download/util/part/rowbuilder/util/ItemLicenseAvailability.java" timestamp="1535365161240">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage-core/pom.xml" timestamp="1533609185957">
         <mark key="'" line="3" column="0" />
@@ -191,10 +180,6 @@
       <file name="$USER_HOME$/Documents/src/IMConv/deploy.sh" timestamp="1536288402863">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/util/LicenseProcessor.java" timestamp="1535425827595">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/ClassifiedDeliveryItems.java" timestamp="1535079199201">
         <mark key="[" line="17" column="41" />
@@ -227,19 +212,11 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/test/java/jp/co/dwango/ddex/batch_importer/profile/sme/TestSmeItemImporter.java" timestamp="1535447328949">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryAcceptItemsClassifier.java" timestamp="1535077755033">
         <mark key="[" line="32" column="26" />
         <mark key="]" line="32" column="21" />
         <mark key="^" line="41" column="28" />
         <mark key="." line="32" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/test/java/jp/co/dwango/ddex/batch_importer/profile/TestSimpleDistributorItemNormalizer.java" timestamp="1535526520715">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="106" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/classify/ClassifySpecificationImpl.java" timestamp="1535087296011">
         <mark key="[" line="11" column="51" />
@@ -261,6 +238,12 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/exitAndOutputFakeServicesLog.sh" timestamp="1536299429584">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/kingrecord-delivery/src/main/java/jp/co/dwango/ddex/kingrecord_delivery/DeliveryMessageFactory.java" timestamp="1531893469039">
         <mark key="'" line="14" column="40" />
         <mark key="[" line="14" column="0" />
@@ -275,10 +258,6 @@
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage-core/src/main/java/jp/co/dwango/ddex/manage/core/time/NowProviderUpdateOnRequest.java" timestamp="1535538552362">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Chat.vue" timestamp="1532526117519">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="27" column="0" />
@@ -292,16 +271,18 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dao/BatchImportProgressDaoImpl.java" timestamp="1535345943093">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1535451302009">
         <mark key="'" line="78" column="11" />
         <mark key="[" line="107" column="11" />
         <mark key="]" line="107" column="29" />
         <mark key="." line="107" column="29" />
         <mark key="^" line="107" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/setupIntegrationTestEnv4Local.sh" timestamp="1536300512253">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-core/pom.xml" timestamp="1533544749700">
         <mark key="'" line="50" column="26" />
@@ -335,10 +316,6 @@
         <mark key="^" line="32" column="42" />
         <mark key="." line="32" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/test/java/jp/co/dwango/ddex/batch_importer/inspect/stars/TestStarsDeliveryInspector.java" timestamp="1535447506452">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="142" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/amuse-delivery/src/main/java/jp/co/dwango/ddex/amuse_delivery/DeliveryMessageFactory.java" timestamp="1531894804096">
         <mark key="'" line="14" column="25" />
         <mark key="[" line="21" column="45" />
@@ -346,12 +323,12 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" timestamp="1536298277044">
-        <mark key="'" line="125" column="4" />
-        <mark key="[" line="142" column="2" />
-        <mark key="]" line="146" column="131" />
-        <mark key="." line="142" column="40" />
-        <mark key="^" line="142" column="40" />
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" timestamp="1536300865018">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="114" column="18" />
+        <mark key="]" line="114" column="55" />
+        <mark key="." line="114" column="55" />
+        <mark key="^" line="114" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" timestamp="1535612867336">
         <mark key="'" line="388" column="42" />
@@ -423,12 +400,12 @@
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" timestamp="1536291071073">
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" timestamp="1536299800854">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="66" column="129" />
-        <mark key="^" line="64" column="38" />
-        <mark key="." line="64" column="38" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/src/IMConv/README.md" timestamp="1536288768456">
         <mark key="[" line="134" column="0" />
@@ -472,9 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="433" column="4" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="290" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="292" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="445" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="440" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="434" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
@@ -572,72 +546,61 @@
       <jump line="134" column="8" filename="$USER_HOME$/Documents/src/IMConv/README.md" />
       <jump line="95" column="2" filename="$USER_HOME$/Documents/src/IMConv/scripts/usedToDeployEnvironment/README.md" />
       <jump line="189" column="0" filename="$USER_HOME$/Documents/src/IMConv/scripts/usedToDeployEnvironment/README.md" />
+      <jump line="39" column="11" filename="$USER_HOME$/Documents/src/IMConv/.travis.yml" />
+      <jump line="109" column="8" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>stacktrace</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>mvn</text>
+        <text>fakes3</text>
       </register>
-      <register name="0" type="8">
-        <text>aws --endpoint-url=http://localhost:4572 s3 mb s3://imconv
-aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resources/sample-images/colorspace/cmyk.jpg s3://imconv/cmyk
-aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resources/sample-images/colorspace/rgb.jpg s3://imconv/rgb
-aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resources/sample-images/colorspace/gray.png s3://imconv/gray
-aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resources/sample-images/dummy/test.txt s3://imconv/dummy</text>
+      <register name="0" type="4">
+        <text>setupIntegrationTestEnv4Local.sh</text>
       </register>
-      <register name="1" type="8">
-        <text>67
-67
-67
-67
-67</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyDlv4XopoHjgaroqK3lrpoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>72
-72
-72
-72
-72</text>
+      <register name="2" type="2">
+        <text encoding="base64">JCAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
-      <register name="4" type="8">
-        <text>67
-67
-67</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2VtIGluc3RhbGwgZmFrZXMzIC12IDEuMi4wCg==</text>
+        <text encoding="base64">c2hlbGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">54++54q244CB44K544Kv44Oq44OX44OI44Gu5Yip55So5p2h5Lu244Gv5Lul5LiLCgotIE1hYyB1c2VyIOOBp+OBguOCi+OBk+OBqCAoaWZjb25maWcg44Gu44Kq44OX44K344On44Oz44GM55Ww44Gq44KL44Gf44KBKQotIOWQhOeoruODquOCveODvOOCuShJbWFnZU1hZ2ljayDjga7jg5DjgqTjg4rjg6rjgIHjgq3jg7zjg5rjgqLjga7mmpflj7fljJbmuIjjgb/np5jlr4bpjbUp44GM5omA5a6a44GucHJlZml444Gr44Ki44OD44OX44Ot44O844OJ44GV44KM44GfIFMzIOODkOOCseODg+ODiOOBjOWtmOWcqOOBmeOCiwotIHByb2plY3Qgcm9vdCDjgYvjgonlrp/ooYzjgZnjgosKLSDjg63jg7zjgqvjg6vnkrDlooPjgasgaW1hZ2UgbWFnaWNrIOOBjOOCpOODs+OCueODiOODvOODq+OBleOCjOOBpuOBhOOCiwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">JCBtdm4gdGVzdCAtQiAK</text>
+      <register name="7" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JCBtdm4gdGVzdCAtQgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgSVDjgqLjg4njg6zjgrkKCmBpZmNvbmRpZ2Ag44Kz44Oe44Oz44OJ44Gn44Ko44Kk44Oq44Ki44K544KS6LK844Gj44Gm44GK44GP44CCCgpgYGAgc2hlbGwgCnN1ZG8gaWZjb25maWcgbG8wIGFsaWFzIDE3Mi4xNi4xMjMuMQpgYGAKCiMjIGF3cy1zYW0tbG9jYWwKCmAtLWVudi12YXJzYCDjgacgQVdTIExhbWJkYSDjgavnkrDlooPlpInmlbDjgpLoqK3lrprjgZfjgablrp/ooYzjgafjgY3jgovjgILnkrDlooPlpInmlbDjga8gYGVudi5qc29uYCDjgavoqJjov7DjgZXjgozjgabjgYTjgovjgIIKCmBgYHNoZWxsCiMg44K944O844K544Kz44O844OJ44KS44OR44OD44Kx44O844K444Oz44Kw44GZ44KLCiQgLi9ncmFkbGV3IGNsZWFuIC1QdGVzdEJ1aWxkPXRydWUgOmltY29udjpzaGFkb3dKYXIKCiMg44OJ44Kt44Ol44Oh44Oz44OI44KS55Sf5oiQ44GZ44KLCiQgLi9ncmFkbGV3IGFzY2lpZG9jdG9yCgojIHNhbSDjg4bjg7Pjg5fjg6zjg7zjg4jjgYznlKjmhI/jgZXjgozjgabjgYTjgarjgYTloLTlkIjjgavjga/jgIHnlJ/miJDjgZnjgosKIyDku6XkuIvjgpLlrp/ooYzjgZnjgovjgajjgIFzYW0ueWFtbCDjgYznlJ/miJDjgZXjgozjgosKJCBydWJ5IHNjcmlwdHMvZ2VuZXJhdGVZYW1scy5yYgoKIyDjgqLjg5fjg6rjgrHjg7zjgrfjg6fjg7PjgpLjg63jg7zjgqvjg6vjgaflrp/ooYzjgZnjgosKJCBhd3Mtc2FtLWxvY2FsIGxvY2FsIHN0YXJ0LWFwaSAtLWVudi12YXJzIC4vaW1jb252L3NyYy9pbnRlZ3JhdGlvblRlc3QvcmVzb3VyY2VzL2Vudi5qc29uIC10IHNhbS55YW1sCmBgYAoKIyMgZmFrZS1zMwoKYGBgc2hlbGwKJCBsb2NhbHN0YWNrIHN0YXJ0CiQgYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBtYiBzMzovL2ltY29udgokIGF3cyAtLWVuZHBvaW50LXVybD1odHRwOi8vbG9jYWxob3N0OjQ1NzIgczMgY3AgaW1jb252L3NyYy9pbnRlZ3JhdGlvblRlc3QvcmVzb3VyY2VzL3NhbXBsZS1pbWFnZXMvY29sb3JzcGFjZS9jbXlrLmpwZyBzMzovL2ltY29udi9jbXlrCiQgYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBjcCBpbWNvbnYvc3JjL2ludGVncmF0aW9uVGVzdC9yZXNvdXJjZXMvc2FtcGxlLWltYWdlcy9jb2xvcnNwYWNlL3JnYi5qcGcgczM6Ly9pbWNvbnYvcmdiCiQgYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBjcCBpbWNvbnYvc3JjL2ludGVncmF0aW9uVGVzdC9yZXNvdXJjZXMvc2FtcGxlLWltYWdlcy9jb2xvcnNwYWNlL2dyYXkucG5nIHMzOi8vaW1jb252L2dyYXkKJCBhd3MgLS1lbmRwb2ludC11cmw9aHR0cDovL2xvY2FsaG9zdDo0NTcyIHMzIGNwIGltY29udi9zcmMvaW50ZWdyYXRpb25UZXN0L3Jlc291cmNlcy9zYW1wbGUtaW1hZ2VzL2R1bW15L3Rlc3QudHh0IHMzOi8vaW1jb252L2R1bW15CmBgYAoKIyMgcGFja2FnZQoK44OG44K544OI55So44Gu44OQ44Kk44OK44Oq44KS5L2c5oiQ44GZ44KL44CCCgpgYGAgc2hlbGwKJCAuL2dyYWRsZXcgLVB0ZXN0QnVpbGQ9dHJ1ZSA6aW1jb252OnNoYWRvd0phcgpgYGAKCiMg44OG44K544OI44Gu5a6f6KGMCgpgYGAgc2hlbGwKJCAuL2dyYWRsZXcgOmltY29udjppbnRlZ3JhdGlvblRlc3QKYGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>mvn</last-search>
+      <last-search>fakes3</last-search>
       <last-offset />
-      <last-pattern>mvn</last-pattern>
+      <last-pattern>fakes3</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -667,6 +630,8 @@ aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resour
         <entry>エラーメール</entry>
         <entry encoding="base64">XDxncmFkbGV3XD4=</entry>
         <entry>mvn</entry>
+        <entry>fake</entry>
+        <entry>fakes3</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
