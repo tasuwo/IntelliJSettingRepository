@@ -346,10 +346,10 @@
         <mark key="." line="21" column="49" />
         <mark key="^" line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" timestamp="1536291107695">
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" timestamp="1536298277044">
         <mark key="'" line="125" column="4" />
-        <mark key="[" line="142" column="40" />
-        <mark key="]" line="142" column="40" />
+        <mark key="[" line="142" column="2" />
+        <mark key="]" line="146" column="131" />
         <mark key="." line="142" column="40" />
         <mark key="^" line="142" column="40" />
       </file>
@@ -583,41 +583,49 @@
       <register name="/" type="4">
         <text>mvn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBtYiBzMzovL2ltY29udgphd3MgLS1lbmRwb2ludC11cmw9aHR0cDovL2xvY2FsaG9zdDo0NTcyIHMzIGNwIGltY29udi9zcmMvaW50ZWdyYXRpb25UZXN0L3Jlc291cmNlcy9zYW1wbGUtaW1hZ2VzL2NvbG9yc3BhY2UvY215ay5qcGcgczM6Ly9pbWNvbnYvY215awphd3MgLS1lbmRwb2ludC11cmw9aHR0cDovL2xvY2FsaG9zdDo0NTcyIHMzIGNwIGltY29udi9zcmMvaW50ZWdyYXRpb25UZXN0L3Jlc291cmNlcy9zYW1wbGUtaW1hZ2VzL2NvbG9yc3BhY2UvcmdiLmpwZyBzMzovL2ltY29udi9yZ2IKYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBjcCBpbWNvbnYvc3JjL2ludGVncmF0aW9uVGVzdC9yZXNvdXJjZXMvc2FtcGxlLWltYWdlcy9jb2xvcnNwYWNlL2dyYXkucG5nIHMzOi8vaW1jb252L2dyYXkKYXdzIC0tZW5kcG9pbnQtdXJsPWh0dHA6Ly9sb2NhbGhvc3Q6NDU3MiBzMyBjcCBpbWNvbnYvc3JjL2ludGVncmF0aW9uVGVzdC9yZXNvdXJjZXMvc2FtcGxlLWltYWdlcy9kdW1teS90ZXN0LnR4dCBzMzovL2ltY29udi9kdW1teQo=</text>
+      <register name="0" type="8">
+        <text>aws --endpoint-url=http://localhost:4572 s3 mb s3://imconv
+aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resources/sample-images/colorspace/cmyk.jpg s3://imconv/cmyk
+aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resources/sample-images/colorspace/rgb.jpg s3://imconv/rgb
+aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resources/sample-images/colorspace/gray.png s3://imconv/gray
+aws --endpoint-url=http://localhost:4572 s3 cp imconv/src/integrationTest/resources/sample-images/dummy/test.txt s3://imconv/dummy</text>
       </register>
       <register name="1" type="8">
+        <text>67
+67
+67
+67
+67</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>72
 72
 72
 72
 72</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>67
 67
 67</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Z2VtIGluc3RhbGwgZmFrZXMzIC12IDEuMi4wCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">JCBtdm4gdGVzdCAtQiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JCBtdm4gdGVzdCAtQgo=</text>
+        <text encoding="base64">JCBtdm4gdGVzdCAtQiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JCBtdm4gdGVzdCAtQgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
