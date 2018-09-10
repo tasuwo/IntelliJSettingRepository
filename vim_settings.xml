@@ -278,11 +278,12 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" timestamp="1536568441787">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="33" />
-        <mark key="." line="59" column="33" />
-        <mark key="^" line="59" column="33" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" timestamp="1536570853783">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="138" column="43" />
+        <mark key="]" line="138" column="43" />
+        <mark key="." line="138" column="43" />
+        <mark key="^" line="138" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1535451302009">
         <mark key="'" line="78" column="11" />
@@ -323,12 +324,12 @@
         <mark key="^" line="89" column="21" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1536569194362">
-        <mark key="'" line="105" column="8" />
-        <mark key="[" line="255" column="31" />
-        <mark key="]" line="255" column="41" />
-        <mark key="^" line="255" column="41" />
-        <mark key="." line="255" column="41" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1536571752126">
+        <mark key="'" line="247" column="39" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="^" line="252" column="39" />
+        <mark key="." line="256" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverAcceptTargetsClassifier.java" timestamp="1535076279335">
         <mark key="[" line="32" column="20" />
@@ -474,8 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="546" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="557" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="427" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="567" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="104" column="80" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
@@ -574,49 +573,51 @@
       <jump line="69" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="242" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="105" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
+      <jump line="247" column="39" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">UmVzb3VyZUZpbGUg</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
       <register name="0" type="4">
-        <text>materialIdsByItemId.get(itemId)</text>
+        <text>ResourceFileUtil.getRepository().getAsFile(artworkFilePath)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGl0ZW1JZC50b1N0cmluZygpKTsKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKEFycmF5cy50b1N0cmluZyhtYXRlcmlhbElkc0J5SXRlbUlkLmdldChpdGVtSWQpLnRvQXJyYXkoKSkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJvb28iKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcihiYXNlVXJsICsgZW5kcG9pbnRzLmdldFRvVXBsb2FkVXJsKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcih1cGxvYWRVcmwpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjdXRvci5hd2FpdFRlcm1pbmF0aW9uKDEsIFRpbWVVbml0LkhPVVJTKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2VGaWxlIGFydHdvcmtGaWxlID0gUmVzb3VyY2VGaWxlVXRpbC5nZXRSZXBvc2l0b3J5KCkuZ2V0QXNGaWxlKGFydHdvcmtGaWxlUGF0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1jb252UmdiQ29udmVydGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVudHJ5LmdldFZhbHVlKCkuZ2V0QXJ0d29ya0ZpbGVQYXRoKCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbWNvbnZSZ2JDb252ZXJ0ZXIgaW1jb252UmdiQ29udmVydGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJvb28iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmltY29udlJnYkNvbnZlcnRlciA9IGltY29udlJnYkNvbnZlcnRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
