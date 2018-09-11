@@ -335,6 +335,9 @@
         <mark key="]" line="179" column="67" />
         <mark key="." line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1536658350505">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliverAcceptTargetsClassifier.java" timestamp="1535076279335">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="42" />
@@ -433,12 +436,11 @@
         <mark key="." line="141" column="65" />
         <mark key="^" line="141" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" timestamp="1536657294216">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="192" column="32" />
-        <mark key="]" line="192" column="32" />
-        <mark key="^" line="195" column="25" />
-        <mark key="." line="192" column="32" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" timestamp="1536658784026">
+        <mark key="[" line="110" column="180" />
+        <mark key="]" line="110" column="180" />
+        <mark key="." line="110" column="180" />
+        <mark key="^" line="110" column="180" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" timestamp="1535621802153">
         <mark key="'" line="0" column="0" />
@@ -476,7 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="71" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="699" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="698" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="396" column="54" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
@@ -563,7 +564,6 @@
       <jump line="102" column="118" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="190" column="21" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="206" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="103" column="57" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="91" column="99" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="125" column="56" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="7" column="37" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
@@ -576,62 +576,64 @@
       <jump line="98" column="10" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="211" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>ResourceFile</text>
       </register>
       <register name="/" type="4">
-        <text>ResourceFile</text>
+        <text>guice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bnVzZWQiKQogICAgQE1vY2tlZAogICAgZmluYWwgUmVzb3VyY2VGaWxlVXRpbCByZXNvdXJjZUZpbGVVdGlsID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmQoQ29uZmlnLmNsYXNzKS50b0luc3RhbmNlKGNvbmZpZyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmQoQWxlcnRlZEl0ZW1MaXN0RGF0YVNvdXJjZUJ1aWxkZXIuRmFjdG9yeS5jbGFzcykudG9JbnN0YW5jZShhbGVydGVkSXRlbUxpc3REYXRhU291cmNlQnVpbGRlckZhY3RvcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">CmltcG9ydCBzdGF0aWMgb3JnLmhhbWNyZXN0LkNvcmVNYXRjaGVycy5oYXNJdGVtczsKaW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0LmFzc2VydFRoYXQ7CmltcG9ydCBzdGF0aWMgb3JnLmhhbWNyZXN0LkNvcmVNYXRjaGVycy5pczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuSXRlcmFibGVzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBSZXNvdXJjZUZpbGUgYXJ0d29ya0ZpbGUgPSBuZXcgUmVzb3VyY2VGaWxlKG5ldyBGaWxlKCJ0aGUvcGF0aC90by9hcnR3b3JrLmZha2UuRVhUIikpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNvLmR3YW5nby5kZGV4LmRlbGl2ZXJlZGl0ZW0ucmVzb3VyY2Uuc3RkZnMuU3RkZnNSZXNvdXJjZUZpbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3NlcnRUaGF0KEl0ZXJhYmxlcy5zaXplKGl0ZW1JZHMpLCBpcygxKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>ResourceFile</last-search>
+      <last-search>guice</last-search>
       <last-offset />
-      <last-pattern>ResourceFile</last-pattern>
+      <last-pattern>guice</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -661,6 +663,7 @@
         <entry>getFor</entry>
         <entry>materialIdsByItemId</entry>
         <entry>ResourceFile</entry>
+        <entry>guice</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
