@@ -329,11 +329,12 @@
         <mark key="^" line="89" column="21" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1536656085630">
-        <mark key="'" line="91" column="99" />
-        <mark key="[" line="179" column="34" />
-        <mark key="]" line="179" column="67" />
-        <mark key="." line="207" column="0" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1536668122279">
+        <mark key="'" line="127" column="48" />
+        <mark key="[" line="177" column="58" />
+        <mark key="]" line="178" column="31" />
+        <mark key="." line="178" column="31" />
+        <mark key="^" line="178" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1536658350505">
         <mark key="'" line="0" column="0" />
@@ -436,11 +437,12 @@
         <mark key="." line="141" column="65" />
         <mark key="^" line="141" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" timestamp="1536663192702">
-        <mark key="[" line="130" column="28" />
-        <mark key="]" line="130" column="35" />
-        <mark key="." line="130" column="35" />
-        <mark key="^" line="130" column="35" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" timestamp="1536667866662">
+        <mark key="'" line="341" column="30" />
+        <mark key="[" line="524" column="0" />
+        <mark key="]" line="524" column="0" />
+        <mark key="." line="524" column="0" />
+        <mark key="^" line="521" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" timestamp="1535621802153">
         <mark key="'" line="0" column="0" />
@@ -478,37 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="54" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="1000" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="1033" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="927" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="926" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="950" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="359" column="7" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="1134" column="17" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="383" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="411" column="53" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="257" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="387" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
-      <jump line="14" column="1" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="26" column="10" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="46" column="16" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="51" column="16" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="52" column="24" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="57" column="16" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="58" column="24" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="119" column="10" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="127" column="18" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="157" column="8" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="158" column="37" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="129" column="9" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="4" column="25" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.sh" />
-      <jump line="19" column="26" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" />
-      <jump line="125" column="4" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" />
-      <jump line="134" column="8" filename="$USER_HOME$/Documents/src/IMConv/README.md" />
-      <jump line="95" column="2" filename="$USER_HOME$/Documents/src/IMConv/scripts/usedToDeployEnvironment/README.md" />
       <jump line="189" column="0" filename="$USER_HOME$/Documents/src/IMConv/scripts/usedToDeployEnvironment/README.md" />
       <jump line="39" column="11" filename="$USER_HOME$/Documents/src/IMConv/.travis.yml" />
       <jump line="109" column="8" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/integrationTest/README.md" />
@@ -545,7 +516,6 @@
       <jump line="157" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="160" column="20" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="69" column="36" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="97" column="77" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="108" column="31" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
@@ -567,69 +537,101 @@
       <jump line="38" column="59" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="42" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="91" column="10" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="115" column="19" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="116" column="26" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="39" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="98" column="10" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="211" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" />
       <jump line="103" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="143" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="159" column="38" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="94" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="96" column="25" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="352" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="204" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="221" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="229" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="233" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="237" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="251" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="259" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="263" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="267" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="271" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="280" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="291" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="296" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="303" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="311" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="320" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="335" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="337" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="349" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="363" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="214" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="135" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
+      <jump line="127" column="48" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
+      <jump line="424" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="345" column="84" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
+      <jump line="341" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>guice</text>
+        <text>isDirectory</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJSZXN1bHRPZk1ldGhvZENhbGxJZ25vcmVkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VuZEJ1bmRsZUFydHdvcmtUb1N0ZWNreUhhbmRsZXIgZ2V0U2VuZEJ1bmRsZUFydHdvcmtUb1N0ZWNreUhhbmRsZXIoQ29uZmlnIGNvbmZpZykgewogICAgICAgIC8qCiAgICAgICAgSW5qZWN0b3IgaW5qZWN0b3IgPSBHdWljZS5jcmVhdGVJbmplY3RvcihNb2NrQWNjZXB0YWJsZU1vZHVsZS5vZihuZXcgQWJzdHJhY3RNb2R1bGUoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwcm90ZWN0ZWQgdm9pZCBjb25maWd1cmUoKSB7CiAgICAgICAgICAgICAgICBiaW5kKFJlc291cmNlQnVuZGxlU2VydmljZS5jbGFzcykudG9JbnN0YW5jZShyZXNvdXJjZUJ1bmRsZVNlcnZpY2UpOwogICAgICAgICAgICAgICAgYmluZChNYXRlcmlhbFNlcnZpY2UuY2xhc3MpLnRvSW5zdGFuY2UobWF0ZXJpYWxTZXJ2aWNlKTsKICAgICAgICAgICAgICAgIGJpbmQoTWVzc2FnZUZhY3RvcnkuY2xhc3MpLnRvSW5zdGFuY2UobWVzc2FnZUZhY3RvcnkpOwogICAgICAgICAgICAgICAgYmluZChUcmFuc3BvcnRlci5jbGFzcykudG9JbnN0YW5jZSh0cmFuc3BvcnRlcik7CiAgICAgICAgICAgICAgICBiaW5kKENvbmZpZy5jbGFzcykudG9JbnN0YW5jZShjb25maWcpOwogICAgICAgICAgICAgICAgYmluZChVc2VyLmNsYXNzKS50b0luc3RhbmNlKGxvZ2luVXNlcik7CiAgICAgICAgICAgIH0KICAgICAgICB9KSk7CiAgICAgICAgcmV0dXJuIGluamVjdG9yLmdldEluc3RhbmNlKFNlbmRCdW5kbGVBcnR3b3JrVG9TdGVja3lIYW5kbGVyLmNsYXNzKTsKICAgICAgICAqLwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YVNvdXJjZUJ1aWxkZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFNlbmRCdW5kbGVBcnR3b3JrVG9TdGVja3lIYW5kbGVyKHJlc291cmNlQnVuZGxlU2VydmljZSwgbWF0ZXJpYWxTZXJ2aWNlLCBtZXNzYWdlRmFjdG9yeSwgdHJhbnNwb3J0ZXIsIGFsZXJ0ZWRJdGVtTGlzdERhdGFTb3VyY2VCdWlsZGVyRmFjdG9yeSwgY29uZmlnLCBsb2dpblVzZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxlcnRlZEl0ZW1MaXN0RGF0YVNvdXJjZUJ1aWxkZXIuYWRkSXRlbUlkKGFueUludCwgYW55U3RyaW5nKTsgdGltZXMgPSAzOwogICAgICAgICAgICAvLyBhbGVydGVkSXRlbUxpc3REYXRhU291cmNlQnVpbGRlci5hZGRJdGVtSWQoMiwgIuWFiOaWueODoeOCv+S4iuOBp+aMh+WumuOBleOCjOOBn+WQjeWJjeOBruODleOCoeOCpOODq+OBjOimi+OBpOOBi+OCiuOBvuOBm+OCk+OBp+OBl+OBny4iKTsgdGltZXMgPSAxOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuaW5qZWN0LkluamVjdG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxlcnRlZEl0ZW1MaXN0RGF0YVNvdXJjZUJ1aWxkZXIuYWRkSXRlbUlkKDMsICLlhYjmlrnjg6Hjgr/kuIrjgafmjIflrprjgZXjgozjgZ/lkI3liY3jga7jg5XjgqHjgqTjg6vjgYzopovjgaTjgYvjgorjgb7jgZvjgpPjgafjgZfjgZ8uIik7IHRpbWVzID0gMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNvLmR3YW5nby5kZGV4LmRlbGl2ZXJlZGl0ZW0ucmVzb3VyY2UuUmVzb3VyY2VGaWxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGl0ZW1JZCA0IOOBr+WQq+OBvuOBquOBhCA9IOaOoeeVquOBleOCjOOBpuOBhOOBquOBhAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wdXRBbGwoMywgaXRlbUFuZE1hdGVyaWFsMykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wdXRBbGwoNCwgaXRlbUFuZE1hdGVyaWFsMykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wdXRBbGwoMywgaXRlbUFuZE1hdGVyaWFsMykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxlcnRlZEl0ZW1MaXN0RGF0YVNvdXJjZUJ1aWxkZXIuYWRkSXRlbUlkKDQsICLmnKrnmbrnlarjgafjgZkuIOODquODquODvOOCuUlEID0gNCIpOyB0aW1lcyA9IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>guice</last-search>
+      <last-search>isDirectory</last-search>
       <last-offset />
-      <last-pattern>guice</last-pattern>
+      <last-pattern>isDirectory</last-pattern>
       <last-replace>許諾元</last-replace>
       <last-substitute>許諾先</last-substitute>
       <last-dir>1</last-dir>
@@ -664,6 +666,8 @@
         <entry>materialIdsByItemId</entry>
         <entry>ResourceFile</entry>
         <entry>guice</entry>
+        <entry>isFile</entry>
+        <entry>isDirectory</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
