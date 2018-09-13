@@ -50,12 +50,12 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" timestamp="1536805683392">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="42" column="41" />
-        <mark key="." line="42" column="41" />
-        <mark key="^" line="42" column="41" />
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" timestamp="1536813337752">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+        <mark key="." line="15" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/PreparingEndButtonPanel.java" timestamp="1536550192997">
         <mark key="[" line="79" column="0" />
@@ -120,6 +120,12 @@
         <mark key="]" line="320" column="14" />
         <mark key="^" line="318" column="79" />
         <mark key="." line="318" column="79" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/core/Config.kt" timestamp="1536811728919">
+        <mark key="[" line="37" column="54" />
+        <mark key="]" line="37" column="61" />
+        <mark key="." line="37" column="61" />
+        <mark key="^" line="37" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533607696243">
         <mark key="'" line="71" column="0" />
@@ -214,11 +220,10 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/core/ImageMagickService.kt" timestamp="1536808215259">
-        <mark key="[" line="33" column="101" />
-        <mark key="]" line="33" column="114" />
-        <mark key="^" line="33" column="114" />
-        <mark key="." line="33" column="114" />
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/core/ImageMagickService.kt" timestamp="1536813497610">
+        <mark key="[" line="33" column="96" />
+        <mark key="]" line="33" column="96" />
+        <mark key="." line="33" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/MuThread.java" timestamp="1536547861905">
         <mark key="[" line="6" column="0" />
@@ -238,6 +243,13 @@
         <mark key="]" line="2" column="7" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/resources/script.sh" timestamp="1536812194343">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-encode/src/test/java/jp/co/dwango/ddex/db/encode/service/TestNonDdexDistributorService.java" timestamp="1536655179221">
         <mark key="[" line="2" column="0" />
@@ -260,6 +272,12 @@
         <mark key="]" line="11" column="59" />
         <mark key="^" line="11" column="59" />
         <mark key="." line="11" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/resources/config.json" timestamp="1536812156338">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/toys-delivery/src/main/java/jp/co/dwango/ddex/toys_delivery/DeliveryMessageExtractorImpl.java" timestamp="1531881075245">
         <mark key="'" line="11" column="12" />
@@ -322,11 +340,12 @@
         <mark key="." line="107" column="29" />
         <mark key="^" line="107" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/scripts/setupIntegrationTestEnv4Local.sh" timestamp="1536306014656">
-        <mark key="[" line="44" column="10" />
-        <mark key="]" line="44" column="19" />
-        <mark key="." line="44" column="19" />
-        <mark key="^" line="44" column="19" />
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/setupIntegrationTestEnv4Local.sh" timestamp="1536812764627">
+        <mark key="'" line="33" column="22" />
+        <mark key="[" line="51" column="5" />
+        <mark key="]" line="51" column="7" />
+        <mark key="." line="51" column="7" />
+        <mark key="^" line="51" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-core/pom.xml" timestamp="1533544749700">
         <mark key="'" line="50" column="26" />
@@ -469,6 +488,9 @@
         <mark key="^" line="233" column="57" />
         <mark key="." line="233" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/fakable/src/main/kotlin/jp/co/dwango/imconv/awscore/IAMUserKeyPairPrivateKey.kt" timestamp="1536813289210">
+        <mark key="'" line="10" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" timestamp="1535621802153">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -499,9 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="18" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
-      <jump line="217" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
-      <jump line="258" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="159" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="175" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
@@ -599,58 +618,61 @@
       <jump line="67" column="17" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" />
       <jump line="231" column="45" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/resources/script.sh" />
+      <jump line="33" column="22" filename="$USER_HOME$/Documents/src/IMConv/scripts/setupIntegrationTestEnv4Local.sh" />
+      <jump line="10" column="38" filename="$USER_HOME$/Documents/src/IMConv/fakable/src/main/kotlin/jp/co/dwango/imconv/awscore/IAMUserKeyPairPrivateKey.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>了</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>logger.debug</text>
+        <text>Path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHMzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44OQ44Kk44OK44Oq6YWN572u6ZaL5aeLIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuiJsuepuumWk+WkieaPm+mWi+WniyIpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygi44OQ44Kk44OK44Oq6YWN572u6ZaL5aeLIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuiJsuepuumWk+WIpOWIpSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuiJsuepuumWk+WkieaPm+mWi+WniyIpCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIlMzIOOCiOOCiuOCpOODoeODvOOCuOWPluW+l+WujOS6hiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/logger.debug/logger.info/</text>
       </register>
     </registers>
     <search>
-      <last-search>logger.debug</last-search>
+      <last-search>Path</last-search>
       <last-offset />
-      <last-pattern>logger.debug</last-pattern>
+      <last-pattern>Path</last-pattern>
       <last-replace>logger.info</last-replace>
       <last-substitute>logger.debug</last-substitute>
       <last-dir>1</last-dir>
@@ -680,6 +702,8 @@
         <entry>synch</entry>
         <entry>ls</entry>
         <entry>logger.debug</entry>
+        <entry encoding="base64">XDxjaG1vZFw+</entry>
+        <entry>Path</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
