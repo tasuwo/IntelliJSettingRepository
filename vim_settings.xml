@@ -50,7 +50,8 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" timestamp="1536798707248">
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" timestamp="1536805244448">
+        <mark key="'" line="32" column="0" />
         <mark key="[" line="43" column="8" />
         <mark key="]" line="44" column="15" />
         <mark key="." line="44" column="15" />
@@ -455,7 +456,8 @@
         <mark key="." line="524" column="0" />
         <mark key="^" line="521" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" timestamp="1536798626510">
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" timestamp="1536805231851">
+        <mark key="'" line="231" column="45" />
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="51" />
         <mark key="." line="96" column="0" />
@@ -491,10 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" />
-      <jump line="21" column="13" filename="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" />
-      <jump line="89" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/InsertToBundleAndTrackHandler.java" />
       <jump line="57" column="18" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="217" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
       <jump line="258" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
@@ -591,6 +589,10 @@
       <jump line="35" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
       <jump line="101" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
+      <jump line="26" column="23" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" />
+      <jump line="67" column="17" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" />
+      <jump line="231" column="45" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -600,7 +602,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>synch</text>
+        <text>logger.debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBDb25maWcuSW1jb252UmdiQ29udmVydGVyQ29uZmlnIGltY29udkNvbmYgPSB0aGlzLmNvbmZpZy5nZXRJbWNvbnZSZ2JDb252ZXJ0ZXIoKTsKICAgICAgICAgICAgQ29uZmlnLkltY29udlJnYkNvbnZlcnRlckVuZHBvaW50cyBlbmRwb2ludHMgPSBpbWNvbnZDb25mLmdldEVuZHBvaW50cygpOwogICAgICAgICAgICBTdHJpbmcgYmFzZVVybCA9IGltY29udkNvbmYuZ2V0QmFzZVVybCgpOwoKICAgICAgICAgICAgLy8gMS4gdXBsb2FkIOeUqCBVUkwg44Gu5Y+W5b6XCiAgICAgICAgICAgIEh0dHBHZXQgZ2V0VXBsb2FkVXJsID0gbmV3IEh0dHBHZXQoYmFzZVVybCArIGVuZHBvaW50cy5nZXRUb1VwbG9hZFVybCgpKTsKICAgICAgICAgICAgSHR0cFJlc3BvbnNlIGdldFVwbG9hZFVybFJlcyA9IGh0dHBDbGllbnQuZXhlY3V0ZShnZXRVcGxvYWRVcmwpOwogICAgICAgICAgICB2ZXJpZnlIdHRwUmVzcG9uc2UoCiAgICAgICAgICAgICAgICBnZXRVcGxvYWRVcmxSZXMsCiAgICAgICAgICAgICAgICB0cnVlLAogICAgICAgICAgICAgICAgYmFzZVVybCtlbmRwb2ludHMuZ2V0VG9VcGxvYWRVcmwoKSwKICAgICAgICAgICAgICAgICJ1cGxvYWQg55SoIFVSTCDjga7lj5blvpciCiAgICAgICAgICAgICk7CgogICAgICAgICAgICBKU09OT2JqZWN0IGdldFVwbG9hZFVybEpzb25SZXMgPSByZXNwb25zZTJKc29uT2JqZWN0KGdldFVwbG9hZFVybFJlcyk7CiAgICAgICAgICAgIFN0cmluZyB1cGxvYWRVcmwgPSBnZXRVcGxvYWRVcmxKc29uUmVzLmdldFN0cmluZygidXJsIik7CiAgICAgICAgICAgIFN0cmluZyB1cGxvYWRLZXkgPSBnZXRVcGxvYWRVcmxKc29uUmVzLmdldFN0cmluZygia2V5Iik7CgogICAgICAgICAgICAvLyAyLiDnlLvlg4/jga7jgqLjg4Pjg5fjg63jg7zjg4kKICAgICAgICAgICAgSHR0cFB1dCB1cGxvYWRJbWFnZSA9IG5ldyBIdHRwUHV0KHVwbG9hZFVybCk7CiAgICAgICAgICAgIHVwbG9hZEltYWdlLmFkZEhlYWRlcigieC1hbXotYWNsIiwgImJ1Y2tldC1vd25lci1mdWxsLWNvbnRyb2wiKTsKICAgICAgICAgICAgdXBsb2FkSW1hZ2Uuc2V0RW50aXR5KG5ldyBGaWxlRW50aXR5KHNyYykpOwogICAgICAgICAgICBIdHRwUmVzcG9uc2UgdXBsb2FkSW1hZ2VSZXMgPSBodHRwQ2xpZW50LmV4ZWN1dGUodXBsb2FkSW1hZ2UpOwogICAgICAgICAgICB2ZXJpZnlIdHRwUmVzcG9uc2UoCiAgICAgICAgICAgICAgICB1cGxvYWRJbWFnZVJlcywKICAgICAgICAgICAgICAgIGZhbHNlLAogICAgICAgICAgICAgICAgdXBsb2FkVXJsLAogICAgICAgICAgICAgICAgIueUu+WDj+OBruOCouODg+ODl+ODreODvOODiSIKICAgICAgICAgICAgKTsKCiAgICAgICAgICAgIC8vIDMuIOiJsuepuumWk+WkieaPmwogICAgICAgICAgICBIdHRwUG9zdCBjb252ZXJ0ID0gbmV3IEh0dHBQb3N0KGJhc2VVcmwgKyBlbmRwb2ludHMuZ2V0VG9Db252ZXJ0Q29sb3JzcGFjZVdpdGgodXBsb2FkS2V5LCAiUkdCIikpOwogICAgICAgICAgICBIdHRwUmVzcG9uc2UgY29udmVydFJlcyA9IGh0dHBDbGllbnQuZXhlY3V0ZShjb252ZXJ0KTsKICAgICAgICAgICAgdmVyaWZ5SHR0cFJlc3BvbnNlKAogICAgICAgICAgICAgICAgY29udmVydFJlcywKICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICBiYXNlVXJsK2VuZHBvaW50cy5nZXRUb0NvbnZlcnRDb2xvcnNwYWNlV2l0aCh1cGxvYWRLZXksICJSR0IiKSwKICAgICAgICAgICAgICAgICLoibLnqbrplpPlpInmj5siCiAgICAgICAgICAgICk7CgogICAgICAgICAgICBKU09OT2JqZWN0IGNvbnZlcnRKc29uUmVzID0gcmVzcG9uc2UySnNvbk9iamVjdChjb252ZXJ0UmVzKTsKICAgICAgICAgICAgU3RyaW5nIGNvbnZlcnRlZEtleSA9IGNvbnZlcnRKc29uUmVzLmdldFN0cmluZygia2V5Iik7CgogICAgICAgICAgICAvLyA0LiBkb3dubG9hZCDnlKggVVJMIOOBruWPluW+lwogICAgICAgICAgICBIdHRwR2V0IGdldERvd25sb2FkVXJsID0gbmV3IEh0dHBHZXQoYmFzZVVybCArIGVuZHBvaW50cy5nZXRUb0Rvd25sb2FkVXJsV2l0aChjb252ZXJ0ZWRLZXkpKTsKICAgICAgICAgICAgSHR0cFJlc3BvbnNlIGdldERvd25sb2FkVXJsUmVzID0gaHR0cENsaWVudC5leGVjdXRlKGdldERvd25sb2FkVXJsKTsKICAgICAgICAgICAgdmVyaWZ5SHR0cFJlc3BvbnNlKAogICAgICAgICAgICAgICAgZ2V0RG93bmxvYWRVcmxSZXMsCiAgICAgICAgICAgICAgICB0cnVlLAogICAgICAgICAgICAgICAgYmFzZVVybCtlbmRwb2ludHMuZ2V0VG9Eb3dubG9hZFVybFdpdGgoY29udmVydGVkS2V5KSwKICAgICAgICAgICAgICAgICJkb3dubG9hZCDnlKggVVJMIOOBruWPluW+lyIKICAgICAgICAgICAgKTsKCiAgICAgICAgICAgIEpTT05PYmplY3QgZ2V0RG93bmxvYWRVcmxKc29uUmVzID0gcmVzcG9uc2UySnNvbk9iamVjdChnZXREb3dubG9hZFVybFJlcyk7CiAgICAgICAgICAgIFN0cmluZyBkb3dubG9hZFVybCA9IGdldERvd25sb2FkVXJsSnNvblJlcy5nZXRTdHJpbmcoInVybCIpOwoKICAgICAgICAgICAgLy8gNS4g55S75YOP44Gu44OA44Km44Oz44Ot44O844OJCiAgICAgICAgICAgIEh0dHBHZXQgZG93bmxvYWRJbWFnZSA9IG5ldyBIdHRwR2V0KGRvd25sb2FkVXJsKTsKICAgICAgICAgICAgSHR0cFJlc3BvbnNlIGRvd25sb2FkSW1hZ2VSZXMgPSBodHRwQ2xpZW50LmV4ZWN1dGUoZG93bmxvYWRJbWFnZSk7CiAgICAgICAgICAgIHZlcmlmeUh0dHBSZXNwb25zZSgKICAgICAgICAgICAgICAgIGRvd25sb2FkSW1hZ2VSZXMsCiAgICAgICAgICAgICAgICB0cnVlLAogICAgICAgICAgICAgICAgZG93bmxvYWRVcmwsCiAgICAgICAgICAgICAgICAi55S75YOP44Gu44OA44Km44Oz44Ot44O844OJIgogICAgICAgICAgICApOwoKICAgICAgICAgICAgLy8g44OQ44Kk44OK44Oq44Gn6L+U44Gj44Gm44GN44Gf5oOF5aCx44KS5L+d5a2Y44GZ44KLCiAgICAgICAgICAgIElucHV0U3RyZWFtIGlucHV0U3RyZWFtID0gZG93bmxvYWRJbWFnZVJlcy5nZXRFbnRpdHkoKS5nZXRDb250ZW50KCk7CiAgICAgICAgICAgIEZpbGVPdXRwdXRTdHJlYW0gZmlsZU91dHB1dFN0cmVhbSA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKGRzdCwgZmFsc2UpOwogICAgICAgICAgICBCeXRlU3RyZWFtcy5jb3B5KGlucHV0U3RyZWFtLCBmaWxlT3V0cHV0U3RyZWFtKTsKICAgICAgICAgICAgZmlsZU91dHB1dFN0cmVhbS5jbG9zZSgpOwogICAgICAgICAgICBpbnB1dFN0cmVhbS5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKEpTT05FeGNlcHRpb24gZSkgewogICAgICAgICAgICAvLyBUT0RPOiDkvovlpJblh6bnkIbjgavjgaTjgYTjgabjgIHjgZPjga7lvaLlvI8o5a6f6KOF5YWo5L2T44KS5Zuy44KAKeOBjOiJr+OBhOOBi+OBqeOBhuOBi+OBr+iAg+OBiOOCi+S9meWcsOOBjOOBguOCiwogICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oZS5nZXRMb2NhbGl6ZWRNZXNzYWdlKCksIGUpOwogICAgICAgIH0K</text>
@@ -636,17 +638,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/logger.debug/logger.info/</text>
       </register>
     </registers>
     <search>
-      <last-search>synch</last-search>
+      <last-search>logger.debug</last-search>
       <last-offset />
-      <last-pattern>synch</last-pattern>
-      <last-replace>許諾元</last-replace>
-      <last-substitute>許諾先</last-substitute>
+      <last-pattern>logger.debug</last-pattern>
+      <last-replace>logger.info</last-replace>
+      <last-substitute>logger.debug</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -670,6 +672,8 @@
         <entry>isDirectory</entry>
         <entry>addItem</entry>
         <entry>synch</entry>
+        <entry>ls</entry>
+        <entry>logger.debug</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
@@ -680,6 +684,7 @@
         <entry>split</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>%s/logger.debug/logger.info/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
