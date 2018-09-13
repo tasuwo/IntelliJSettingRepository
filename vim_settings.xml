@@ -61,6 +61,12 @@
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/template-sam.yaml" timestamp="1536814352257">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="21" />
+        <mark key="^" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestForwardButtonPanel.java" timestamp="1535958082831">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -666,7 +672,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/logger.debug/logger.info/</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -715,6 +721,7 @@
         <entry>noh</entry>
         <entry>w</entry>
         <entry>%s/logger.debug/logger.info/</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
