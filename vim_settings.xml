@@ -102,11 +102,12 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/BundleArtworksConvertThread.java" timestamp="1536891398401">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/BundleArtworksConvertThread.java" timestamp="1536901202376">
         <mark key="'" line="37" column="4" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="75" column="12" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="43" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" timestamp="1533602720153">
         <mark key="'" line="408" column="0" />
@@ -328,12 +329,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" timestamp="1536895007068">
-        <mark key="'" line="135" column="38" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" timestamp="1536901725000">
+        <mark key="'" line="140" column="38" />
+        <mark key="[" line="42" column="88" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="43" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1536827333218">
         <mark key="'" line="0" column="0" />
@@ -377,11 +378,12 @@
         <mark key="^" line="89" column="21" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1536890949463">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1536901370780">
         <mark key="'" line="128" column="48" />
-        <mark key="[" line="159" column="13" />
-        <mark key="]" line="159" column="31" />
-        <mark key="." line="160" column="0" />
+        <mark key="[" line="181" column="9" />
+        <mark key="]" line="182" column="26" />
+        <mark key="." line="182" column="26" />
+        <mark key="^" line="182" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1536896942569">
         <mark key="'" line="159" column="38" />
@@ -652,43 +654,43 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>CloseableHttpResponse getUploadUrlRes = httpClient.execute(getUploadUrl)</text>
       </register>
       <register name="/" type="4">
         <text>slf4j</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEVudGl0eVV0aWxzLnRvU3RyaW5nKGVuKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIHwgSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oZS5nZXRMb2NhbGl6ZWRNZXNzYWdlKCksIGUpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIGdldFVwbG9hZFVybFJlcy5jbG9zZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gYiA9IGVuLmdldENvbnRlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICBnZXRVcGxvYWRVcmxSZXMuY2xvc2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYS5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEVudGl0eVV0aWxzLnRvU3RyaW5nKGVuKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICB1cGxvYWRJbWFnZVJlcy5jbG9zZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEVudGl0eVV0aWxzLnRvU3RyaW5nKGVuKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gYiA9IGVuLmdldENvbnRlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0VXBsb2FkVXJsUmVzLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gYSA9IGVuLmdldENvbnRlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgLy8gVE9ETzog5L6L5aSW5Yem55CG44Gr44Gk44GE44Gm44CB44GT44Gu5b2i5byPKOWun+ijheWFqOS9k+OCkuWbsuOCgCnjgYzoia/jgYTjgYvjganjgYbjgYvjga/ogIPjgYjjgovkvZnlnLDjgYzjgYLjgosKICAgICAgICAgICAgdGhyb3cgbmV3IElPRXhjZXB0aW9uKGUuZ2V0TG9jYWxpemVkTWVzc2FnZSgpLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYS5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEVudGl0eVV0aWxzLnRvU3RyaW5nKGVuKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImV4ZWN1dGUgMSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVudGl0eVV0aWxzLmMK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
