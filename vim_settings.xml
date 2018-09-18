@@ -710,7 +710,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lbnRpdHkgPSBlbnRpdHk7ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/;{/ {/</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -720,7 +720,7 @@
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -777,10 +777,10 @@
         <entry>%s/logger.debug/logger.info/</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>noh</entry>
         <entry>%s/HttpResponse/CloseableHttpResponse/</entry>
         <entry>%s/;{/ /</entry>
         <entry>%s/;{/ {/</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
