@@ -174,8 +174,8 @@
         <mark key="." line="35" column="11" />
         <mark key="^" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1537342681382">
-        <mark key="'" line="277" column="8" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1537345739601">
+        <mark key="'" line="38" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/search/TestNewReleaseCheckPage.java" timestamp="1535446341977">
         <mark key="[" line="5" column="21" />
@@ -235,21 +235,11 @@
         <mark key="^" line="23" column="57" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/core/ImageMagickService.kt" timestamp="1536813497610">
-        <mark key="[" line="33" column="96" />
-        <mark key="]" line="33" column="96" />
-        <mark key="." line="33" column="96" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/MuThread.java" timestamp="1536547861905">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/sandbox/test/pom.xml" timestamp="1536897105685">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/yoshimoto-delivery/src/main/java/jp/co/dwango/ddex/yoshimoto_delivery/DeliveryMessageFactory.java" timestamp="1531894839509">
         <mark key="'" line="14" column="13" />
@@ -353,6 +343,10 @@
         <mark key="]" line="43" column="28" />
         <mark key="^" line="43" column="25" />
         <mark key="." line="43" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-ern/src/main/java/jp/co/dwango/ddex/ern/message/NewReleaseMessage.java" timestamp="1537343886010">
+        <mark key="[" line="41" column="50" />
+        <mark key="]" line="41" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1535451302009">
         <mark key="'" line="78" column="11" />
@@ -527,6 +521,7 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/entity/Item.java" timestamp="1537345339913" />
       <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" timestamp="1536306155314">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="61" column="0" />
@@ -546,6 +541,10 @@
         <mark key="]" line="522" column="12" />
         <mark key="." line="522" column="12" />
         <mark key="^" line="145" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-ern/src/main/java/jp/co/dwango/ddex/ern/message/node/Release.java" timestamp="1537344235573">
+        <mark key="[" line="76" column="68" />
+        <mark key="]" line="76" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" timestamp="1536805869642">
         <mark key="'" line="228" column="45" />
@@ -592,21 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="337" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="349" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="363" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="214" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="135" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
-      <jump line="127" column="48" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" />
-      <jump line="424" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="345" column="84" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="341" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
-      <jump line="41" column="6" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/util/AlertedItemListDataSourceBuilderImpl.java" />
-      <jump line="35" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
-      <jump line="26" column="23" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" />
       <jump line="67" column="17" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" />
       <jump line="231" column="45" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" />
@@ -692,6 +676,21 @@
       <jump line="277" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="25" column="52" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/entity/Contributor.java" />
       <jump line="32" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/entity/Contributor.java" />
+      <jump line="993" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="35" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="293" column="23" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="308" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="642" column="17" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="486" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="638" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="885" column="57" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="493" column="14" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="651" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="494" column="64" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="643" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="665" column="20" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="641" column="26" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="38" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -701,10 +700,10 @@
         <text>た</text>
       </register>
       <register name="/" type="4">
-        <text>nameKana</text>
+        <text>itemAndBundle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSXRlbSBpdGVtOwogICAgcHJpdmF0ZSBUaXRsZSB0aXRsZTsKICAgIHByaXZhdGUgQ29udHJpYnV0b3IgbWFpbkNvbnRyaWJ1dG9yOwogICAgcHJpdmF0ZSBMaWNlbnNlVXBkYXRlRGlyZWN0aW9uIGxpY2Vuc2VVcGRhdGVEaXJlY3Rpb24gPSBMaWNlbnNlVXBkYXRlRGlyZWN0aW9ucy5vZkltbWVkaWF0ZWx5VGFrZWRvd24oKTsKICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGFub3RoZXJJdGVtVW5pcXVlQ29kZXMgPSBMaXN0cy5uZXdBcnJheUxpc3QoKTsKICAgIHByaXZhdGUgU3RyaW5nIGltcG9ydGVkSXRlbVVuaXF1ZUNvZGU7Cg==</text>
+      <register name="0" type="4">
+        <text>ReleaseDetailsByTerritory</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmlsZU91dHB1dFN0cmVhbS5jbG9zZSgpOwo=</text>
@@ -741,9 +740,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nameKana</last-search>
+      <last-search>itemAndBundle</last-search>
       <last-offset />
-      <last-pattern>nameKana</last-pattern>
+      <last-pattern>itemAndBundle</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -775,6 +774,23 @@
         <entry>contri</entry>
         <entry>name</entry>
         <entry>nameKana</entry>
+        <entry>origin</entry>
+        <entry>intermidiate</entry>
+        <entry>contentType</entry>
+        <entry>extractBundleInfo</entry>
+        <entry>sales</entry>
+        <entry>setSalesReportId</entry>
+        <entry>setTitle</entry>
+        <entry>copyright</entry>
+        <entry>setGenre</entry>
+        <entry>tieup</entry>
+        <entry>copy</entry>
+        <entry>setNote</entry>
+        <entry>noe</entry>
+        <entry>original</entry>
+        <entry>licenser</entry>
+        <entry>license</entry>
+        <entry>itemAndBundle</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
