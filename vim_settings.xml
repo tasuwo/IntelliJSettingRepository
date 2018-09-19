@@ -9,6 +9,10 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dto/DeliveredItemPersistUnit.java" timestamp="1537326395517">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/test/ChatStream.spec.js" timestamp="1532443721584">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="2" column="32" />
@@ -418,6 +422,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="303" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dto/BundleDeliveredItemDto.java" timestamp="1537326422512">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="18" column="82" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/amuse-delivery/src/main/java/jp/co/dwango/ddex/amuse_delivery/DeliveryMessageFactory.java" timestamp="1531894804096">
         <mark key="'" line="14" column="25" />
         <mark key="[" line="21" column="45" />
@@ -508,6 +516,11 @@
         <mark key="^" line="2" column="54" />
         <mark key="." line="2" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dto/BaseDeliveredItemDto.java" timestamp="1537326511437">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="18" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/src/IMConv/scripts/usedOnTravisCI/setupAndExecuteIntegrationTest.sh" timestamp="1536306155314">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="61" column="0" />
@@ -570,7 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="303" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="311" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
       <jump line="320" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/TestSendBundleArtworkToSteckyHandler.java" />
@@ -670,6 +682,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
       <jump line="121" column="33" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
       <jump line="58" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dto/BaseDeliveredItemDto.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -681,8 +694,8 @@
       <register name="/" type="4">
         <text>yaml</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">44GZ44Gm44Gj44GN44Cc44G444Gu44K444Oj44Kx5YaZ6YCB5L+h5Yem55CG5Lit44Gr5Ymy44KK6L6844G/44Gr44KI44KK5Yem55CG44GM5Lit5pat44GV44KM44G+44GX44GfOiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSXRlbSBpdGVtOwogICAgcHJpdmF0ZSBUaXRsZSB0aXRsZTsKICAgIHByaXZhdGUgQ29udHJpYnV0b3IgbWFpbkNvbnRyaWJ1dG9yOwogICAgcHJpdmF0ZSBMaWNlbnNlVXBkYXRlRGlyZWN0aW9uIGxpY2Vuc2VVcGRhdGVEaXJlY3Rpb24gPSBMaWNlbnNlVXBkYXRlRGlyZWN0aW9ucy5vZkltbWVkaWF0ZWx5VGFrZWRvd24oKTsKICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGFub3RoZXJJdGVtVW5pcXVlQ29kZXMgPSBMaXN0cy5uZXdBcnJheUxpc3QoKTsKICAgIHByaXZhdGUgU3RyaW5nIGltcG9ydGVkSXRlbVVuaXF1ZUNvZGU7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmlsZU91dHB1dFN0cmVhbS5jbG9zZSgpOwo=</text>
