@@ -153,8 +153,8 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="47" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1534421653994">
-        <mark key="'" line="255" column="28" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1537443705211">
+        <mark key="'" line="19" column="13" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="64" />
         <mark key="^" line="151" column="31" />
@@ -222,6 +222,9 @@
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dto/BaseTrackDeliveredItemDto.java" timestamp="1537441163918">
         <mark key="'" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/EntityBuilder.java" timestamp="1537443540119">
+        <mark key="'" line="74" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/SideBar.vue" timestamp="1532450790219">
         <mark key="'" line="56" column="0" />
@@ -442,9 +445,6 @@
         <mark key="^" line="69" column="15" />
         <mark key="." line="69" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1537327328113">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/test/java/jp/co/dwango/ddex/batch_importer/profile/umgi/TestUmgiItemExtractor.java" timestamp="1531902276896">
         <mark key="'" line="61" column="13" />
         <mark key="[" line="737" column="23" />
@@ -452,10 +452,12 @@
         <mark key="." line="737" column="24" />
         <mark key="^" line="734" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/Column.java" timestamp="1537443877603">
+        <mark key="[" line="54" column="39" />
+        <mark key="]" line="54" column="51" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="34" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
-      <jump line="349" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
       <jump line="333" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
       <jump line="347" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
       <jump line="348" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
@@ -554,6 +556,8 @@
       <jump line="101" column="92" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="108" column="18" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="593" column="56" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="74" column="63" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/EntityBuilder.java" />
+      <jump line="19" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -563,10 +567,10 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>LyricsTranslation</text>
+        <text>翻訳</text>
       </register>
       <register name="0" type="4">
-        <text>ReleaseId[1]/ProprietaryId[@</text>
+        <text>著作権管理団体原詞訳詞区分</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gbnVsbDsK</text>
@@ -603,9 +607,9 @@
       </register>
     </registers>
     <search>
-      <last-search>LyricsTranslation</last-search>
+      <last-search>翻訳</last-search>
       <last-offset />
-      <last-pattern>LyricsTranslation</last-pattern>
+      <last-pattern>翻訳</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -652,6 +656,11 @@
         <entry>iltype</entry>
         <entry>setIvt</entry>
         <entry>LyricsTranslation</entry>
+        <entry>indirectresource</entry>
+        <entry>contributor</entry>
+        <entry>productcode</entry>
+        <entry>lirics</entry>
+        <entry>翻訳</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
