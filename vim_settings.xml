@@ -143,8 +143,8 @@
         <mark key="." line="35" column="11" />
         <mark key="^" line="35" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1537442144684">
-        <mark key="'" line="593" column="56" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1537447347045">
+        <mark key="'" line="591" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Typing.vue" timestamp="1532526548190">
         <mark key="'" line="0" column="8" />
@@ -153,8 +153,8 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="47" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1537443705211">
-        <mark key="'" line="19" column="13" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1537446918812">
+        <mark key="'" line="332" column="29" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="64" />
         <mark key="^" line="151" column="31" />
@@ -225,6 +225,9 @@
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/EntityBuilder.java" timestamp="1537443540119">
         <mark key="'" line="74" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" timestamp="1537446869980">
+        <mark key="'" line="188" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/SideBar.vue" timestamp="1532450790219">
         <mark key="'" line="56" column="0" />
@@ -424,6 +427,9 @@
         <mark key="^" line="233" column="57" />
         <mark key="." line="233" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/GeneralTrackBase.java" timestamp="1537446971157">
+        <mark key="'" line="38" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/jacket/divideJacketImage.pl" timestamp="1535621802153">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -458,16 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
-      <jump line="347" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
-      <jump line="348" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
-      <jump line="332" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/sandbox/test/src/main/java/Main.java" />
-      <jump line="19" column="56" filename="$USER_HOME$/workspace/sandbox/test/src/main/java/Main.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sandbox/test/src/main/java/Main.java" />
-      <jump line="59" column="80" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/api_client/TestImconvRgbConverter.java" />
-      <jump line="141" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/api_client/TestImconvRgbConverter.java" />
       <jump line="169" column="38" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/api_client/TestImconvRgbConverter.java" />
       <jump line="187" column="60" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/api_client/TestImconvRgbConverter.java" />
       <jump line="238" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/api_client/TestImconvRgbConverter.java" />
@@ -558,6 +554,16 @@
       <jump line="593" column="56" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="74" column="63" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/EntityBuilder.java" />
       <jump line="19" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="359" column="93" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="129" column="27" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="133" column="56" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="188" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="93" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="327" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="332" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/GeneralTrackBase.java" />
+      <jump line="38" column="24" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/GeneralTrackBase.java" />
+      <jump line="591" column="59" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -567,7 +573,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>翻訳</text>
+        <text>title</text>
       </register>
       <register name="0" type="4">
         <text>著作権管理団体原詞訳詞区分</text>
@@ -603,22 +609,20 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>翻訳</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>翻訳</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>intermidiate</entry>
-        <entry>contentType</entry>
         <entry>extractBundleInfo</entry>
         <entry>sales</entry>
         <entry>setSalesReportId</entry>
@@ -661,6 +665,14 @@
         <entry>productcode</entry>
         <entry>lirics</entry>
         <entry>翻訳</entry>
+        <entry>trackunique</entry>
+        <entry>unique</entry>
+        <entry>uniquecode</entry>
+        <entry>TrackCode</entry>
+        <entry>bundlecode</entry>
+        <entry>getTrackCode</entry>
+        <entry>etBundlecode</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
@@ -674,8 +686,8 @@
         <entry>%s/HttpResponse/CloseableHttpResponse/</entry>
         <entry>%s/;{/ /</entry>
         <entry>%s/;{/ {/</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
