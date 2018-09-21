@@ -115,8 +115,8 @@
         <mark key="." line="78" column="78" />
         <mark key="^" line="78" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1532678033199">
-        <mark key="'" line="35" column="59" />
+      <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1537512031839">
+        <mark key="'" line="52" column="29" />
         <mark key="[" line="101" column="33" />
         <mark key="]" line="101" column="43" />
         <mark key="." line="101" column="43" />
@@ -153,8 +153,8 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="47" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1537446918812">
-        <mark key="'" line="332" column="29" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1537512171158">
+        <mark key="'" line="107" column="21" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="64" />
         <mark key="^" line="151" column="31" />
@@ -461,14 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpResponse.class" />
-      <jump line="13" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpResponse.class" />
-      <jump line="15" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpResponse.class" />
-      <jump line="17" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpResponse.class" />
-      <jump line="19" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpResponse.class" />
-      <jump line="21" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpResponse.class" />
-      <jump line="23" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpResponse.class" />
-      <jump line="25" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpResponse.class" />
       <jump line="10" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
       <jump line="11" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
       <jump line="13" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
@@ -561,6 +553,14 @@
       <jump line="344" column="61" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="500" column="63" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="501" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="16" column="61" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
+      <jump line="28" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="170" column="39" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="268" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="52" column="29" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
+      <jump line="263" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="107" column="21" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -570,7 +570,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>setTitle</text>
+        <text>licenser</text>
       </register>
       <register name="0" type="4">
         <text>ReleaseType</text>
@@ -606,13 +606,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5zCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>setTitle</last-search>
+      <last-search>licenser</last-search>
       <last-offset />
-      <last-pattern>setTitle</last-pattern>
+      <last-pattern>licenser</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -645,6 +645,16 @@
         <entry>setBundleTitle</entry>
         <entry>title</entry>
         <entry>setTitle</entry>
+        <entry>pakcageId</entry>
+        <entry>パッケージアーティスト</entry>
+        <entry>Column.ISRC</entry>
+        <entry>package</entry>
+        <entry>PackageId</entry>
+        <entry>comment</entry>
+        <entry>Note</entry>
+        <entry>copy</entry>
+        <entry>salescopy</entry>
+        <entry>licenser</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
@@ -652,7 +662,6 @@
         <entry>sptli</entry>
         <entry encoding="base64">JzwsJz5zcGxpdA==</entry>
         <entry>Noh</entry>
-        <entry>split</entry>
         <entry>%s/logger.debug/logger.info/</entry>
         <entry>q</entry>
         <entry>%s/HttpResponse/CloseableHttpResponse/</entry>
@@ -660,6 +669,7 @@
         <entry>%s/;{/ {/</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
