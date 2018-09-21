@@ -24,6 +24,9 @@
         <mark key="." line="38" column="35" />
         <mark key="^" line="38" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/ffewsn_material_by_end_date.sh" timestamp="1537518449659">
+        <mark key="'" line="32" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceSingleService.java" timestamp="1533607799681">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="172" column="0" />
@@ -108,12 +111,25 @@
         <mark key="^" line="318" column="79" />
         <mark key="." line="318" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/sh/batch_ddex/alert/shell/zocalo_material.sh" timestamp="1537518308762">
+        <mark key="'" line="9" column="8" />
+        <mark key="[" line="29" column="67" />
+        <mark key="]" line="29" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/wait_for_registerd_material_to_zocalo.sh" timestamp="1537518808032">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533607696243">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="89" />
         <mark key="." line="78" column="78" />
         <mark key="^" line="78" column="78" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/materials.sh" timestamp="1537518881247">
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1537512833040">
         <mark key="'" line="87" column="49" />
@@ -176,6 +192,10 @@
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivery-content/src/main/java/jp/co/dwango/ddex/delivery/content/service/BundleAndTrackServiceImpl.java" timestamp="1537424125291">
         <mark key="'" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/zocalo_ffewsn.sh" timestamp="1537518798520">
+        <mark key="[" line="81" column="9" />
+        <mark key="]" line="81" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/OrderServiceImpl.java" timestamp="1537424680051">
         <mark key="'" line="21" column="13" />
@@ -295,12 +315,6 @@
         <mark key="^" line="89" column="21" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/SendBundleArtworkToSteckyHandler.java" timestamp="1537437806161">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-ern/src/main/java/jp/co/dwango/ddex/ern/message/node/ReleaseDetailsByTerritory.java" timestamp="1537494607354">
         <mark key="[" line="77" column="28" />
         <mark key="]" line="77" column="38" />
@@ -371,12 +385,6 @@
         <mark key="]" line="46" column="19" />
         <mark key="." line="46" column="19" />
         <mark key="^" line="46" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/order/handler/BundleArtworksConvertTask.java" timestamp="1537434933760">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="80" column="83" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" timestamp="1537246605408">
         <mark key="'" line="121" column="33" />
@@ -461,10 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="27" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="29" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="31" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
       <jump line="33" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
       <jump line="35" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
       <jump line="37" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
@@ -561,6 +565,10 @@
       <jump line="87" column="49" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
       <jump line="268" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
       <jump line="293" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="9" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/sh/batch_ddex/alert/shell/zocalo_material.sh" />
+      <jump line="10" column="45" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/ffewsn_material_by_end_date.sh" />
+      <jump line="14" column="14" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/ffewsn_material_by_end_date.sh" />
+      <jump line="32" column="29" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/ffewsn_material_by_end_date.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -570,10 +578,10 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>catalognumber</text>
+        <text>midOnZocalo</text>
       </register>
       <register name="0" type="4">
-        <text>ReleaseType</text>
+        <text>【DDEx】素材配信関連の通知</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gbnVsbDsK</text>
@@ -610,9 +618,9 @@
       </register>
     </registers>
     <search>
-      <last-search>catalognumber</last-search>
+      <last-search>midOnZocalo</last-search>
       <last-offset />
-      <last-pattern>catalognumber</last-pattern>
+      <last-pattern>midOnZocalo</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -662,6 +670,7 @@
         <entry>note</entry>
         <entry>catalog</entry>
         <entry>catalognumber</entry>
+        <entry>midOnZocalo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
