@@ -115,8 +115,8 @@
         <mark key="." line="78" column="78" />
         <mark key="^" line="78" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1537512031839">
-        <mark key="'" line="52" column="29" />
+      <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1537512833040">
+        <mark key="'" line="87" column="49" />
         <mark key="[" line="101" column="33" />
         <mark key="]" line="101" column="43" />
         <mark key="." line="101" column="43" />
@@ -153,8 +153,8 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="47" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1537512171158">
-        <mark key="'" line="107" column="21" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" timestamp="1537512841150">
+        <mark key="'" line="268" column="41" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="64" />
         <mark key="^" line="151" column="31" />
@@ -221,8 +221,8 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/EntityBuilder.java" timestamp="1537443540119">
         <mark key="'" line="74" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" timestamp="1537446869980">
-        <mark key="'" line="188" column="16" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" timestamp="1537512848624">
+        <mark key="'" line="293" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/SideBar.vue" timestamp="1532450790219">
         <mark key="'" line="56" column="0" />
@@ -461,14 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="17" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="11" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="13" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="15" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="17" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="19" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="21" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
-      <jump line="23" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
       <jump line="25" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
       <jump line="27" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
       <jump line="29" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar!/org/apache/http/HttpMessage.class" />
@@ -557,10 +549,18 @@
       <jump line="28" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
       <jump line="170" column="39" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
-      <jump line="268" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
       <jump line="52" column="29" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
-      <jump line="263" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
       <jump line="107" column="21" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="196" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="218" column="21" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="263" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="197" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="218" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="217" column="103" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
+      <jump line="58" column="31" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
+      <jump line="87" column="49" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
+      <jump line="268" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
+      <jump line="293" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -570,7 +570,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>licenser</text>
+        <text>catalognumber</text>
       </register>
       <register name="0" type="4">
         <text>ReleaseType</text>
@@ -610,9 +610,9 @@
       </register>
     </registers>
     <search>
-      <last-search>licenser</last-search>
+      <last-search>catalognumber</last-search>
       <last-offset />
-      <last-pattern>licenser</last-pattern>
+      <last-pattern>catalognumber</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -655,6 +655,13 @@
         <entry>copy</entry>
         <entry>salescopy</entry>
         <entry>licenser</entry>
+        <entry>remark</entry>
+        <entry>getNote</entry>
+        <entry>setNote</entry>
+        <entry>Remark</entry>
+        <entry>note</entry>
+        <entry>catalog</entry>
+        <entry>catalognumber</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
