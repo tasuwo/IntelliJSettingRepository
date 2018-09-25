@@ -77,8 +77,8 @@
         <mark key="." line="614" column="44" />
         <mark key="^" line="614" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1535540536029">
-        <mark key="'" line="147" column="58" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1537867043942">
+        <mark key="'" line="29" column="6" />
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
         <mark key="." line="200" column="0" />
@@ -455,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="351" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/api_client/TestImconvRgbConverter.java" />
       <jump line="26" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
       <jump line="158" column="10" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
@@ -555,6 +554,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" />
       <jump line="11" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
       <jump line="17" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivery-content/src/main/java/jp/co/dwango/ddex/delivery/content/service/MusicAndMaterialServiceImpl.java" />
+      <jump line="29" column="6" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -564,7 +564,7 @@
         <text>2048</text>
       </register>
       <register name="/" type="4">
-        <text>findenable</text>
+        <text>isLicenseAvailableInSome</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2htb2QgLVIgYSt4IGltY29udi9zcmMvbWFpbi9yZXNvdXJjZXMvYmluCg==</text>
@@ -604,13 +604,13 @@
       </register>
     </registers>
     <search>
-      <last-search>findenable</last-search>
+      <last-search>isLicenseAvailableInSome</last-search>
       <last-offset />
-      <last-pattern>findenable</last-pattern>
+      <last-pattern>isLicenseAvailableInSome</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -634,6 +634,7 @@
         <entry>エクスポーター</entry>
         <entry>export</entry>
         <entry>findenable</entry>
+        <entry>isLicenseAvailableInSome</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
