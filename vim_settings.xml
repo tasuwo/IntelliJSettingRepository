@@ -77,12 +77,12 @@
         <mark key="." line="614" column="44" />
         <mark key="^" line="614" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1537867043942">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1537868884233">
         <mark key="'" line="29" column="6" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="." line="200" column="0" />
-        <mark key="^" line="36" column="22" />
+        <mark key="[" line="157" column="86" />
+        <mark key="]" line="157" column="87" />
+        <mark key="." line="157" column="87" />
+        <mark key="^" line="157" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" timestamp="1536897186387">
         <mark key="'" line="332" column="29" />
@@ -117,20 +117,12 @@
         <mark key="[" line="29" column="67" />
         <mark key="]" line="29" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/wait_for_registerd_material_to_zocalo.sh" timestamp="1537518808032">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/service/ResourceSingleServiceImpl.java" timestamp="1533607696243">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="89" />
         <mark key="." line="78" column="78" />
         <mark key="^" line="78" column="78" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/materials.sh" timestamp="1537518881247">
-        <mark key="[" line="43" column="9" />
-        <mark key="]" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1537512833040">
         <mark key="'" line="87" column="49" />
@@ -189,10 +181,6 @@
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivery-content/src/main/java/jp/co/dwango/ddex/delivery/content/service/BundleAndTrackServiceImpl.java" timestamp="1537424125291">
         <mark key="'" line="19" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/zocalo_ffewsn.sh" timestamp="1537518798520">
-        <mark key="[" line="81" column="9" />
-        <mark key="]" line="81" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-item-management/src/main/java/jp/co/dwango/ddex/db/item_management/service/OrderServiceImpl.java" timestamp="1537424680051">
         <mark key="'" line="21" column="13" />
@@ -269,10 +257,6 @@
         <mark key="." line="44" column="18" />
         <mark key="^" line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-ern/src/main/java/jp/co/dwango/ddex/ern/message/NewReleaseMessage.java" timestamp="1537494557408">
-        <mark key="[" line="41" column="50" />
-        <mark key="]" line="41" column="68" />
-      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/search/util/SearchResult.java" timestamp="1535451302009">
         <mark key="'" line="78" column="11" />
         <mark key="[" line="107" column="11" />
@@ -307,10 +291,6 @@
         <mark key="]" line="192" column="95" />
         <mark key="." line="192" column="95" />
         <mark key="^" line="192" column="95" />
-      </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-ern/src/main/java/jp/co/dwango/ddex/ern/message/node/ReleaseDetailsByTerritory.java" timestamp="1537494607354">
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="77" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/pom.xml" timestamp="1536904476116">
         <mark key="'" line="159" column="38" />
@@ -350,12 +330,12 @@
         <mark key="." line="114" column="55" />
         <mark key="^" line="114" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" timestamp="1536652702510">
-        <mark key="'" line="388" column="42" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="78" column="75" />
-        <mark key="^" line="805" column="59" />
-        <mark key="." line="867" column="0" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" timestamp="1537869153848">
+        <mark key="'" line="116" column="42" />
+        <mark key="[" line="235" column="38" />
+        <mark key="]" line="235" column="63" />
+        <mark key="^" line="235" column="63" />
+        <mark key="." line="235" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/config.ini" timestamp="1537521820723">
         <mark key="[" line="21" column="0" />
@@ -455,22 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
-      <jump line="158" column="10" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
-      <jump line="121" column="33" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
-      <jump line="58" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dto/BaseDeliveredItemDto.java" />
-      <jump line="277" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="25" column="52" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/entity/Contributor.java" />
-      <jump line="32" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/main/java/jp/co/dwango/ddex/db/delivereditem/entity/Contributor.java" />
-      <jump line="993" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="293" column="23" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="308" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="642" column="17" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="486" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="638" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="885" column="57" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="493" column="14" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="651" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="494" column="64" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -555,58 +519,74 @@
       <jump line="11" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/Config.java" />
       <jump line="17" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-db-delivery-content/src/main/java/jp/co/dwango/ddex/delivery/content/service/MusicAndMaterialServiceImpl.java" />
       <jump line="29" column="6" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" />
+      <jump line="61" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="208" column="6" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="196" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="236" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="207" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="198" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="1273" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="128" column="44" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="1268" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="1257" column="10" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="87" column="17" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="91" column="35" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="92" column="81" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="97" column="32" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="116" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2048</text>
+        <text>asList</text>
       </register>
       <register name="/" type="4">
-        <text>isLicenseAvailableInSome</text>
+        <text>contenttype</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2htb2QgLVIgYSt4IGltY29udi9zcmMvbWFpbi9yZXNvdXJjZXMvYmluCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5wcm9jZXNzYWJsZUl0ZW1JZHMsIGhhc0l0ZW1zKDEsIDIsIDMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGUgID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLjgqLjg4Pjg5fjg63jg7zjg4nnlKjnvbLlkI3ku5jjgY1VUkznlJ/miJA6ICR7KGUgLSBzKX0gbXNlYyIpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlzTGljZW5zZUF2YWlsYWJsZUluQWxvbmUocmVzdWx0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhbCBzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBlICA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuODgOOCpuODs+ODreODvOODieeUqOe9suWQjeS7mOOBjVVSTOeUn+aIkDogJHsoZSAtIHMpfSBtc2VjIikKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMgID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHM0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLoibLnqbrplpPlpInmj5s6ICR7KHM0IC0gczMpfSBtc2VjIikKCg==</text>
+        <text encoding="base64">ICAgICAgICBTZWFyY2hSZXN1bHQgcGFyZW50ID0gbmV3IFNlYXJjaFJlc3VsdChyZXN1bHQuZ2V0SXRlbUFuZEJ1bmRsZSgpLmdldEJ1bmRsZUlkKCkpOwogICAgICAgIHJldHVybiBpc0xpY2Vuc2VBdmFpbGFibGVJbkFsb25lKHJlc3VsdCkgfHwgaXNMaWNlbnNlQXZhaWxhYmxlSW5BbG9uZShwYXJlbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLoibLnqbrplpPliKTliKU6ICR7KHMzIC0gczIpfSBtc2VjIikKCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5wcm9jZXNzYWJsZUl0ZW1JZHMsIGhhc0l0ZW1zKDEsIDIsIDMpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMyID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJTMyDjgYvjgonjga7nlLvlg4/lj5blvpc6ICR7KHMyIC0gczEpfSBtc2VjIikKCg==</text>
+        <text encoding="base64">ICAgICAqIOWVj+mhjOOBquOBhOWVhuWTgeOBr+OAgemBuOabsuOCueODhuODvOOCv+OCueOBruWkieabtOWvvuixoeOBq+OBmeOCiwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMxID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg5Djg7Pjg4njg6sKICAgICAgICBkYXRhLml0ZW1JZHNCeUJ1bmRsZUlkID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>isLicenseAvailableInSome</last-search>
+      <last-search>contenttype</last-search>
       <last-offset />
-      <last-pattern>isLicenseAvailableInSome</last-pattern>
+      <last-pattern>contenttype</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -635,6 +615,8 @@
         <entry>export</entry>
         <entry>findenable</entry>
         <entry>isLicenseAvailableInSome</entry>
+        <entry>getItem</entry>
+        <entry>contenttype</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
