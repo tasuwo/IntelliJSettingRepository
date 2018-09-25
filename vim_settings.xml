@@ -54,17 +54,21 @@
         <mark key="." line="43" column="41" />
         <mark key="^" line="43" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" timestamp="1536813337752">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="15" column="8" />
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/LambdaHandler.kt" timestamp="1537843698074">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivery-content/src/main/java/jp/co/dwango/ddex/delivery/content/service/MusicAndMaterialServiceImpl.java" timestamp="1537525969783">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="48" column="20" />
         <mark key="]" line="48" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/template-sam.yaml" timestamp="1537843864802">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
@@ -412,12 +416,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" timestamp="1536805869642">
-        <mark key="'" line="228" column="45" />
-        <mark key="[" line="233" column="53" />
-        <mark key="]" line="233" column="57" />
-        <mark key="^" line="233" column="57" />
-        <mark key="." line="233" column="57" />
+      <file name="$USER_HOME$/Documents/src/IMConv/imconv/src/main/kotlin/jp/co/dwango/imconv/resource/ImageResource.kt" timestamp="1537843734102">
+        <mark key="'" line="205" column="45" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/GeneralTrackBase.java" timestamp="1537446971157">
         <mark key="'" line="38" column="24" />
@@ -561,7 +564,7 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>HOURS</text>
+        <text>2048</text>
       </register>
       <register name="/" type="4">
         <text>findenable</text>
@@ -570,34 +573,34 @@
         <text>uniqueIndex</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3IuYXdhaXRUZXJtaW5hdGlvbigxLCBUaW1lVW5pdC5IT1VSUyk7IHRpbWVzID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGUgID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLjgqLjg4Pjg5fjg63jg7zjg4nnlKjnvbLlkI3ku5jjgY1VUkznlJ/miJA6ICR7KGUgLSBzKX0gbXNlYyIpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlY3V0b3IuYXdhaXRUZXJtaW5hdGlvbigxLCBUaW1lVW5pdC5IT1VSUyk7IHRpbWVzID0gMTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhbCBzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gMzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBlICA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCgogICAgICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuODgOOCpuODs+ODreODvOODieeUqOe9suWQjeS7mOOBjVVSTOeUn+aIkDogJHsoZSAtIHMpfSBtc2VjIikKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLmdldE51bU9mUGFyYWxlbGxJbWNvbnZBcGlDYWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMgID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLmdldE51bU9mUGFyYWxlbGxJbWNvbnZBcGlDYWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHM0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLoibLnqbrplpPlpInmj5s6ICR7KHM0IC0gczMpfSBtc2VjIikKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlnLkltY29udlJnYkNvbnZlcnRlckNvbmZpZyBjID0gbmV3IENvbmZpZy5JbWNvbnZSZ2JDb252ZXJ0ZXJDb25maWcoKTsKICAgICAgICAgICAgYy5zZXROdW1PZlBhcmFsbGVsQXBpQ2FsbCgzKTsKICAgICAgICAgICAgYy5zZXROdW1PZlBhcmFsbGVsQXBpQ2FsbCgzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMzID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLoibLnqbrplpPliKTliKU6ICR7KHMzIC0gczIpfSBtc2VjIikKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMyID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJTMyDjgYvjgonjga7nlLvlg4/lj5blvpc6ICR7KHMyIC0gczEpfSBtc2VjIikKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YWV0IEluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHMxID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGxvZ2dlciA9IExvZ2dlci5nZXRMb2dnZXIoTGFtYmRhSGFuZGxlcjo6Y2xhc3MuamF2YSkK</text>
       </register>
       <register name=":" type="4">
         <text>split</text>
@@ -610,36 +613,10 @@
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setISRC</entry>
-        <entry>setIsrc</entry>
-        <entry>setComposer</entry>
-        <entry>composer</entry>
-        <entry>iltype</entry>
-        <entry>setIvt</entry>
-        <entry>LyricsTranslation</entry>
-        <entry>indirectresource</entry>
-        <entry>contributor</entry>
-        <entry>productcode</entry>
-        <entry>lirics</entry>
-        <entry>翻訳</entry>
-        <entry>trackunique</entry>
-        <entry>unique</entry>
-        <entry>uniquecode</entry>
-        <entry>TrackCode</entry>
-        <entry>bundlecode</entry>
-        <entry>getTrackCode</entry>
-        <entry>etBundlecode</entry>
-        <entry>contenttype</entry>
-        <entry>SongWriter</entry>
-        <entry>SubTitle</entry>
-        <entry>setBundleTitle</entry>
-        <entry>title</entry>
-        <entry>setTitle</entry>
-        <entry>pakcageId</entry>
         <entry>パッケージアーティスト</entry>
         <entry>Column.ISRC</entry>
         <entry>package</entry>
