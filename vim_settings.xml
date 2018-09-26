@@ -250,9 +250,9 @@
         <mark key="^" line="113" column="56" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1537523904915">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/ddex_manage.yml" timestamp="1537938816413">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="44" column="20" />
+        <mark key="[" line="36" column="0" />
         <mark key="]" line="44" column="18" />
         <mark key="." line="44" column="18" />
         <mark key="^" line="44" column="18" />
@@ -547,7 +547,7 @@
         <text>contenttype</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdC5wcm9jZXNzYWJsZUl0ZW1JZHMsIGhhc0l0ZW1zKDEsIDIsIDMpKTsK</text>
+        <text encoding="base64">aW1jb252UmdiQ29udmVydGVyOgogIGJhc2VVcmw6IGh0dHBzOi8vZGNtLWltY29udi5kd2FuZ28uanAvUHJvZAogIGVuZHBvaW50czoKICAgdG9Eb3dubG9hZFVybDogIi9pbWFnZXMve2tleX0vZG93bmxvYWQtdXJsIgogICB0b1VwbG9hZFVybDogIi9pbWFnZXMvdXBsb2FkLXVybCIKICAgdG9Db252ZXJ0Q29sb3JzcGFjZTogIi9pbWFnZXMve2tleX0vY29udmVydC9jb2xvcnNwYWNlIgogIG51bU9mUGFyYWxsZWxBcGlDYWxsOiA2CiAgdGltZW91dEFsbDogNjAKICB0aW1lb3V0UGVyVGFzazogNQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyDjgrfjg7PjgrDjg6vjgIHjg5Pjg4fjgqrjg7vjgq/jg6rjg4Pjg5fjga/jgIHjg5Djg7Pjg4njg6vntJDku5jjgZHjgYzlrZjlnKjjgZfjgarjgYTloLTlkIjjgYzjgYLjgosK</text>
