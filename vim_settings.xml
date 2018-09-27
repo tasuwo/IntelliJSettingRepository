@@ -78,12 +78,12 @@
         <mark key="." line="614" column="44" />
         <mark key="^" line="614" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1537871519574">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/deliver/DeliveryRequestedItemsClassifierImpl.java" timestamp="1538039470155">
         <mark key="'" line="29" column="6" />
-        <mark key="[" line="158" column="41" />
-        <mark key="]" line="158" column="41" />
-        <mark key="." line="158" column="41" />
-        <mark key="^" line="158" column="41" />
+        <mark key="[" line="159" column="123" />
+        <mark key="]" line="159" column="135" />
+        <mark key="." line="159" column="135" />
+        <mark key="^" line="159" column="135" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-all/pom.xml" timestamp="1536897186387">
         <mark key="'" line="332" column="29" />
@@ -542,7 +542,7 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>NAME</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>endpoint</text>
