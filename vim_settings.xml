@@ -64,7 +64,8 @@
         <mark key="[" line="48" column="20" />
         <mark key="]" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/scripts/template-sam.yaml" timestamp="1537843864802">
+      <file name="$USER_HOME$/Documents/src/IMConv/scripts/template-sam.yaml" timestamp="1538031320227">
+        <mark key="'" line="38" column="21" />
         <mark key="[" line="39" column="18" />
         <mark key="]" line="39" column="21" />
         <mark key="." line="39" column="21" />
@@ -145,11 +146,12 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/IMConv/.travis.yml" timestamp="1538026287288">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="31" column="11" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/src/IMConv/.travis.yml" timestamp="1538031545341">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="67" column="8" />
+        <mark key="]" line="67" column="41" />
+        <mark key="^" line="67" column="41" />
+        <mark key="." line="67" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1537510166655">
         <mark key="'" line="501" column="28" />
@@ -434,8 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="493" column="14" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="651" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="494" column="64" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="643" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="665" column="20" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -534,19 +534,21 @@
       <jump line="92" column="81" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="97" column="32" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
       <jump line="116" column="42" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/deliver/TestDeliveryRequestedItemsClassifier.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/src/IMConv/.travis.yml" />
+      <jump line="38" column="21" filename="$USER_HOME$/Documents/src/IMConv/scripts/template-sam.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>け</text>
+        <text>NAME</text>
       </register>
       <register name="/" type="4">
-        <text>contenttype</text>
+        <text>endpoint</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1jb252UmdiQ29udmVydGVyOgogIGJhc2VVcmw6IGh0dHBzOi8vZGNtLWltY29udi5kd2FuZ28uanAvUHJvZAogIGVuZHBvaW50czoKICAgdG9Eb3dubG9hZFVybDogIi9pbWFnZXMve2tleX0vZG93bmxvYWQtdXJsIgogICB0b1VwbG9hZFVybDogIi9pbWFnZXMvdXBsb2FkLXVybCIKICAgdG9Db252ZXJ0Q29sb3JzcGFjZTogIi9pbWFnZXMve2tleX0vY29udmVydC9jb2xvcnNwYWNlIgogIG51bU9mUGFyYWxsZWxBcGlDYWxsOiA2CiAgdGltZW91dEFsbDogNjAKICB0aW1lb3V0UGVyVGFzazogNQo=</text>
+      <register name="0" type="4">
+        <text>PROD_IMAGE_STORAGE_BUCKET_ENDPOINT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAtIGlmIFtbICRUUkFWSVNfQlJBTkNIID09ICdlbnYvdGVzdCcgfHwgJFRSQVZJU19CUkFOQ0ggPT0gJ2Vudi9wcm9kJyBdXTsgdGhlbiAuL3NjcmlwdHMvdXNlZE9uVHJhdmlzQ0kvZXhpdEFuZE91dHB1dEZha2VTZXJ2aWNlc0xvZy5zaCA7IGZpCg==</text>
@@ -583,13 +585,13 @@
       </register>
     </registers>
     <search>
-      <last-search>contenttype</last-search>
+      <last-search>endpoint</last-search>
       <last-offset />
-      <last-pattern>contenttype</last-pattern>
+      <last-pattern>endpoint</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -613,6 +615,7 @@
         <entry>isLicenseAvailableInSome</entry>
         <entry>getItem</entry>
         <entry>contenttype</entry>
+        <entry>endpoint</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
