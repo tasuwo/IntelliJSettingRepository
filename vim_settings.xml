@@ -584,7 +584,7 @@
         <text encoding="base64">IyBUT0RPOiBpbnRlZ3JhdGlvblRlc3Qg44Gv44Oe44O844K45YmN44Gr44CBZW52L3Byb2QsIGVudi90ZXN0IOOBruOBv+OBp+Wun+ihjOOBmeOCi+OCiOOBhuOBq+WHpueQhuOCkuWJiumZpOOBmeOCiwo=</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -594,7 +594,7 @@
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -633,8 +633,8 @@
         <entry>%s/;{/ /</entry>
         <entry>%s/;{/ {/</entry>
         <entry>w</entry>
-        <entry>noh</entry>
         <entry>split</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
