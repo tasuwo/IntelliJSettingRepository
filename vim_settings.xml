@@ -153,6 +153,9 @@
         <mark key="^" line="67" column="41" />
         <mark key="." line="67" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemImporterImpl.java" timestamp="1538621791982">
+        <mark key="'" line="37" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1538555715554">
         <mark key="'" line="622" column="83" />
       </file>
@@ -246,6 +249,9 @@
         <mark key="]" line="27" column="28" />
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/BaseWmgItemImporter.java" timestamp="1538621821980">
+        <mark key="'" line="45" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/main/java/jp/co/dwango/ddex/manage/api_client/ImconvRgbConverterImpl.java" timestamp="1537325529768">
         <mark key="'" line="59" column="22" />
@@ -441,9 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
-      <jump line="115" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
-      <jump line="170" column="39" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
       <jump line="52" column="29" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
       <jump line="107" column="21" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
       <jump line="196" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
@@ -541,6 +544,9 @@
       <jump line="94" column="53" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
       <jump line="434" column="25" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
       <jump line="435" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemImporterImpl.java" />
+      <jump line="44" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/BaseWmgItemImporter.java" />
+      <jump line="45" column="62" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/BaseWmgItemImporter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -550,7 +556,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>contributor</text>
+        <text>RESOURCE_MESSAGE</text>
       </register>
       <register name="0" type="4">
         <text>warnAbsentOfIndirectResourceContirbutorIfOccurred</text>
@@ -590,9 +596,9 @@
       </register>
     </registers>
     <search>
-      <last-search>contributor</last-search>
+      <last-search>RESOURCE_MESSAGE</last-search>
       <last-offset />
-      <last-pattern>contributor</last-pattern>
+      <last-pattern>RESOURCE_MESSAGE</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -600,20 +606,6 @@
     </search>
     <history>
       <history-search>
-        <entry>licenser</entry>
-        <entry>remark</entry>
-        <entry>getNote</entry>
-        <entry>setNote</entry>
-        <entry>Remark</entry>
-        <entry>note</entry>
-        <entry>catalog</entry>
-        <entry>catalognumber</entry>
-        <entry>midOnZocalo</entry>
-        <entry>エクスポーター</entry>
-        <entry>export</entry>
-        <entry>findenable</entry>
-        <entry>isLicenseAvailableInSome</entry>
-        <entry>getItem</entry>
         <entry>contenttype</entry>
         <entry>endpoint</entry>
         <entry>resolver</entry>
@@ -634,6 +626,9 @@
         <entry>extractContributor</entry>
         <entry>contriutor</entry>
         <entry>contributor</entry>
+        <entry>resource.xml</entry>
+        <entry>RESOUCE_MESSAGE</entry>
+        <entry>RESOURCE_MESSAGE</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
