@@ -132,7 +132,7 @@
         <mark key="." line="101" column="43" />
         <mark key="^" line="101" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/teichiku-delivery/src/main/java/jp/co/dwango/ddex/teichiku_delivery/v2/message/IgnoreColumns.java" timestamp="1538720746075">
+      <file name="$USER_HOME$/Documents/src/ddex/teichiku-delivery/src/main/java/jp/co/dwango/ddex/teichiku_delivery/v2/message/IgnoreColumns.java" timestamp="1538723655579">
         <mark key="'" line="131" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/ChatStream.js" timestamp="1532274972836">
@@ -159,8 +159,8 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemImporterImpl.java" timestamp="1538621791982">
         <mark key="'" line="37" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1538721924669">
-        <mark key="'" line="133" column="28" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1538724471527">
+        <mark key="'" line="195" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Typing.vue" timestamp="1532526548190">
         <mark key="'" line="0" column="8" />
@@ -456,13 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
-      <jump line="218" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
-      <jump line="217" column="103" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
-      <jump line="58" column="31" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
-      <jump line="87" column="49" filename="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" />
-      <jump line="268" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/asketch/AsketchGeneralTrack.java" />
-      <jump line="293" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
       <jump line="9" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-manage/sh/batch_ddex/alert/shell/zocalo_material.sh" />
       <jump line="10" column="45" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/ffewsn_material_by_end_date.sh" />
       <jump line="14" column="14" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/ffewsn_material_by_end_date.sh" />
@@ -516,10 +509,8 @@
       <jump line="115" column="35" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="85" column="90" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="988" column="107" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="968" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="983" column="15" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="874" column="70" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="894" column="70" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="510" column="44" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="128" column="6" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="130" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -556,6 +547,15 @@
       <jump line="131" column="0" filename="$USER_HOME$/Documents/src/ddex/teichiku-delivery/src/main/java/jp/co/dwango/ddex/teichiku_delivery/v2/message/IgnoreColumns.java" />
       <jump line="141" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="133" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="104" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="1183" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="1098" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="990" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="894" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="968" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="711" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="195" column="25" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -565,7 +565,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>extractArtist</text>
+        <text>extractParties</text>
       </register>
       <register name="0" type="4">
         <text>warnAbsentOfIndirectResourceContirbutorIfOccurred</text>
@@ -605,9 +605,9 @@
       </register>
     </registers>
     <search>
-      <last-search>extractArtist</last-search>
+      <last-search>extractParties</last-search>
       <last-offset />
-      <last-pattern>extractArtist</last-pattern>
+      <last-pattern>extractParties</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -622,7 +622,6 @@
         <entry>contributorRole</entry>
         <entry>contributorRoleBy</entry>
         <entry>.</entry>
-        <entry>extractParties</entry>
         <entry>extractTitle</entry>
         <entry>getResourceContri</entry>
         <entry>ROLE_BY_CODE</entry>
@@ -636,6 +635,7 @@
         <entry>RESOUCE_MESSAGE</entry>
         <entry>RESOURCE_MESSAGE</entry>
         <entry>extractArtist</entry>
+        <entry>extractParties</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
