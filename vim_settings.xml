@@ -23,6 +23,9 @@
       <file name="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/alert/shell/ffewsn_material_by_end_date.sh" timestamp="1537518449659">
         <mark key="'" line="32" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" timestamp="1540368224496">
+        <mark key="'" line="316" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-db-delivered-item/src/test/java/jp/co/dwango/ddex/db/delivereditem/service/TestResourceSingleService.java" timestamp="1533607799681">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="172" column="0" />
@@ -385,6 +388,9 @@
         <mark key="^" line="138" column="15" />
         <mark key="." line="138" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" timestamp="1540368528909">
+        <mark key="'" line="436" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/avex-delivery/src/main/java/jp/co/dwango/ddex/avex_delivery/message/DeliveryMessage.java" timestamp="1531890768319">
         <mark key="'" line="2" column="37" />
         <mark key="[" line="9" column="0" />
@@ -448,10 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="15" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
-      <jump line="327" column="35" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
-      <jump line="594" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
       <jump line="133" column="57" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
       <jump line="188" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
       <jump line="657" column="79" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -548,6 +550,10 @@
       <jump line="182" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="198" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="36" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/ItemImportServiceImpl.java" />
+      <jump line="316" column="64" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" />
+      <jump line="37" column="55" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
+      <jump line="436" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -557,7 +563,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>persistDeliveredItem</text>
+        <text>bundlecode</text>
       </register>
       <register name="0" type="4">
         <text>warnAbsentOfIndirectResourceContirbutorIfOccurred</text>
@@ -593,13 +599,13 @@
         <text encoding="base64">ICAtIGlmIFtbICRUUkFWSVNfQlJBTkNIID09ICdlbnYvdGVzdCcgfHwgJFRSQVZJU19CUkFOQ0ggPT0gJ2Vudi9wcm9kJyBdXTsgdGhlbiAuL3NjcmlwdHMvdXNlZE9uVHJhdmlzQ0kvc2V0dXBBbmRFeGVjdXRlSW50ZWdyYXRpb25UZXN0LnNoIDsgZmkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>split</text>
       </register>
     </registers>
     <search>
-      <last-search>persistDeliveredItem</last-search>
+      <last-search>bundlecode</last-search>
       <last-offset />
-      <last-pattern>persistDeliveredItem</last-pattern>
+      <last-pattern>bundlecode</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -607,11 +613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contributorRole</entry>
-        <entry>contributorRoleBy</entry>
-        <entry>.</entry>
-        <entry>extractTitle</entry>
-        <entry>getResourceContri</entry>
         <entry>warnAbsentOfIndirectResourceContirbutorIfOccurred</entry>
         <entry>extractContributorRole</entry>
         <entry>extractContributor</entry>
@@ -632,6 +633,7 @@
         <entry>ROLE_BY_CODE</entry>
         <entry>getRoleByCode</entry>
         <entry>persistDeliveredItem</entry>
+        <entry>bundlecode</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
@@ -644,9 +646,9 @@
         <entry>%s/HttpResponse/CloseableHttpResponse/</entry>
         <entry>%s/;{/ /</entry>
         <entry>%s/;{/ {/</entry>
-        <entry>split</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>split</entry>
       </history-cmd>
       <history-expr />
       <history-input />
