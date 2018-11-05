@@ -261,6 +261,9 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="41" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/TuneCoreItemExtractor.java" timestamp="1541406194768">
+        <mark key="'" line="460" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/BaseWmgItemImporter.java" timestamp="1538621821980">
         <mark key="'" line="45" column="62" />
       </file>
@@ -454,8 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" />
-      <jump line="657" column="79" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="91" column="40" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="92" column="36" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="93" column="38" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -554,6 +555,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
       <jump line="436" column="29" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/general/GeneralGeneralTrack.java" />
       <jump line="1052" column="12" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/TuneCoreItemExtractor.java" />
+      <jump line="460" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/TuneCoreItemExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -563,7 +566,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>street</text>
+        <text>copyright</text>
       </register>
       <register name="0" type="4">
         <text>warnAbsentOfIndirectResourceContirbutorIfOccurred</text>
@@ -603,9 +606,9 @@
       </register>
     </registers>
     <search>
-      <last-search>street</last-search>
+      <last-search>copyright</last-search>
       <last-offset />
-      <last-pattern>street</last-pattern>
+      <last-pattern>copyright</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -613,7 +616,6 @@
     </search>
     <history>
       <history-search>
-        <entry>extractContributorRole</entry>
         <entry>extractContributor</entry>
         <entry>contriutor</entry>
         <entry>contributor</entry>
@@ -634,6 +636,7 @@
         <entry>persistDeliveredItem</entry>
         <entry>bundlecode</entry>
         <entry>street</entry>
+        <entry>copyright</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
