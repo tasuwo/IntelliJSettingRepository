@@ -238,7 +238,7 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/db/batch_importer/dto/BaseTrackDeliveredItemDto.java" timestamp="1537441163918">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/EntityBuilder.java" timestamp="1537443540119">
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/tunecore/EntityBuilder.java" timestamp="1541672861610">
         <mark key="'" line="74" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemExtractor.java" timestamp="1538546813660">
@@ -612,11 +612,10 @@
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>extractContributor</entry>
         <entry>contriutor</entry>
         <entry>contributor</entry>
         <entry>resource.xml</entry>
