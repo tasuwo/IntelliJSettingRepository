@@ -353,10 +353,10 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="303" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/src/dam--dam.dwango.jp--dam2018-importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" timestamp="1544607794039">
-        <mark key="'" line="57" column="11" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="52" />
+      <file name="$USER_HOME$/Documents/src/dam--dam.dwango.jp--dam2018-importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" timestamp="1544609096711">
+        <mark key="'" line="75" column="25" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="128" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/amuse-delivery/src/main/java/jp/co/dwango/ddex/amuse_delivery/DeliveryMessageFactory.java" timestamp="1531894804096">
         <mark key="'" line="14" column="25" />
@@ -470,8 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="90" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="129" column="50" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="83" column="20" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/emi/EmiItemExtractor.java" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/emi/EmiItemExtractor.java" />
       <jump line="121" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/emi/EmiItemExtractor.java" />
@@ -570,6 +568,8 @@
       <jump line="57" column="11" filename="$USER_HOME$/Documents/src/dam--dam.dwango.jp--dam2018-importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/src/dam--dam.dwango.jp--dam2018-data-model-library/src/main/java/jp/dwango/dam/domain/model/dam_2018/asset/AssetFileImage.java" />
       <jump line="17" column="41" filename="$USER_HOME$/Documents/src/dam--dam.dwango.jp--dam2018-data-model-library/src/main/java/jp/dwango/dam/domain/model/dam_2018/asset/AssetFileImage.java" />
+      <jump line="81" column="13" filename="$USER_HOME$/Documents/src/dam--dam.dwango.jp--dam2018-importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
+      <jump line="75" column="25" filename="$USER_HOME$/Documents/src/dam--dam.dwango.jp--dam2018-importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -582,7 +582,7 @@
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlZEltYWdlRmlsZU5hbWUgPSB0c3ZMaW5lLmdldFZhbHVlKDYyKTsK</text>
+        <text encoding="base64">ICAgICAgICBpdGVtSWQgPSB0c3ZMaW5lLmdldFZhbHVlKDMpOwogICAgICAgIHRpdGxlID0gSUdOT1JFX1RFWFQuZXF1YWxzKHRzdkxpbmUuZ2V0VmFsdWUoNCkpID8gIiIgOiB0c3ZMaW5lLmdldFZhbHVlKDQpOwogICAgICAgIHRpdGxlS2FuYSA9IElHTk9SRV9URVhULmVxdWFscyh0c3ZMaW5lLmdldFZhbHVlKDUpKSA/ICIiIDogdHN2TGluZS5nZXRWYWx1ZSg1KTsKICAgICAgICBhcnRpc3QgPSBJR05PUkVfVEVYVC5lcXVhbHModHN2TGluZS5nZXRWYWx1ZSgxMCkpID8gIiIgOiB0c3ZMaW5lLmdldFZhbHVlKDEwKTsKICAgICAgICBhcnRpc3RLYW5hID0gSUdOT1JFX1RFWFQuZXF1YWxzKHRzdkxpbmUuZ2V0VmFsdWUoMTEpKSA/ICIiIDogdHN2TGluZS5nZXRWYWx1ZSgxMSk7CiAgICAgICAgYWJicmV2aWF0ZWROYW1lID0gdHN2TGluZS5nZXRWYWx1ZSgxMyk7CiAgICAgICAgcHVibGljYXRpb25EYXRlID0gdHN2TGluZS5nZXRWYWx1ZSgxNCk7CiAgICAgICAgc3RhcnREYXRlID0gdHN2TGluZS5nZXRWYWx1ZSgxNSk7CiAgICAgICAgZW5kRGF0ZSA9IHRzdkxpbmUuZ2V0VmFsdWUoMTYpOwogICAgICAgIGd1ZXN0S2FraW4gPSB0c3ZMaW5lLmdldFZhbHVlKDE5KTsKICAgICAgICBwcmljZUV4Y2x1ZGluZ1RheCA9IHRzdkxpbmUuZ2V0VmFsdWUoMjApOwogICAgICAgIGZyZWVJbmZvcm1hdGlvbiA9IHRzdkxpbmUuZ2V0VmFsdWUoMjEpOwogICAgICAgIHNlYXJjaGFibGUgPSB0c3ZMaW5lLmdldFZhbHVlKDIzKTsKICAgICAgICBwcmV2aWV3YWJsZSA9IHRzdkxpbmUuZ2V0VmFsdWUoMjQpOwogICAgICAgIGRvY29tbyA9IHRzdkxpbmUuZ2V0VmFsdWUoMjUpOwogICAgICAgIGF1ID0gdHN2TGluZS5nZXRWYWx1ZSgyNik7CiAgICAgICAgc29mdGJhbmsgPSB0c3ZMaW5lLmdldFZhbHVlKDI3KTsKICAgICAgICB0aWV1cCA9IHRzdkxpbmUuZ2V0VmFsdWUoMjgpOwogICAgICAgIGV4cGxhaW5TdGF0ZW1lbnQgPSB0c3ZMaW5lLmdldFZhbHVlKDMwKTsKICAgICAgICBtb25vcG9seSA9IHRzdkxpbmUuZ2V0VmFsdWUoMzEpOwogICAgICAgIG1vbm9wb2x5RW5kRGF0ZSA9IHRzdkxpbmUuZ2V0VmFsdWUoMzIpOwogICAgICAgIG90aGVyRGlzdHJpYnV0b3JzSW5mbyA9IHRzdkxpbmUuZ2V0VmFsdWUoMzMpOwogICAgICAgIGF1dGhvcml6ZXIgPSB0c3ZMaW5lLmdldFZhbHVlKDM1KTsKICAgICAgICBhdXRob3JpemVyMiA9IHRzdkxpbmUuZ2V0VmFsdWUoMzYpOwogICAgICAgIGhvbGRlckNvZGUgPSB0c3ZMaW5lLmdldFZhbHVlKDM3KTsKICAgICAgICBob2xkZXJDb2RlMiA9IHRzdkxpbmUuZ2V0VmFsdWUoMzgpOwogICAgICAgIHBhcmVudEl0ZW1JZCA9IHRzdkxpbmUuZ2V0VmFsdWUoMzkpOwogICAgICAgIGlzcmNDb2RlID0gdHN2TGluZS5nZXRWYWx1ZSg0MCk7CiAgICAgICAgY29weXJpZ2h0U29jaWV0eSA9IHRzdkxpbmUuZ2V0VmFsdWUoNDIpOwogICAgICAgIGNvcHlyaWdodFNvY2lldHlUaXRsZUNvZGUgPSB0c3ZMaW5lLmdldFZhbHVlKDQzKTsKICAgICAgICBseXJpY2lzdCA9IHRzdkxpbmUuZ2V0VmFsdWUoNDQpOwogICAgICAgIGNvbXBvc2VyID0gdHN2TGluZS5nZXRWYWx1ZSg0NSk7CiAgICAgICAgaWxUeXBlID0gdHN2TGluZS5nZXRWYWx1ZSg0Nik7CiAgICAgICAgaXNNZWRsZXkgPSB0c3ZMaW5lLmdldFZhbHVlKDQ3KTsKICAgICAgICBjb3B5cmlnaHRUZXh0ID0gdHN2TGluZS5nZXRWYWx1ZSg1MCk7CiAgICAgICAgbXVzaWNGaWxlTmFtZSA9IHRzdkxpbmUuZ2V0VmFsdWUoNTUpOwogICAgICAgIGN1ZVNoZWV0MSA9IHRzdkxpbmUuZ2V0VmFsdWUoNTYpOwogICAgICAgIGN1ZVNoZWV0MU5hbWUgPSB0c3ZMaW5lLmdldFZhbHVlKDU3KTsKICAgICAgICBjdWVTaGVldDIgPSB0c3ZMaW5lLmdldFZhbHVlKDU4KTsKICAgICAgICBjdWVTaGVldDJOYW1lID0gdHN2TGluZS5nZXRWYWx1ZSg1OSk7CiAgICAgICAgY3VlU2hlZXQzID0gdHN2TGluZS5nZXRWYWx1ZSg2MCk7CiAgICAgICAgY3VlU2hlZXQzTmFtZSA9IHRzdkxpbmUuZ2V0VmFsdWUoNjEpOwogICAgICAgIGluY2x1ZGVkSW1hZ2VGaWxlTmFtZSA9IHRzdkxpbmUuZ2V0VmFsdWUoNjIpOwogICAgICAgIGNyYnRFbmREYXRlID0gdHN2TGluZS5nZXRWYWx1ZSg2OCk7CiAgICAgICAgY3JidE5hbWUgPSB0c3ZMaW5lLmdldFZhbHVlKDY5KTsKICAgICAgICBjcmJ0S2FuYSA9IHRzdkxpbmUuZ2V0VmFsdWUoNzApOwogICAgICAgIGRpc2NOdW1iZXIgPSB0c3ZMaW5lLmdldFZhbHVlKDgzKTsKICAgICAgICB0cmFja051bWJlciA9IHRzdkxpbmUuZ2V0VmFsdWUoODQpOwogICAgICAgIHBhY2thZ2VUaXRsZSA9IElHTk9SRV9URVhULmVxdWFscyh0c3ZMaW5lLmdldFZhbHVlKDkyKSkgPyAiIiA6IHRzdkxpbmUuZ2V0VmFsdWUoOTIpOwogICAgICAgIHBhY2thZ2VUaXRsZUthbmEgPSBJR05PUkVfVEVYVC5lcXVhbHModHN2TGluZS5nZXRWYWx1ZSg5MykpID8gIiIgOiB0c3ZMaW5lLmdldFZhbHVlKDkzKTsKICAgICAgICBwYWNrYWdlQXJ0aXN0ID0gSUdOT1JFX1RFWFQuZXF1YWxzKHRzdkxpbmUuZ2V0VmFsdWUoMTAwKSkgPyAiIiA6IHRzdkxpbmUuZ2V0VmFsdWUoMTAwKTsKICAgICAgICBwYWNrYWdlQXJ0aXN0S2FuYSA9IElHTk9SRV9URVhULmVxdWFscyh0c3ZMaW5lLmdldFZhbHVlKDEwMSkpID8gIiIgOiB0c3ZMaW5lLmdldFZhbHVlKDEwMSk7CiAgICAgICAgcGFja2FnZU51bWJlciA9IHRzdkxpbmUuZ2V0VmFsdWUoMTAzKTsKICAgICAgICBwYWNrYWdlUmVsZWFzZURhdGUgPSB0c3ZMaW5lLmdldFZhbHVlKDEwNCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBtaWRpbyDjgqTjg7Pjg53jg7zjgr/jg7wgXFvlu4PmraLkuojlrppcXQoKIyMg44OV44Kh44Kk44OrCgotIGAuL21pZGlvX2ltcG9ydGVyLnNoYAoKIyMg6IOM5pmvCgojIyDnm67nmoQKCi0gbWlkaW8g44GL44KJIHB1c2gg44GV44KM44Gf57Sg5p2QSUTjg7vmpb3mm7JJROODu+OCouODvOODhuOCo+OCueODiElE44Gu57SQ5LuY44GR44KSRELjgavmoLzntI3jgZnjgosKCiMjIOWHpueQhuWGheWuuQoKCg==</text>
