@@ -599,7 +599,7 @@
         <text encoding="base64">ICAtIGlmIFtbICRUUkFWSVNfQlJBTkNIID09ICdlbnYvdGVzdCcgfHwgJFRSQVZJU19CUkFOQ0ggPT0gJ2Vudi9wcm9kJyBdXTsgdGhlbiAuL3NjcmlwdHMvdXNlZE9uVHJhdmlzQ0kvc2V0dXBBbmRFeGVjdXRlSW50ZWdyYXRpb25UZXN0LnNoIDsgZmkK</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -609,7 +609,7 @@
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -646,9 +646,9 @@
         <entry>%s/HttpResponse/CloseableHttpResponse/</entry>
         <entry>%s/;{/ /</entry>
         <entry>%s/;{/ {/</entry>
-        <entry>noh</entry>
         <entry>w</entry>
         <entry>split</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
