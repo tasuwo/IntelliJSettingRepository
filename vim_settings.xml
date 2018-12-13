@@ -128,6 +128,11 @@
         <mark key="." line="78" column="78" />
         <mark key="^" line="78" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/src/dam2018/data-model-library/build.gradle" timestamp="1544678167291">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/asketch-delivery/src/main/java/jp/co/dwango/ddex/asketch_delivery/message/TableFormat.java" timestamp="1537512833040">
         <mark key="'" line="87" column="49" />
         <mark key="[" line="101" column="33" />
@@ -576,7 +581,7 @@
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -629,11 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>notArtist</entry>
-        <entry>artistTypeByCode</entry>
-        <entry>ROLE_BY_CIDe</entry>
-        <entry>ROLE_BY_CODE</entry>
-        <entry>getRoleByCode</entry>
         <entry>persistDeliveredItem</entry>
         <entry>bundlecode</entry>
         <entry>street</entry>
