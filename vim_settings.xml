@@ -106,6 +106,12 @@
         <mark key="^" line="46" column="20" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinSiteList.java" timestamp="1546847186596">
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="10" />
+        <mark key="^" line="36" column="10" />
+        <mark key="." line="36" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/order/handler/util/TestBundleAndTrackRelationValidator.java" timestamp="1533602720153">
         <mark key="'" line="408" column="0" />
         <mark key="[" line="270" column="11" />
@@ -627,11 +633,10 @@
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
         <entry>report</entry>
         <entry>mail</entry>
         <entry>messagefactory</entry>
