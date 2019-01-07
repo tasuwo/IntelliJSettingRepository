@@ -106,8 +106,8 @@
         <mark key="^" line="46" column="20" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinSiteList.java" timestamp="1546849514766">
-        <mark key="'" line="17" column="6" />
+      <file name="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinSiteList.java" timestamp="1546853809518">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="78" column="19" />
         <mark key="^" line="36" column="10" />
@@ -578,7 +578,7 @@
       <jump line="114" column="44" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
       <jump line="85" column="30" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
-      <jump line="17" column="6" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinSiteList.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinSiteList.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
