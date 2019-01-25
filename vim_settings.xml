@@ -74,11 +74,11 @@
         <mark key="^" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/spaceshower/SpaceshowerGeneralTrack.java" timestamp="1546860417451">
-        <mark key="'" line="19" column="13" />
-        <mark key="[" line="41" column="55" />
-        <mark key="]" line="41" column="57" />
-        <mark key="." line="41" column="57" />
-        <mark key="^" line="41" column="57" />
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="57" />
+        <mark key="." line="40" column="57" />
+        <mark key="^" line="40" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-encode/src/test/java/jp/co/dwango/ddex/encode/data/factory/videoclip/TestVideoClipDataFactoryImpl.java" timestamp="1533609333568">
         <mark key="'" line="68" column="13" />
@@ -641,11 +641,10 @@
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>report</entry>
         <entry>mail</entry>
         <entry>messagefactory</entry>
         <entry>message</entry>
