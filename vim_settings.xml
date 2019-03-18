@@ -175,8 +175,8 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" timestamp="1552903545105">
-        <mark key="'" line="576" column="48" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" timestamp="1552904360647">
+        <mark key="'" line="549" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/src/IMConv/.travis.yml" timestamp="1538031545341">
         <mark key="'" line="44" column="0" />
@@ -188,12 +188,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemImporterImpl.java" timestamp="1538621791982">
         <mark key="'" line="37" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1540459982240">
-        <mark key="'" line="1052" column="12" />
-        <mark key="[" line="1092" column="115" />
-        <mark key="]" line="1092" column="121" />
+      <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" timestamp="1552904370856">
+        <mark key="'" line="391" column="16" />
+        <mark key="[" line="352" column="123" />
+        <mark key="]" line="352" column="124" />
         <mark key="^" line="1092" column="121" />
-        <mark key="." line="1092" column="121" />
+        <mark key="." line="352" column="124" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/Typing.vue" timestamp="1532526548190">
         <mark key="'" line="0" column="8" />
@@ -492,12 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="104" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="1183" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="1098" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="990" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="894" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="968" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="711" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="195" column="25" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -510,7 +504,6 @@
       <jump line="127" column="0" filename="$USER_HOME$/Documents/src/ddex-batch/batch_ddex/README.md" />
       <jump line="821" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="1253" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -592,6 +585,13 @@
       <jump line="220" column="19" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/emi/EmiItemExtractor.java" />
       <jump line="70" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
       <jump line="576" column="48" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
+      <jump line="702" column="20" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="28" column="61" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="613" column="41" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
+      <jump line="549" column="8" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/service/persister/ItemPersister.java" />
+      <jump line="352" column="38" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
+      <jump line="391" column="16" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -601,7 +601,7 @@
         <text>NOT_MUSIC</text>
       </register>
       <register name="/" type="4">
-        <text>上書き</text>
+        <text>uniqueCode</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAianAg5Y+W5pS+6aGMIiwKICAgICAgICAianAg44GG44GfIiwKICAgICAgICAiSy1QT1AgTGlmZSIsCiAgICAgICAgIuOCouODiyDjg6Hjg60iLAogICAgICAgICLjgqLjg4sg44GG44GfIiwKICAgICAgICAi44OT44Or44OcIOOBhuOBnyIsCiAgICAgICAgImpw44GG44GfICh3aWxsY29tKSIsCiAgICAgICAgImpww5dXSUxMQ09NIiwKICAgICAgICAianAg44OV44OrIiwKICAgICAgICAi6LaF44Ki44OLIiwKICAgICAgICAi44OT44Or44OcIOODleODqyIsCiAgICAgICAgImpwIOODl+ODqeOCuSIsCiAgICAgICAgIui2he+9se++hiDjg5fjg6njgrkiLAogICAgICAgICLjg5Pjg6vjg5wg44OX44Op44K5IiwKICAgICAgICAianAg44Oc44Kk44K5IiwKICAgICAgICAianAg44Kz44O844OrIiwKICAgICAgICAianAg44Kz44O844OrIChBbmRyb2lkKSIsCiAgICAgICAgImpwIOOCs+ODvOODqyAoaVBob25lKSIsCiAgICAgICAgIuOCouODiyDjgrPjg7zjg6siLAogICAgICAgICLjgqLjg4sg44Kz44O844OrIChBbmRyb2lkKSIsCiAgICAgICAgIuOCouODiyDjgrPjg7zjg6sgKGlQaG9uZSkiLAogICAgICAgICJkd2FuZ28gLmpwKEFuZHJvaWQpIiwKICAgICAgICAi772x776G776S776bIChBbmRyb2lkKSIsCiAgICAgICAgIkstUE9QIChBbmRyb2lkKSIsCiAgICAgICAgIuODk+ODq+ODnCAoQW5kcm9pZCkiLAogICAgICAgICJkd2FuZ28gLmpwKGlQaG9uZSkiLAogICAgICAgICLvvbHvvobvvpLvvpsoaU9TKSIsCiAgICAgICAgIumFjeS/oSDjgarjgZciLAogICAgICAgICLjg5Pjg6vjg5woaVBob25lKSIsCiAgICAgICAgIuODieODr+ODs+OCtOOCuOOCp+OCpOODlOODvCBmb3Ig44K544K05b6XIiwKICAgICAgICAi5LqI5YKZ44K144Kk44OIKDYpIiwKICAgICAgICAi5LqI5YKZ44K144Kk44OIKDcpIiwKICAgICAgICAi5LqI5YKZ44K144Kk44OIKDgpIiwKICAgICAgICAi5LqI5YKZ44K144Kk44OIKDkpIiwKICAgICAgICAi5LqI5YKZ44K144Kk44OIKDEwKSIsCiAgICAgICAgIuS6iOWCmeOCteOCpOODiCgxMSkiLAogICAgICAgICLkuojlgpnjgrXjgqTjg4goMTIpIiwKICAgICAgICAi5LqI5YKZ44K144Kk44OIKDEzKSIsCiAgICAgICAgIuS6iOWCmeOCteOCpOODiCgxNCkiLAogICAgICAgICLkuojlgpnjgrXjgqTjg4goMTUpIiwKICAgICAgICAi5LqI5YKZ44K144Kk44OIKDE2KSIsCiAgICAgICAgIuS6iOWCmeOCteOCpOODiCgxNykiLAogICAgICAgICLkuojlgpnjgrXjgqTjg4goMTgpIiwKICAgICAgICAi5LqI5YKZ44K144Kk44OIKDE5KSIsCiAgICAgICAgIuS6iOWCmeOCteOCpOODiCgyMCkiLAogICAgICAgICJqcOWPluaUvumhjCBTUCIsCiAgICAgICAgImpwIOW+heWPlyIsCiAgICAgICAgImpwIOODh+OCs+ODoSIsCiAgICAgICAgImpw44OH44Kz44OhKEFuZHJvaWQpIiwKICAgICAgICAianAg4pmAIiwKICAgICAgICAi44GN44Gb44GL44GIIiwKICAgICAgICAi44GN44Gb44GL44GIIChBbmRyb2lkKSIsCiAgICAgICAgImpwIOedgOODleODqSIsCiAgICAgICAgImpwIOatjOipnisiLAogICAgICAgICLmrYzoqZ5cMTAiLAogICAgICAgICLjgqLjg4sg5q2M6KmeIiwKICAgICAgICAianDlj5bmlL7poYwgKHdpbGxjb20pIiwKICAgICAgICAiVG8gTE9WReOCiyIsCiAgICAgICAgImpw5Y+W5pS+6aGMKEFuZHJvaWQpIiwKICAgICAgICAi5aSn55u45pKyIiwKICAgICAgICAi576O5Lq6IOWkqeawlyIsCiAgICAgICAgIkFuZHJvaWTjgqLjg5fjg6oiCg==</text>
@@ -641,9 +641,9 @@
       </register>
     </registers>
     <search>
-      <last-search>上書き</last-search>
+      <last-search>uniqueCode</last-search>
       <last-offset />
-      <last-pattern>上書き</last-pattern>
+      <last-pattern>uniqueCode</last-pattern>
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>1</last-dir>
@@ -671,7 +671,10 @@
         <entry>isDrmFreeEnable</entry>
         <entry>change</entry>
         <entry>setSalesReport</entry>
+        <entry>resolver</entry>
         <entry>上書き</entry>
+        <entry>olditem</entry>
+        <entry>uniqueCode</entry>
       </history-search>
       <history-cmd>
         <entry>%s/TMP_FILE_PATH/BODY_FILE_PATH/</entry>
