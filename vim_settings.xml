@@ -339,6 +339,13 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" timestamp="1540368224496">
         <mark key="'" line="316" column="64" />
       </file>
+      <file name="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" timestamp="1573578167566">
+        <mark key="'" line="59" column="5" />
+        <mark key="[" line="82" column="5" />
+        <mark key="]" line="83" column="5" />
+        <mark key="^" line="83" column="5" />
+        <mark key="." line="83" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/SideBar.vue" timestamp="1532450790219">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="46" column="35" />
@@ -478,13 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
-      <jump line="91" column="48" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
-      <jump line="92" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
-      <jump line="93" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
-      <jump line="94" column="53" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
-      <jump line="434" column="25" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
-      <jump line="435" column="51" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemExtractor.java" />
       <jump line="37" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemImporterImpl.java" />
       <jump line="44" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/BaseWmgItemImporter.java" />
       <jump line="45" column="62" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/BaseWmgItemImporter.java" />
@@ -578,19 +578,26 @@
       <jump line="114" column="44" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
       <jump line="85" column="30" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="59" column="5" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>copyrighttext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMgQVdTIFNBTSBDTEkKJCBwaXAgaW5zdGFsbCAtLXVzZXIgLS11cGdyYWRlIGF3c2NsaQojIyBsb2NhbCDnq4vjgaHkuIrjgZIKJCBzYW0gbG9jYWwgc3RhcnQtYXBpIC10IGdlbmVyYXRlZC9zYW0ueWFtbAojIyDjgqTjg7Pjg4bjgrDjg6zjg7zjgrfjg6fjg7Pjg4bjgrnjg4gKJCAuL2dyYWRsZXcgaW50ZWdyYXRpb25UZXN0Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0KGRlc2NyaXB0aW9uID0gImNvbnZlcnQgYSBqYXZhIG1vZGVsIHdpdGggYW4gZW51bSBhbmQgYSBkZWZhdWx0IHZhbHVlIikKICAgIHB1YmxpYyB2b2lkIGNvbnZlcnRlclRlc3QoKSB7CiAgICAgICAgZmluYWwgU3RyaW5nU2NoZW1hIGVudW1TY2hlbWEgPSBuZXcgU3RyaW5nU2NoZW1hKCk7CiAgICAgICAgZW51bVNjaGVtYS5zZXRFbnVtKEFycmF5cy5hc0xpc3QoIlZBTFVFMSIsICJWQUxVRTIiLCAiVkFMVUUzIikpOwogICAgICAgIGVudW1TY2hlbWEuc2V0RGVmYXVsdCgiVkFMVUUyIik7CiAgICAgICAgZmluYWwgU2NoZW1hIG1vZGVsID0gbmV3IFNjaGVtYSgpLnR5cGUoIm9iamVjdCIpLmFkZFByb3BlcnRpZXMoIm5hbWUiLCBlbnVtU2NoZW1hKTsKCiAgICAgICAgZmluYWwgRGVmYXVsdENvZGVnZW4gY29kZWdlbiA9IG5ldyBTd2lmdDRDb2RlZ2VuKCk7CiAgICAgICAgT3BlbkFQSSBvcGVuQVBJID0gVGVzdFV0aWxzLmNyZWF0ZU9wZW5BUElXaXRoT25lU2NoZW1hKCJzYW1wbGUiLCBtb2RlbCk7CiAgICAgICAgY29kZWdlbi5zZXRPcGVuQVBJKG9wZW5BUEkpOwogICAgICAgIGZpbmFsIENvZGVnZW5Nb2RlbCBjbSA9IGNvZGVnZW4uZnJvbU1vZGVsKCJzYW1wbGUiLCBtb2RlbCk7CgogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoY20udmFycy5zaXplKCksIDEpOwoKICAgICAgICBmaW5hbCBDb2RlZ2VuUHJvcGVydHkgZW51bVZhciA9IGNtLnZhcnMuZ2V0KDApOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoZW51bVZhci5iYXNlTmFtZSwgIm5hbWUiKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGVudW1WYXIuZGF0YVR5cGUsICJTdHJpbmciKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGVudW1WYXIuZGF0YXR5cGVXaXRoRW51bSwgIk5hbWUiKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGVudW1WYXIubmFtZSwgIm5hbWUiKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGVudW1WYXIuZGVmYXVsdFZhbHVlLCAiLlZBTFVFMiIpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoZW51bVZhci5iYXNlVHlwZSwgIlN0cmluZyIpOwogICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKGVudW1WYXIuaXNFbnVtKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBsb2NhbCDnq4vjgaHkuIrjgZIK</text>
