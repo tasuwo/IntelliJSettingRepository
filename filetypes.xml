@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="CommandErrorInformation" type="Kotlin" />
-      <mapping pattern="axiosMock.js" type="PLAIN_TEXT" />
-      <mapping pattern=".commit_template" type="PLAIN_TEXT" />
-      <mapping pattern="avoid_folder_num_limit_target_labels" type="PLAIN_TEXT" />
-      <mapping pattern="label_list" type="PLAIN_TEXT" />
-      <mapping pattern=",gitignore" type="PLAIN_TEXT" />
       <mapping pattern="TestGeneralGeneralTrack.java" type="PLAIN_TEXT" />
+      <mapping pattern=".commit_template" type="PLAIN_TEXT" />
+      <mapping pattern="label_list" type="PLAIN_TEXT" />
+      <mapping pattern="avoid_folder_num_limit_target_labels" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="axiosMock.js" type="PLAIN_TEXT" />
+      <mapping pattern=",gitignore" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="vbs" type="PLAIN_TEXT" />
     </extensionMap>
