@@ -339,12 +339,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" timestamp="1540368224496">
         <mark key="'" line="316" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" timestamp="1573578167566">
-        <mark key="'" line="59" column="5" />
-        <mark key="[" line="82" column="5" />
-        <mark key="]" line="83" column="5" />
-        <mark key="^" line="83" column="5" />
-        <mark key="." line="83" column="5" />
+      <file name="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" timestamp="1573661272728">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="80" column="52" />
+        <mark key="]" line="80" column="52" />
+        <mark key="." line="80" column="52" />
+        <mark key="^" line="80" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/SideBar.vue" timestamp="1532450790219">
         <mark key="'" line="56" column="0" />
@@ -442,6 +442,12 @@
         <mark key="." line="323" column="77" />
         <mark key="^" line="323" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/Swift4Codegen.java" timestamp="1573661288778">
+        <mark key="[" line="558" column="67" />
+        <mark key="]" line="558" column="67" />
+        <mark key="." line="558" column="67" />
+        <mark key="^" line="558" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/api_client/TestImconvRgbConverter.java" timestamp="1536911155126">
         <mark key="'" line="338" column="47" />
         <mark key="[" line="10" column="0" />
@@ -485,10 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="13" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/WmgItemImporterImpl.java" />
-      <jump line="44" column="22" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/BaseWmgItemImporter.java" />
-      <jump line="45" column="62" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/wmg/BaseWmgItemImporter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/src/IMConv/deploy.sh" />
       <jump line="6" column="13" filename="$USER_HOME$/Documents/src/ddex/teichiku-delivery/src/main/java/jp/co/dwango/ddex/teichiku_delivery/v2/message/IgnoreColumns.java" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/src/ddex/teichiku-delivery/src/main/java/jp/co/dwango/ddex/teichiku_delivery/v2/message/IgnoreColumns.java" />
       <jump line="141" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -578,59 +580,63 @@
       <jump line="114" column="44" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
       <jump line="85" column="30" filename="$USER_HOME$/Documents/src/dam2018/importer/src/main/java/jp/dwango/dam/importer/domain/meta/haishinschedule/HaishinScheduleLine.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
-      <jump line="59" column="5" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="35" column="33" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>copyrighttext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGRlc2NyaXB0aW9uID0gImNvbnZlcnQgYSBqYXZhIG1vZGVsIHdpdGggYW4gZW51bSBhbmQgYSBkZWZhdWx0IHZhbHVlIikKICAgIHB1YmxpYyB2b2lkIGNvbnZlcnRlclRlc3QoKSB7CiAgICAgICAgZmluYWwgU3RyaW5nU2NoZW1hIGVudW1TY2hlbWEgPSBuZXcgU3RyaW5nU2NoZW1hKCk7CiAgICAgICAgZW51bVNjaGVtYS5zZXRFbnVtKEFycmF5cy5hc0xpc3QoIlZBTFVFMSIsICJWQUxVRTIiLCAiVkFMVUUzIikpOwogICAgICAgIGVudW1TY2hlbWEuc2V0RGVmYXVsdCgiVkFMVUUyIik7CiAgICAgICAgZmluYWwgU2NoZW1hIG1vZGVsID0gbmV3IFNjaGVtYSgpLnR5cGUoIm9iamVjdCIpLmFkZFByb3BlcnRpZXMoIm5hbWUiLCBlbnVtU2NoZW1hKTsKCiAgICAgICAgZmluYWwgRGVmYXVsdENvZGVnZW4gY29kZWdlbiA9IG5ldyBTd2lmdDRDb2RlZ2VuKCk7CiAgICAgICAgT3BlbkFQSSBvcGVuQVBJID0gVGVzdFV0aWxzLmNyZWF0ZU9wZW5BUElXaXRoT25lU2NoZW1hKCJzYW1wbGUiLCBtb2RlbCk7CiAgICAgICAgY29kZWdlbi5zZXRPcGVuQVBJKG9wZW5BUEkpOwogICAgICAgIGZpbmFsIENvZGVnZW5Nb2RlbCBjbSA9IGNvZGVnZW4uZnJvbU1vZGVsKCJzYW1wbGUiLCBtb2RlbCk7CgogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoY20udmFycy5zaXplKCksIDEpOwoKICAgICAgICBmaW5hbCBDb2RlZ2VuUHJvcGVydHkgZW51bVZhciA9IGNtLnZhcnMuZ2V0KDApOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoZW51bVZhci5iYXNlTmFtZSwgIm5hbWUiKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGVudW1WYXIuZGF0YVR5cGUsICJTdHJpbmciKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGVudW1WYXIuZGF0YXR5cGVXaXRoRW51bSwgIk5hbWUiKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGVudW1WYXIubmFtZSwgIm5hbWUiKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGVudW1WYXIuZGVmYXVsdFZhbHVlLCAiLlZBTFVFMiIpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoZW51bVZhci5iYXNlVHlwZSwgIlN0cmluZyIpOwogICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKGVudW1WYXIuaXNFbnVtKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBwLmdldERlZmF1bHQoKS50b1N0cmluZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBsb2NhbCDnq4vjgaHkuIrjgZIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JCBwaXAgaW5zdGFsbCAtLXVzZXIgLS11cGdyYWRlIGF3c2NsaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBBV1MgU0FNIENMSQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAiLiIgKyBlc2NhcGVUZXh0KHAuZ2V0RGVmYXVsdCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMg44OT44Or44OJICYg44Om44OL44OD44OI44OG44K544OICg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgoTW9kZWxVdGlscy5pc0ludGVnZXJTY2hlbWEocCkgfHwgTW9kZWxVdGlscy5pc051bWJlclNjaGVtYShwKSApIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBtaWRpbyDjgqTjg7Pjg53jg7zjgr/jg7wgXFvlu4PmraLkuojlrppcXQoKIyMg44OV44Kh44Kk44OrCgotIGAuL21pZGlvX2ltcG9ydGVyLnNoYAoKIyMg6IOM5pmvCgojIyDnm67nmoQKCi0gbWlkaW8g44GL44KJIHB1c2gg44GV44KM44Gf57Sg5p2QSUTjg7vmpb3mm7JJROODu+OCouODvOODhuOCo+OCueODiElE44Gu57SQ5LuY44GR44KSRELjgavmoLzntI3jgZnjgosKCiMjIOWHpueQhuWGheWuuQoKCg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBbbWlkaW8g44Kk44Oz44Od44O844K/44O8IFvlu4PmraLkuojlrppdXSgjbWlkaW8t44Kk44Oz44Od44O844K/44O8LeW7g+atouS6iOWumikKICAgICAgKiBb44OV44Kh44Kk44OrXSgj44OV44Kh44Kk44OrLTIpCiAgICAgICogW+iDjOaZr10oI+iDjOaZry0yKQogICAgICAqIFvnm67nmoRdKCPnm67nmoQtMikKICAgICAgKiBb5Yem55CG5YaF5a65XSgj5Yem55CG5YaF5a65LTIpCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBbU1RBUlMg44Os44Od44O844OI55So44OA44Oz44OXXSgjc3RhcnMt44Os44Od44O844OI55So44OA44Oz44OXKQogICAgICAqIFvjg5XjgqHjgqTjg6tdKCPjg5XjgqHjgqTjg6stOCkKICAgICAgKiBb6IOM5pmvXSgj6IOM5pmvLTgpCiAgICAgICogW+ebrueahF0oI+ebrueahC04KQogICAgICAqIFvlh6bnkIblhoXlrrldKCPlh6bnkIblhoXlrrktOCkK</text>
+        <text encoding="base64">IyBsb2NhbCDnq4vjgaHkuIrjgZIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBTVEFSUyDjg6zjg53jg7zjg4jnlKjjg4Djg7Pjg5cKCiMjIOODleOCoeOCpOODqwoKLSBgLi93b3JrNHN0YXJzL2RiZHVtcC5zaGAKCiMjIOiDjOaZrwoKLSDjgr3jg4vjg7zlkJHjgZHjgavjgIHlo7LjgorkuIrjgZLloLHlkYooV2Vi44Os44Od44O844OIKeOCkumAgeS/oeOBmeOCi+W/heimgeOBjOOBguOCiwogIC0gW+ips+e0sF0oaHR0cHM6Ly9hdGwuZHdhbmdvLmNvLmpwL2NvbmZsdWVuY2UvcGFnZXMvdmlld3BhZ2UuYWN0aW9uP3BhZ2VJZD0xNDQ1MjUxOTUpCi0gV2ViIOODrOODneODvOODiOOBruS9nOaIkOOBq+OBr+OAgURERXggREIg44Gu5oOF5aCx44GM5b+F6KaB44Gr44Gq44KLCgojIyDnm67nmoQKCi0gV2ViIOODrOODneODvOODiOS9nOaIkOOCt+OCueODhuODoOOBruOBn+OCgeOBq+OAgURERXggREIg44Gu44Oh44K/44OH44O844K/44KSIFMzIOOBq+OCouODg+ODl+ODreODvOODieOBmeOCiwoKIyMg5Yem55CG5YaF5a65CgotIHMzIChgZGRleC5pbi5kd2FuZ28uanAvbWV0YS9gKSDjgasgRERFeCBEQiDjga7jg4Djg7Pjg5fjgpLlh7rlipvjgZnjgosKCgo=</text>
+        <text encoding="base64">JCBwaXAgaW5zdGFsbCAtLXVzZXIgLS11cGdyYWRlIGF3c2NsaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXdzIHMzIHJtIHMzOi8vJHtURU1QTEFURV9VUExPQURfQlVDS0VUX05BTUV9L2phcnMvIC0tcmVjdXJzaXZlCg==</text>
+        <text encoding="base64">IyBBV1MgU0FNIENMSQo=</text>
       </register>
       <register name=":" type="4">
-        <text>split</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -679,6 +685,7 @@
         <entry>w</entry>
         <entry>noh</entry>
         <entry>split</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
