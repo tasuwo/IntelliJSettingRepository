@@ -339,12 +339,12 @@
       <file name="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/label_gate/BaseLabelGateItemImporter.java" timestamp="1540368224496">
         <mark key="'" line="316" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" timestamp="1573662220964">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="97" column="47" />
-        <mark key="." line="86" column="44" />
-        <mark key="^" line="86" column="44" />
+      <file name="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" timestamp="1573746841354">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="56" column="52" />
+        <mark key="]" line="56" column="57" />
+        <mark key="." line="56" column="57" />
+        <mark key="^" line="56" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/tsukinomito/front/src/components/SideBar.vue" timestamp="1532450790219">
         <mark key="'" line="56" column="0" />
@@ -442,10 +442,10 @@
         <mark key="." line="323" column="77" />
         <mark key="^" line="323" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/Swift4Codegen.java" timestamp="1573661987854">
-        <mark key="[" line="561" column="0" />
-        <mark key="]" line="561" column="0" />
-        <mark key="." line="561" column="0" />
+      <file name="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/Swift4Codegen.java" timestamp="1573746779190">
+        <mark key="[" line="558" column="68" />
+        <mark key="]" line="558" column="68" />
+        <mark key="." line="558" column="68" />
         <mark key="^" line="560" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/src/ddex/ddex-manage/src/test/java/jp/co/dwango/ddex/manage/api_client/TestImconvRgbConverter.java" timestamp="1536911155126">
@@ -491,11 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="104" column="28" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="1183" column="0" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="1098" column="30" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
-      <jump line="990" column="46" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="894" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="968" column="47" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
       <jump line="711" column="49" filename="$USER_HOME$/Documents/src/ddex/ddex-batch-importer/src/main/java/jp/co/dwango/ddex/batch_importer/profile/umgi/UmgiItemExtractor.java" />
@@ -591,19 +586,24 @@
       <jump line="85" column="44" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/sandbox/openapi-generator/modules/openapi-generator/src/test/java/org/openapitools/codegen/swift4/Swift4ModelEnumTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>converterBTest</text>
+        <text>VALUE2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGRlc2NyaXB0aW9uID0gImNvbnZlcnQgYSBqYXZhIG1vZGVsIHdpdGggYW4gbnVtYmVyIGVudW0gYW5kIGEgZGVmYXVsdCB2YWx1ZSIpCiAgICBwdWJsaWMgdm9pZCBjb252ZXJ0TnVtYmVyRGVmYXVsdFZhbHVlVGVzdCgpIHsKICAgICAgICBmaW5hbCBOdW1iZXJTY2hlbWEgZW51bVNjaGVtYSA9IG5ldyBOdW1iZXJTY2hlbWEoKTsKICAgICAgICBlbnVtU2NoZW1hLnNldEVudW0oQXJyYXlzLmFzTGlzdChuZXcgQmlnRGVjaW1hbCgxMCksIG5ldyBCaWdEZWNpbWFsKDEwMCksIG5ldyBCaWdEZWNpbWFsKDEwMDApKSk7CiAgICAgICAgZW51bVNjaGVtYS5zZXREZWZhdWx0KG5ldyBCaWdEZWNpbWFsKCgxMDApKSk7CiAgICAgICAgZmluYWwgU2NoZW1hIG1vZGVsID0gbmV3IFNjaGVtYSgpLnR5cGUoIm9iamVjdCIpLmFkZFByb3BlcnRpZXMoIm5hbWUiLCBlbnVtU2NoZW1hKTsKCiAgICAgICAgZmluYWwgRGVmYXVsdENvZGVnZW4gY29kZWdlbiA9IG5ldyBTd2lmdDRDb2RlZ2VuKCk7CiAgICAgICAgT3BlbkFQSSBvcGVuQVBJID0gVGVzdFV0aWxzLmNyZWF0ZU9wZW5BUElXaXRoT25lU2NoZW1hKCJzYW1wbGUiLCBtb2RlbCk7CiAgICAgICAgY29kZWdlbi5zZXRPcGVuQVBJKG9wZW5BUEkpOwogICAgICAgIGZpbmFsIENvZGVnZW5Nb2RlbCBjbSA9IGNvZGVnZW4uZnJvbU1vZGVsKCJzYW1wbGUiLCBtb2RlbCk7CgogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoY20udmFycy5zaXplKCksIDEpOwo=</text>
+      <register name="0" type="4">
+        <text>toEnumVarName(</text>
       </register>
       <register name="1" type="4">
         <text>1);
@@ -661,11 +661,10 @@
       <last-replace encoding="base64">IHs=</last-replace>
       <last-substitute>;{</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>report</entry>
         <entry>mail</entry>
         <entry>messagefactory</entry>
         <entry>message</entry>
